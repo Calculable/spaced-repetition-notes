@@ -2,7 +2,7 @@
 ::5::
 
 - Es gibt keine bestimmte Reihenfolge
-- Typs müssen konform zum `Hashable`-Protokol sein
+- Typs müssen konform zum `Hashable`-Protokoll sein
 - Im Gegensatz zu den Arrays gibt es keine Shorthand-Form.
 
 ```swift
