@@ -1,7 +1,7 @@
 # Initializer
 ::9::
 
-##  Designated Initializer
+## Designated Initializer
 - Initializiert alle Properties
 - Beachte: Man kann mehrere haben:
 
@@ -57,7 +57,7 @@ struct Animal {
 
 > You can delegate from init? to init! and vice versa, and you can override init? with init! and vice versa. You can also delegate from init to init!, although doing so will trigger an assertion if the init! initializer causes initialization to fail.
 
-##  Required Initializers 
+##  Required Initializers
 
 - Müssen von jeder Subklasse implementiert werden
 

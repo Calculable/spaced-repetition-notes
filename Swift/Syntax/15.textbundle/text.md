@@ -1,4 +1,3 @@
-
 # Fighter Jet Problem
 ::15::
 

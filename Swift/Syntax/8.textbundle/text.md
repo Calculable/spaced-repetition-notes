@@ -1,4 +1,4 @@
-#  Auto Closure / Escaping Closure
+# Auto Closure / Escaping Closure
 ::8::
 
 ## Auto Closure
