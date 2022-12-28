@@ -22,8 +22,6 @@ for thing in things {
 ```
  
 
-![][image-1]
 
 
 
-[image-1]:	assets/Konzeptzeichnung_UIKit.drawio.png
