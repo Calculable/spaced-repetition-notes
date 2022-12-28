@@ -1,5 +1,4 @@
-
-# 18 - Regex
+# Regex
 ::21.1::
 
 - Regex Literals erstellen (Vorteil?)

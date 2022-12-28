@@ -25,15 +25,17 @@ struct Laptop : Product {
 
 ## Problem: Protokoll mit Associated Type kann nicht selbst als Typ verwendet werden
 
-Jetzt hat man jedoch ein Problem. Folgende Dinge sind jetzt nicht mehr möglich:
+Jetzt hat man jedoch ein Problem. Folgende Dinge sind jetzt nicht mehr möglich (Swift vor 5.7):
 
 ```swift
-let cache: [MyProtocol] //Fehler
+let cache: [any MyProtocol] //Fehler
 struct MyItem {
-    let item: MyProtocol //Fehler
+    let item: any MyProtocol //Fehler
     let expiryDate: Date
     ...
 }
 ```
 
 Die Lösung für dieses Problem ist Type Erasure
+
+Mit Swift 5.7 wurde dieser Verhalten gelockert und es tauchen weniger Fehlermeldungen auf
