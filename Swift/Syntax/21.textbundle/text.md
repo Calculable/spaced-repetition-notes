@@ -1,4 +1,4 @@
-# Eigener Error-Typ
+# Eigener Error-Typ 💥
 ::21::
 
 ##  Eigene Errors definieren
@@ -20,3 +20,6 @@ func canThrowAnError() throws -> String { //beachte: throws
 }
 ```
 
+## Zusammenfassung
+Eigene Errors definieren
+Error werfen

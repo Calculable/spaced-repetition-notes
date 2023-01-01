@@ -1,4 +1,4 @@
-# Primary Associated Types
+# Primary Associated Types 🥇
 ::18.1::
 Folgender Code ist nicht erlaubt:
 
@@ -43,3 +43,6 @@ class  MusicPlayer {
 	func  play<Playlist: Collection<Track>>(_  playlist: Playlist) { /* ... */ }
 }
 ```
+
+## Zusammenfassung
+Wozu ist das gut?

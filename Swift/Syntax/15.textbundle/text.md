@@ -1,4 +1,4 @@
-# Fighter Jet Problem
+# Fighter Jet Problem 🛩️
 ::15::
 
 ## Beispiel
@@ -46,8 +46,9 @@ destroy(red5) //bye!
 
 
 ## Fazit
-
 - Wenn man die Methode in das Protokoll aufnimmt, dann kann die Extension von der Klasse überschrieben werden. Ansonsten nicht.
 
-
+## Zusammenfassung
+Was ist das Problem?
+Was ist das Fazit?
 

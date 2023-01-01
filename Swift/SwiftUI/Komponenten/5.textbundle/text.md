@@ -1,4 +1,4 @@
-# Button
+# Button 🧩
 ::5::
 
 ## Beispiele
@@ -16,3 +16,6 @@ Button {
     Label("Edit", systemImage: "pencil")
 }
 ```
+
+## Zusammenfassung
+Wie macht man einen Button mit einem speziellen Label (z.B: SF Symbol) 

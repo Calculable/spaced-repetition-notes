@@ -1,4 +1,4 @@
-# Documents Directory
+# Documents Directory 📑
 ::28::
 
 ## Document Directory Pfad auslesen
@@ -39,4 +39,7 @@ do {
 - Die App’s laufen in einer Sandbox
 - Wenn die App gelöscht wird, dann wird auch der Inhalt des Documents-Directory gelöscht.
 
-
+## Zusammenfassung
+- Pfad auslesen
+- Pfad ergänzen
+- Dateien lesen und schreiben

@@ -1,4 +1,4 @@
-# Shape
+# Shape 🍏
 ::16::
 
 ## Beispiel
@@ -30,3 +30,6 @@ Triangle()
 > In the eyes of SwiftUI 0 degrees is not straight upwards, but instead directly to the right.
 
 > Shapes measure their coordinates from the bottom-left corner rather than the top-left corner, which means SwiftUI goes the other way around from one angle to the other. This is, in my not very humble opinion, extremely alien.
+
+## Zusammenfassung
+- Wir wird eine Shape erstellt?

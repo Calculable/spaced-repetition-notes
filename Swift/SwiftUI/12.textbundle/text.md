@@ -1,4 +1,4 @@
-# unterschiedliche Views zurückgeben
+# unterschiedliche Views zurückgeben 🪟
 ::12::
 
 ## Lösung 1: Ternary Conditional Operator verwenden
@@ -29,3 +29,7 @@ return AnyView(Text("Hello, World!"))
 ```
 
 Sehr unperformant
+
+## Zusammenfassung
+- 4 Möglichkeiten um unterschiedliche Views zurückzugeben
+- Wie funktioniert die Variante mit dem ViewBuilder?

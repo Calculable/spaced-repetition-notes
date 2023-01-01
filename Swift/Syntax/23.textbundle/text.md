@@ -1,4 +1,4 @@
-# Do-Catch
+# Do-Catch 🧯
 ::23::
 
 ```swift
@@ -28,3 +28,8 @@ catch VendingMachineError.insufficientFunds(let coinsNeeded) {
     //...
 }
 ```
+
+## Zusammenfassung
+Mehrere Errors
+Errors mit Parameter
+Auf Error-Inhalt zugreifen

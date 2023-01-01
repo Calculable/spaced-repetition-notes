@@ -1,4 +1,4 @@
-# Picker
+# Picker 🧩
 ::4::
 
 ```swift
@@ -11,5 +11,8 @@ Picker("Select your student", selection: $selectedStudent){
 
 Wenn man nicht `ForEach` verwendet, dann braucht jeder Eintrag einen `tag`
 ![][image-1]
+
+## Zusammenfassung
+Wie macht man einen Picker?
 
 [image-1]:	assets/Bildschirmfoto%202022-07-20%20um%2018.08.24.png

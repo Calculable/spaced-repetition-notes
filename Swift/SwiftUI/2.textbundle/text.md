@@ -1,4 +1,4 @@
-# ObservableObject
+# ObservableObject 🕵️
 ::2::
 
 ## Zweck
@@ -38,3 +38,9 @@ Man sollte es aufrufen BEVOR man etwas ändert. So kann Swift das UI analysieren
 @ObservedObject var user; //wird verwendet, wenn das Objekt an einer anderen Stelle verwendet wird
 ```
 
+## Zusammenfassung
+- Wie ist ein ObservableObject aufgebaut?
+- Wann verwendet man StateObject und wann ObservedObject?
+- Wann braucht man ObservableObjects (Klassen) statt Structs
+- Wie kann man Änderungen Manuell pushen?
+- Was wird oft gemeinsam mit dem ObservableObject Protokoll verwendet?

@@ -1,4 +1,4 @@
-# Auto Closure / Escaping Closure
+# Auto Closure / Escaping Closure 📞
 ::8::
 
 ## Auto Closure
@@ -25,3 +25,5 @@ Nicht immer empfohlen
 
 - Beispiel: Wir übergeben dem Initializer ein Closure. Dieses wird allerdings nicht direkt im initializer verwendet sondern an einer anderen Stelle. Deshalb wird es mit `@Escaping` annotiert.
 
+## Zusammenfassung
+Auto-closure, escaping Closure

@@ -1,4 +1,4 @@
-#  Protocol Associated Type
+#  Protocol Associated Type 📜
 ::18::
 
 ## Für was sind Protocol Associated Types?
@@ -39,3 +39,8 @@ struct MyItem {
 Die Lösung für dieses Problem ist Type Erasure
 
 Mit Swift 5.7 wurde dieser Verhalten gelockert und es tauchen weniger Fehlermeldungen auf
+
+
+## Zusammenfassung
+Anwendung
+Problem

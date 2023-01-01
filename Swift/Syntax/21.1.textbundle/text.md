@@ -1,4 +1,4 @@
-# Regex
+# Regex 🧿
 ::21.1::
 
 - Regex Literals erstellen (Vorteil?)
@@ -55,3 +55,7 @@ print(message.replacing("cat", with: "dog"))
 print(message.replacing(/[a-m]at/, with: "dog"))
 ```
 
+## Zusammenfassung
+Regex Literals (Vorteil?)
+Explizite Regex
+Weitere Möglichkeit um Regex zu erstellen?

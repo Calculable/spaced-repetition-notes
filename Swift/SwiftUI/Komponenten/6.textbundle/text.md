@@ -1,4 +1,4 @@
-# Alert
+# Alert 🧩
 ::6::
 
 ##  mit Boolean
@@ -28,3 +28,8 @@ struct ContentView: View {
     Button(user.id) { }
 }
 ```
+
+## Zusammenfassung
+- Wie macht man einen Alert mit Bool?
+- Wie macht man einen Alert mit Optional?
+- Wie ist ein Alert mit Buttons und Inhalt aufgebaut?

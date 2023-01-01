@@ -1,4 +1,4 @@
-# Closures
+# Closures 📞
 ::7::
 
 ## Syntax
@@ -32,3 +32,5 @@ numbers.sorted { $0 > $1 }
 
 > The code in a closure has access to things like variables and functions that were available in the scope where the closure was created, even if the closure is in a different scope when it’s executed
 
+## Zusammenfassung
+Syntax (unterschiedlich kompakte Schreibweisen)

@@ -1,4 +1,4 @@
-# App Bundle Ressourcen
+# App Bundle Ressourcen 🗂️
 ::24::
 
 ```swift
@@ -10,3 +10,6 @@ if let fileURL = Bundle.main.url(forResource: "some-file", withExtension: "txt")
 ```
 
 Achtung: `try?` ist evt. nicht die beste Idee
+
+## Zusammenfassung
+File vom App Bundle laden

@@ -1,4 +1,4 @@
-# Textfeld
+# Textfeld 🧩
 ::3::
 
 ##  Beispiel für Zahlen
@@ -12,3 +12,6 @@ TextField("Amount", value: $checkAmount, format: .currency(code: Locale.current.
 ```swift
 TextField("Github Username", text: $username)
 ```
+
+## Zusammenfassung
+Wie macht man ein Textfeld? (numerisch oder mit Text)

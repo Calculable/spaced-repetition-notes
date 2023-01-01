@@ -1,4 +1,4 @@
-# Try
+# Try ⚠️
 ::22::
 
 ## Try = Propagieren
@@ -26,3 +26,6 @@ Vor allem dann, wenn man weiss dass kein Fehler auftreten kann
 let photo = try! loadImage(atPath: "./Resources/John Appleseed.jpg")
 ```
 
+
+## Zusammenfassung
+Try, Try?, Try!

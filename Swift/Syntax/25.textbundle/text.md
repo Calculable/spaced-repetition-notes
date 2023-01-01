@@ -1,4 +1,4 @@
-# Generics
+# Generics 🎉
 ::25::
 
 ##  Generische Funktion
@@ -25,3 +25,6 @@ var possibleInteger: OptionalValue<Int> = .some(100)
 
 ## Generic Contraints
 Siehe separates Kapitel
+
+## Zusammenfassung
+Generische Funktionen, Klassen, Structs, Enums

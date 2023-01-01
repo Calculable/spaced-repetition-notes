@@ -1,4 +1,4 @@
-# Properties
+# Properties ℹ️
 ::11::
 
 ## Computed Properties / Setter- und Getter
@@ -51,3 +51,6 @@ class SomeClass {
     class var overrideableComputedTypeProperty: Int = 107
 }
 ```
+
+## Zusammenfassung
+Computed, Setter/Getter, Observed, Lazy, Type Properties

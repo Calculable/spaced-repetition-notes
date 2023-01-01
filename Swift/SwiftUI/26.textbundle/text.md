@@ -1,4 +1,4 @@
-# Encoding / Decoding
+# Encoding / Decoding 📠
 ::26::
 
 ## Codierbares Model
@@ -21,3 +21,6 @@ let data = try JSONEncoder().encode(user)
 ```swift
 let decodedItems = try JSONDecoder().decode([ExpenseItem].self, from: savedItems)
 ```
+
+## Zusammenfassung
+- JSON encodieren und decodieren

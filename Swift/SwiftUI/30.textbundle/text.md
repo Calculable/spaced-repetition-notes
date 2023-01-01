@@ -1,4 +1,4 @@
-# CoreData: Fetch Request
+# CoreData: Fetch Request 🐶
 ::30::
 
 ##  Sort Descriptor
@@ -21,3 +21,6 @@
 ```swift
 NSPredicate(format: "universe == %@", "Star Wars"))
 ```
+
+## Zusammenfassung
+- Wie macht man einen Fetch Request (mit Sortierung und Filterung)?

@@ -1,4 +1,4 @@
-# Sets
+# Sets ⭕️
 ::5::
 
 - Es gibt keine bestimmte Reihenfolge
@@ -10,3 +10,7 @@ var letters = Set<Character>()
 var favoriteGenres: Set<String> = ["Rock", "Classical", "Hip hop"]
 ```
 
+## Zusammenfassung
+Definieren
+Zuweisen
+Protokollanforderungen

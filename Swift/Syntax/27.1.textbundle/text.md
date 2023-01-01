@@ -1,4 +1,4 @@
-# Some / Opaque parameter declarations
+# Some / Opaque parameter declarations 🚗
 ::27.1::
 
 ## Einordnung
@@ -46,3 +46,7 @@ Mit `any` kann sich die Implementation jedoch zur Laufzeit verändern
 
 - Any / Existential Type (Unterschiede)
 - Es ist performanter als „any“, weil Swift beim Kompilieren mehrere Versionen dieser Funktion erstellen kann
+
+## Zusammenfassung
+Anwendung / wie hätte man es früher gemacht?
+Unterschiede zu Any?

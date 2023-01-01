@@ -1,4 +1,4 @@
-# Unterschiede Klasse und Struct
+# Unterschiede Klasse und Struct 🎭
 ::10::
 
 ##  Klassen
@@ -16,3 +16,6 @@
 - Structs werden als Kopie weitergegeben
 - Können keine Deinitializers haben
 - Bei Konstanten Structs kann man die Variabeln nicht verändern.
+
+## Zusammenfassung
+Vererbung, Initializer, Referenz, Konstanten

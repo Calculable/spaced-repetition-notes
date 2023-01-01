@@ -1,4 +1,4 @@
-# Transition
+# Transition 🐰
 ::23::
 
 ```swift
@@ -7,3 +7,6 @@ if isShowingRed {
 		.transition(.asymmetric(insertion: .scale, removal: .opacity))
 }
 ```
+
+## Zusammenfassung
+(ohne Details)

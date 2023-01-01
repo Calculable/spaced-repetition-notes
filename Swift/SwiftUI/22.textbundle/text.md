@@ -1,4 +1,4 @@
-# Animation
+# Animation 🚁
 ::22::
 
 ##  Variante 1: Animation an die View Binden
@@ -30,3 +30,8 @@ withAnimation(.interpolatingSpring(stiffness: 5, damping: 1)) {
     animationAmount += 360
 }
 ```
+
+## Zusammenfassung
+- Spezifischer Code animieren
+- Immer animieren, wenn sich einen Variable ändert
+- (ohne Details)

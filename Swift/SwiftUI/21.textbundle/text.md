@@ -1,4 +1,4 @@
-# Accessibility
+# Accessibility 🦮
 ::21::
 
 ## Beschreiben, was auf einem Bild ist
@@ -62,3 +62,12 @@ Beispiel: Differentiate without Color.
 ```swift
 @Environment(\.accessibilityDifferentiateWithoutColor) var differentiateWithoutColor
 ```
+
+## Zusammenfassung
+- Beschreiben was auf einem Bild ist (2 Möglichkeiten)
+- Im ScreenReader ausblenden
+- Kennzeichnen, dass etwas ein Button ist
+- Bild als derokartiv kennzeichnen
+- Kinder gruppieren
+- Kinder ignorieren
+- Wichtige Environment properties auslesen: z.B. differenciateWithoutColor

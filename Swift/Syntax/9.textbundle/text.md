@@ -1,4 +1,4 @@
-# Initializer
+# Initializer 🛫
 ::9::
 
 ## Designated Initializer
@@ -70,3 +70,11 @@ class SomeClass {
 ```
 
 `required` wird dann auch bei der Implementation in der Subklasse geschrieben, dafür braucht man das `override` nicht mehr
+
+## Zusammenfassung
+Designated
+Convenience
+Override
+Failable
+Required
+Wann wird der super-init aufgerufen?

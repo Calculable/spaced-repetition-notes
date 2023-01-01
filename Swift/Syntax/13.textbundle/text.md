@@ -1,4 +1,4 @@
-# Enums
+# Enums 🪸
 ::13::
 
 ## Mit Typextension
@@ -38,3 +38,7 @@ case let .failure(message):
     print("Failure...  \(message)")
 }
 ```
+
+## Zusammenfassung
+Mit Typ-Extension
+Mit Associated Value

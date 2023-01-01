@@ -1,4 +1,4 @@
-# UserDefaults
+# UserDefaults 💾
 ::25::
 
 ## Werte speichern
@@ -30,3 +30,6 @@ UserDefaults.standard.integer(forKey: "Tap")
 - Der String Name ist optional
 - Nur für kleine, primitive Daten
 
+## Zusammenfassung
+- Mit Property Wrapper
+- Ohne Property Wrapper

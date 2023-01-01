@@ -1,4 +1,4 @@
-# Access Control
+# Access Control ✋
 ::28::
 
 ## Syntax
@@ -22,3 +22,6 @@ private func somePrivateFunction() {}
 - Internal: (Default) Zugriff innerhalb des Moduls und in den tests
 - File Private: Zugriff innerhalb des gleichen Files
 - Private: Zugriff innerhalb der gleichen Enclosing Declaration
+
+## Zusammenfassung
+Welche Arten gibt es?

@@ -1,4 +1,4 @@
-# Funktionen
+# Funktionen 🤖
 ::6::
 
 ## Funktion definieren und aufrufen
@@ -48,4 +48,8 @@ modifyArray(&array)
 
 ```
 
-
+## Zusammenfassung
+Mit und ohne Label
+Default Parameter
+Varadic Parameter
+In-Out-Parameters

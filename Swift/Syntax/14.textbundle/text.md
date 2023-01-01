@@ -1,4 +1,4 @@
-# Protocols
+# Protocols 📜
 ::14::
 
 ```swift
@@ -9,3 +9,8 @@ protocol ExampleProtocol {
 	static var someTypeProperty: Int { get set } //beachte: nicht "class"
 }
 ```
+
+## Zusammenfassung
+Initializer
+Property mit Setter und Getter
+Funktionen (z.B. Mutating)

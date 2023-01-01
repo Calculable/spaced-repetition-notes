@@ -1,4 +1,4 @@
-# Geometry Reader
+# Geometry Reader 📐
 ::14::
 
 ## Beispiel
@@ -28,3 +28,8 @@ geo.frame(in: .global).midX
 ```swift
 geo.frame(in: .local).midX
 ```
+
+## Zusammenfassung
+- Wie funktioniert GeoReader
+- Wie kann man die Grösse auslesen
+- Wie kann man absolute und relative Positionen auslesen?

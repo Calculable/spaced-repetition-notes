@@ -1,4 +1,4 @@
-# Sheets
+# Sheets 📃
 ::18::
 
 ## Anzeigen: mit Boolean
@@ -44,3 +44,8 @@ Button("Dismiss") {
     dismiss()
 }
 ```
+
+## Zusammenfassung
+Wie macht man ein Sheet mit Boolean?
+wie macht man ein Sheet mit Optional?
+Wie „dismisst“ man ein Sheet?

@@ -1,4 +1,4 @@
-# Type Erasure
+# Type Erasure ❎
 ::17::
 
 ## Für was braucht man Type Erasure?
@@ -62,6 +62,9 @@ let cache: [AnyCachable<String>] = [AnyCachable("Hello"), AnyCachable("World")]
 ```
 
 
-
+## Zusammenfassung
+Zweck
+Vordefinierte Any-Typen anwenden
+Unterschied zu Any/AnyObject
 
 [1]:	https://robnapier.net/erasure

@@ -1,4 +1,4 @@
-# Custom Modifier
+# Custom Modifier 🖌️
 ::13::
 
 ## Definieren
@@ -38,5 +38,7 @@ Text("Hello World")
     .titleStyle()
 ```
 
-
-
+## Zusammenfassung
+- Wie schreibt man einen Custom Modifier?
+- CustomModifier auf die View anwenden
+- Wie schreibt man die Extension um den Custom modifier einfacher zu verwenden?

@@ -1,4 +1,4 @@
-# Main Actor
+# Main Actor 🤴
 ::30::
 
 - Es geht darum, dass alle Änderungen, die eine Auswirkung auf das UI haben, im Main Actor geschehen müssen
@@ -10,3 +10,9 @@ await MainActor.run {
     // your work here
 }
 ```
+
+- Man kann auch Funktionen oder Klassen mit `@MainActor` auszeichnen
+
+## Zusammenfassung
+Zweck / Anwendungsfall
+Aufruf

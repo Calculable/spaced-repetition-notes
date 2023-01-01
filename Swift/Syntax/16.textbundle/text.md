@@ -1,4 +1,4 @@
-# Extensions
+# Extensions 👁️
 ::16::
 
 ## Beispiel
@@ -42,4 +42,8 @@ extension Fighter {
 
 z.B. `Bundle+Ext.swift`
 
-
+## Zusammenfassung
+Beispiel
+Protokolle implementieren
+Protocol Extensions
+Filename

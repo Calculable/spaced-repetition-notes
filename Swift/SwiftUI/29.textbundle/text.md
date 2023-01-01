@@ -1,4 +1,4 @@
-# CoreData: Grundkonzepte
+# CoreData: Grundkonzepte 📟
 ::29::
 
 ##  Grund-Konzepte
@@ -35,3 +35,8 @@ if moc.hasChanges {
 moc.delete(book)
 //kontext speichern
 ```
+
+## Zusammenfassung
+Protokolle von Managed Objects
+Save
+Delete 

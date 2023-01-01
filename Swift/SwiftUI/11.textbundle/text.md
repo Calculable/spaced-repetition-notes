@@ -1,4 +1,4 @@
-# Navigation View
+# Navigation View 🧭
 ::11::
 
 ## Beispiel
@@ -32,3 +32,8 @@ NavigationLink {
 	Text("Hello, World!")
 }
 ```
+
+## Zusammenfassung
+Title
+Display Mode
+Navigation Link

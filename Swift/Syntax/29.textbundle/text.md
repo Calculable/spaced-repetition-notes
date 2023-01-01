@@ -1,4 +1,4 @@
-# Async Await
+# Async Await ⏰
 ::29::
 
 ## Für was braucht man Asynchrone Methoden?
@@ -77,3 +77,10 @@ let everything = await [games, players, scores]
 ## Gleichnamige Sync- und Async-Funktionen
 
 > If you have async and synchronous functions that can be called in the same way, Swift will prefer whichever one matches your current context – if the call site is currently async then Swift will call the async function, otherwise it will call the synchronous function.
+
+## Zusammenfassung
+Zweck
+Syntax asynchrone Funktion
+Aufruf: von async Code, von sync code, von SwiftUI
+Mehrere Funktionen paralell ausführen
+Naming-Convention

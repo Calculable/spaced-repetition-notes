@@ -1,4 +1,4 @@
-# Opaque Return Tye
+# Opaque Return Types 🚗
 ::27::
 
 ##  Beispiel
@@ -16,3 +16,8 @@ func flip<T: Shape>(_ shape: T) -> some Shape {
 ## Wozu ist das gut?
 
 Wenn man einfach nur das Protokoll zurückgeben würde, dann wäre zum Beispiel `protoFlip(protoFlip(smallTriange))` nicht möglich, weil der Compiler nicht den Typ des ersten Results bestimmen kann (T), ohne dass er den Code ausführen würde.
+
+
+## Zusammenfassung
+Anwendung
+Zweck

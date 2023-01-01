@@ -1,4 +1,4 @@
-# EnvironmentObject
+# EnvironmentObject 🌳
 ::19::
 
 ##  EnvironmentObjects sind ObservableObjects
@@ -24,3 +24,7 @@ VStack {
 ```swift
 @EnvironmentObject var user: User
 ```
+
+## Zusammenfassung
+- Wie erstellt man ein EnvironmentObject (Annotation) und gibt dieses an die Subviews weiter?
+- Wie greifen die Subviews auf das Environment-Objekt z

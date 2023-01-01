@@ -1,4 +1,4 @@
-# Layout
+# Layout 🟪
 ::17::
 
 ## Three Steps
@@ -47,3 +47,10 @@ if sizeClass == .compact {
 }
 ```
 
+## Zusammenfassung
+- Nach welchen 3 Regeln werden die UI’s aufgebaut?
+- Was bedeutet Layout-Neutral?
+- Wie positioniert man eine View Absolut?
+- Wie positioniert man eine View relativ?
+- Was ist eine Auswirkung, wenn man es absolut positioniert?
+- Wie list man die Grössenklasse des Gerätes aus?

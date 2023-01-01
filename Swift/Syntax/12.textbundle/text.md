@@ -1,4 +1,4 @@
-# Property Wrapper
+# Property Wrapper 📦
 ::12::
 
 ## Wie funktionieren Property Wrapper?
@@ -42,3 +42,6 @@ struct User {
 }
 ```
 
+## Zusammenfassung
+Zweck
+Custom Property Wrapper (nur Konzept)

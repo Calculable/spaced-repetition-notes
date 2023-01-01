@@ -1,4 +1,4 @@
-# Switch
+# Switch ↪️
 
 ## Switch mit Pattern Matching
 
@@ -21,7 +21,6 @@ for thing in things {
 }
 ```
  
-
-
-
+## Zusammenfassung
+Bestimmer Wert, Typ oder Muster matchen
 

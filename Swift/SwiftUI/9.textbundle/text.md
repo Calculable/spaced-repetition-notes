@@ -1,4 +1,4 @@
-# Custom Components
+# Custom Components 🧩
 ::9::
 
 ## Ohne `@Binding`
@@ -43,4 +43,6 @@ struct PushButton: View {
 PushButton(title: "Remember Me", isOn: .constant(true))
 ```
 
-
+## Zusammenfassung
+- Custom Component ohne Binding
+- Custom Component mit Binding

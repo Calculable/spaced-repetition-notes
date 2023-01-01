@@ -1,4 +1,4 @@
-# Dictionaries
+# Dictionaries 📕
 ::4::
 
 ```swift
@@ -9,3 +9,9 @@ var occupations = [
 let emptyDictionary = [String: Float]()
 occupations = [:]
 ```
+
+## Zusammenfassung
+Definieren
+Zuweisen
+Auslesen
+Hinzufügen

@@ -1,4 +1,4 @@
-# MVVM
+# MVVM 🏛️
 ::20::
 
 ## Beispiel
@@ -31,3 +31,6 @@ extension ContentView {
 @StateObject private var viewModel = ViewModel()
 ```
 
+## Zusammenfassung
+- Wie sieht ein einfaches ViewModel aus? Wie dessen Properties?, Wie die Access-Rechte?
+- Wie erstellt man ein ViewModel in der View?

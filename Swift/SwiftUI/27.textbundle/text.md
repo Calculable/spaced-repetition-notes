@@ -1,4 +1,4 @@
-# APIs
+# APIs 🌐
 ::27::
 
 ## Model (Beispiel)
@@ -37,3 +37,10 @@ func placeOrder() async throws {
 	let (data, _) = try await URLSession.shared.upload(for: request, from: jsonString)
 }
 ```
+
+## Zusammenfassung
+- Api-Zugrif: Die Funktion ist… ?
+- Protokoll für die Modelklassen
+- URL erzeugen
+- Daten empfangen
+- Daten hochladen

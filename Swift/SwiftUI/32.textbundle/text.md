@@ -1,4 +1,4 @@
-# Unit Testing
+# Unit Testing 👁️‍🗨️
 ::32::
 
 ## Testgerüst
@@ -27,3 +27,8 @@ XCTAssertEqual
 XCTAssertNoThorws
 XCTAssertThorsError
 ```
+
+## Zusammenfassung
+- Testklasse (Protokoll)
+- Einfache Testfunktion
+- Assert

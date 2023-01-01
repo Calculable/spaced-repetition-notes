@@ -1,4 +1,4 @@
-# Generic Constraints
+# Generic Constraints ✋
 ::26::
 
 ### Type Constraints
@@ -38,3 +38,8 @@ extension Container {
 }
 ```
 (Vermutlich wird diese Funktion jetzt nur für Container mit dem generischen Typ `Int` hinzugefügt)
+
+## Zusammenfassung
+Type Constraints
+Contextual Where Clauses
+Contextual Extension

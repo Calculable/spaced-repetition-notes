@@ -1,4 +1,4 @@
-# Path
+# Path 🖊️
 ::15::
 
 ```swift
@@ -15,5 +15,8 @@ Path { path in
 
 (entweder fill oder stroke…)
 ![][image-1]
+
+## Zusammenfassung
+- Wie wird Path verwendet?
 
 [image-1]:	assets/Bildschirmfoto%202022-07-27%20um%2015.59.22.png

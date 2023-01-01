@@ -1,4 +1,4 @@
-# Precondition / Assertion / Fatal Error
+# Precondition / Assertion / Fatal Error 🚔
 ::24::
 
 ## Precondition (for Production)
@@ -34,3 +34,5 @@ fatalError("Could not load start.txt from bundle.")
 ```
 
 
+## Zusammenfassung
+Precondition, Assertion, Fatal Error

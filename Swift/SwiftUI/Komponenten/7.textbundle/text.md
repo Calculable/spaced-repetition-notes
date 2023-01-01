@@ -1,4 +1,4 @@
-# Image
+# Image 🧩
 ::7::
 
 ## Default-Verhalten
@@ -41,7 +41,9 @@ Es gibt aber diverse Modifiiers, die man anwenden kann:
 ....
 ```
 
-
+## Zusammenfassung
+- Wie geht man sicher dass ein Bild nicht gequetscht wird und nicht über das Frame herausragt?
+- Async Image
 
 
 [image-1]:	assets/Bildschirmfoto%202022-07-26%20um%2012.51.37.png

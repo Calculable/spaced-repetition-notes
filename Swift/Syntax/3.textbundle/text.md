@@ -1,4 +1,4 @@
-# Arrays
+# Arrays 📚
 ::3::
 
 ```swift
@@ -8,3 +8,9 @@ shoppingList += ["Chocolate Spread", "Cheese", "Butter"]
 shoppingList.append("Flour") //alternativ
 shoppingList[4...5] = ["Bananas", "Apples"]
 ```
+
+## Zusammenfassung
+Definieren
+Zuweisen
+Auslesen
+Hinzufügen

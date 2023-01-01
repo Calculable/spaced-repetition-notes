@@ -1,4 +1,4 @@
-# UIKit-Funktionalität verwenden
+# UIKit-Funktionalität verwenden 🕸️
 ::31::
 
 ## Konzept-Zeichnung
@@ -74,5 +74,8 @@ struct PhotoPicker: UIViewControllerRepresentable {
   }
 }
 ```
+
+## Zusammenfassung
+(ohne Details) welche Komponenten spielen eine Rolle, wer hat welche Verantwortung, wie spielen sie zusammen?
 
 [image-1]:	assets/Konzeptzeichnung_UIKit.drawio.png

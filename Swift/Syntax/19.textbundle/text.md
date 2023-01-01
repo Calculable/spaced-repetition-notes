@@ -1,4 +1,4 @@
-# Delegation Pattern
+# Delegation Pattern 🍷
 ::19::
 
 ```swift
@@ -24,3 +24,6 @@ class DiceGame {
 ```
 
 Beachte: Das Delegate ist optional
+
+## Zusammenfassung
+Beispiel (z.B Dice Game)

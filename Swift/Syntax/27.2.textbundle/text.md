@@ -1,4 +1,4 @@
-# Any / Existential Type
+# Any / Existential Type 🌫️
 ::27.2::
 ## Um was geht es?
  - Wenn man ein Protokoll als Paramtertyp verwendet
@@ -39,3 +39,10 @@ a = ["a",  "b",  "c"]
 
 - Verwendet man „Some“, so erstellt der Compiler verschiedene Varianten der gleichen Methode, welche mittels `static dispatch` aufgerufen werden kann (schnell)
 - Bei Any hingegen wird dynamic dispatch verwendet (denn man weiss ja nicht, um welchen Typen es sich handelt) - das ist jedoch langsam
+
+## Zusammenfassung
+Zweck
+Anwenden
+Alternativen (2)
+Unterschiede zu den alternativen
+Warum gibt es die Performance-Probleme?
