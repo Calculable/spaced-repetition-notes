@@ -29,7 +29,6 @@ init() {
 ```
 
 ##  Zusammenfassung
-
 - Wie schreibt man eine View
 - wie beobachtet man Properties?
 - Wie kann man eine ganze View beobachten?
