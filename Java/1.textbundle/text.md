@@ -5,5 +5,5 @@
 - `private`: Sichtbar nur in der eigenen Klasse
 - `ohne Angabe`: Alle Klassen im selben Package. (Frage: Und Subklassen nicht?)
 
-##  Zusammenfassung
+## Zusammenfassung
 Welche Stufen gibt es?
