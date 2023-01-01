@@ -1,9 +1,14 @@
 # Textfeld
 ::3::
 
-##  Beispiel
+##  Beispiel für Zahlen
 ```swift
 TextField("Amount", value: $checkAmount, format: .currency(code: Locale.current.currencyCode ?? "USD"))
     .keyboardType(.decimalPad)
 ```
 
+## Beispiel für Text
+
+```swift
+TextField("Github Username", text: $username)
+```
