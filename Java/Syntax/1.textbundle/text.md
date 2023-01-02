@@ -1,4 +1,4 @@
-# Sichtbarkeiten 
+# Sichtbarkeiten 👓
 
 - `public`: Sichtbar für alle Klassen
 - `protected`: Sichtbare für Package und Subklassen
@@ -6,4 +6,5 @@
 - `ohne Angabe`: Alle Klassen im selben Package. (Frage: Und Subklassen nicht?)
 
 ## Zusammenfassung
-Welche Stufen gibt es?
+Zweck / Anwendungsfall
+Aufruf
