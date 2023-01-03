@@ -3,62 +3,52 @@
 ## Datenbanken
 
 **DDL (Data Definition Language) 🏛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/3.textbundle/text
 
 - Beispiel: Tabelle mit mehreren Attributen
 
 **DML: Delete ❌**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/10.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/10.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/10.textbundle/text
 
 Beispiel-Syntax
 
 **DML: Insert 📥**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/8.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/8.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/8.textbundle/text
 
 Beispiel-Syntax
 
 **DML: Update 🔄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/9.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/9.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/9.textbundle/text
 
 Beispiel-Syntax
 
 **Datenbank Paradigmen 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/4.textbundle/text
 
 - Welche Datenbank-Paradigmen gibt es?
 
 **Datenbank-Diagramme ✍️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/1.textbundle/text
 
 - 3 Arten von Datenbank-Diagrammen
 
 **Drei Normalformen 👆**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/2.textbundle/text
 
 - Welche drei Normalformen gibt es?
 
 **Indexe 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/5.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/5.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/5.textbundle/text
 
 - Vor- und Nachteile von Indexen
 
 **Joins 🧑‍🤝‍🧑**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/6.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/6.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/6.textbundle/text
 
 - Left Join, Full Outer Join, Inner Join, Right Join…
 
 **Select Statement (Postgres) 👆**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Datenbanken/7.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Datenbanken/7.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Datenbanken/7.textbundle/text
 
 - Wie ist ein Select aufgebaut?
 - Aggregatsfunktionen
@@ -66,8 +56,7 @@ Beispiel-Syntax
 ## Design Patterns
 
 **Adapter 🔌**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/9.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/9.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/9.textbundle/text
 
 - Zweck
 - Welche zwei Arten von Adapter gibt es?
@@ -75,123 +64,104 @@ Beispiel-Syntax
 - Vorteile / Nachteile
 
 **Bridge 🌉**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/18.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/18.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/18.textbundle/text
 
 - Zweck
 
 **Builder 👷‍♂️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/1.textbundle/text
 
 - Zweck
 - Beispiel-Code
 
 **Chain of Responsibility 🪖**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/20.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/20.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/20.textbundle/text
 
 - Zweck
 
 **Command 🪖**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/16.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/16.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/16.textbundle/text
 
 - Zweck
 
 **Composite 🪆**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/15.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/15.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/15.textbundle/text
 
 - Zweck
 
 **Decorator Pattern 🎗️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/6.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/6.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/6.textbundle/text
 
 - Zweck
 
 **Facade 🏠**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/2.textbundle/text
 
 - Zweck
 
 **Factory Method 🏭**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/11.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/11.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/11.textbundle/text
 
 - Zweck
 - Beispielcode
 
 **Observer 🥸**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/10.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/10.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/10.textbundle/text
 
 - Beispiel-Implementation
 
 **Prototype ⚪️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/17.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/17.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/17.textbundle/text
 
 - Zweck
 
 **Proxy 📞**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/19.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/19.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/19.textbundle/text
 
 - Zweck
 
 **Singleton 🍷**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/4.textbundle/text
 
 - Zweck
 - Beispielcode
 
 **State 🎛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/14.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/14.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/14.textbundle/text
 
 - Zweck
 
 **Strategy ♟️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/13.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/13.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/13.textbundle/text
 
 - Zweck
 
 **Template Method 📑**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/5.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/5.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/5.textbundle/text
 
 - Zweck
 - Beispielcode
 - Begriffe: Base, Hook
 
 **Visitor 👋**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/21.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/21.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Design%20Patterns/21.textbundle/text
 
 - Zweck
 
 ## Diagramme
 
 **Deployment Diagram ⌨️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diagramme/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diagramme/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diagramme/2.textbundle/text
 
 - Wie sieht eine Komponente aus?
 
 **ERD Model 💿**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diagramme/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diagramme/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diagramme/4.textbundle/text
 
 - Beispiel
 
 **Klassendiagramm 🔃**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diagramme/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diagramme/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diagramme/1.textbundle/text
 
 - Wie sieht die Box einer Klasse aus
 - Pfeil: Generalization
@@ -200,26 +170,22 @@ Beispiel-Syntax
 - Pfeil: Association
 
 **Object Diagram 💈**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diagramme/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diagramme/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diagramme/3.textbundle/text
 
 - Wie sieht eine Komponente aus?
 
 **Use Case Diagram 🙋‍♂️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diagramme/5.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diagramme/5.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diagramme/5.textbundle/text
 
 - Beispiel
 
 ** Activity Diagram 🚴**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diagramme/6.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diagramme/6.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diagramme/6.textbundle/text
 
 - Beispiel: Entscheidung, Aktivität, Startpunkt, Endpunkt
 
 ** Sequence Diagram 🧬**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diagramme/7.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diagramme/7.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diagramme/7.textbundle/text
 
 - Objekte, Lifeline
 - Synchrone und Asynchrone Nachrichten
@@ -230,16 +196,14 @@ Beispiel-Syntax
 ## Diverse Themen
 
 **Programmierparadigmen 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diverse%20Themen/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diverse%20Themen/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diverse%20Themen/2.textbundle/text
 
 - Welche Programmierparadigmen gibt es
 - Charakteristiken von Objektorientierter Programmierung
 - Charakteristiken von Funktionaler Programmierung
 
 **Vaadin 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Diverse%20Themen/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Diverse%20Themen/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Diverse%20Themen/1.textbundle/text
 
 - Zweck
 - Wie ist der Code aufgebaut (nur das Konzept)
@@ -247,8 +211,7 @@ Beispiel-Syntax
 ## Java-\>Diverses
 
 **Java Messaging Service 📞**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Diverses/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Diverses/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Diverses/1.textbundle/text
 
 Um was geht es?
 Was ist eine häufige Implementation?
@@ -256,79 +219,67 @@ Was ist eine häufige Implementation?
 ## Java-\>Spring
 
 **Aspect Oriented Programming 🪢**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/5.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/5.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/5.textbundle/text
 
 Nur Konzept
 Mit welchem Software-Pattern verwandt?
 Was geschieht zur Compile-Zeit (wie nennt man diesen Prozess?)
 
 **Bean Scope 🫘**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/4.textbundle/text
 
 Welche 4 Bean Scopes gibt es?
 
 **Dependency Injection 💉**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/3.textbundle/text
 
 Drei Varianten von Dependency Injection
 
 **Environment / Profiles 👤**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/7.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/7.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/7.textbundle/text
 
 Nur das Konzept
 
 **JPA / Spring Data / Repository / Hibernate 💿**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/11.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/11.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/11.textbundle/text
 
 - Unterschiede
 - Zwei Arten des Loadings
 - Zwei Arten um repositories zu implementieren
 
 **Spring 🍃**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/1.textbundle/text
 
 Welche zwei Eigenschaften zeichnen Spring hauptsächlich aus?
 
 **Spring Boot  🍃**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/2.textbundle/text
 
 - Was macht Spring boot?
 
 **Spring Data 💿**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/9.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/9.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/9.textbundle/text
 
 
 
 **Spring Resource Abstraction 📑**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/6.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/6.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/6.textbundle/text
 
 Um was geht es?
 
 **Spring Unit Test ☑️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/12.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/12.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/12.textbundle/text
 
 - Was macht JUnit, AssertJ, Spring Test, Mockito…?
 
 **Spring Web MVC Controller 🌐**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/8.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/8.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/8.textbundle/text
 
 - Keine Details
 - Was sind die Annotationen für einen Controller?
 
 **Weitere Spring Bestandteile 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Spring/10.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Spring/10.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Spring/10.textbundle/text
 
 - Spring Integration
 - Spring Batch
@@ -339,8 +290,7 @@ Um was geht es?
 ## Java-\>Syntax
 
 **Collections 🗂️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/6.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/6.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/6.textbundle/text
 
 - 3 Arten von Collections
 - Implementationen
@@ -349,129 +299,90 @@ Um was geht es?
 - Welche Anforderungen müssen für TreeSet und HashSet erfüllt werden?
 
 **Error und Exception 💥**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/5.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/5.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/5.textbundle/text
 
 - Wann verwendet man Checked und wann Uchecked
 - Beispiel Checked und Unchecked Error
 - Was sind Errors?
 
 **FileReader / FileWriter 📝**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/11.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/11.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/11.textbundle/text
 
 - Dateien lesen und schreiben
 
 **Garbage Collection 🚮**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/13.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/13.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/13.textbundle/text
 
 - Unterschied Heap und Stack
 - Mögliches Problem im Heap
 
 **Hashcode implementieren #️⃣**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/3.textbundle/text
 
 - Wann muss man es überschreiben
 - Was ist die Anforderung an die Methode
 - Wie könnte eine Implementation aussehen?
 
 **Invarianz, Covarianz, Contravarianz, Bivarianz 🦆**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/7.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/7.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/7.textbundle/text
 
 Was bedeuten die drei Begriffe?
 
 **JUnit testing 🕵️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/12.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/12.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/12.textbundle/text
 
 - Beispieltest
 
 **Lamda Expressions 🥷**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/9.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/9.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/9.textbundle/text
 
 - Keine genaue Syntax, nur das Prinzip
 - Auf was hat das Lamda Zugr
 
 **Methodenreferenzen 👉**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/8.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/8.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/8.textbundle/text
 
 - Keine genaue Syntax, nur das Prinzip
 - Was gibt es für existierende Interfaces 
 
 **Polymorphismus,  Liskov Substitution Principle, Dynamic Dispatch 🎭**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/2.textbundle/text
 
 Was bedeuten die drei Begriffe?
 
 **Sichtbarkeiten 👓**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/1.textbundle/text
 
 Zweck / Anwendungsfall
 Aufruf
 
 **Statischer Typ und Dynamischer Typ 🚙**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/4.textbundle/text
 
 - Wann spielt der statische Typ und der dynamische Type eine Rolle?
 
 **Stream API 🌊**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Java/Syntax/10.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Java/Syntax/10.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Java/Syntax/10.textbundle/text
 
 - Zugriff auf die Stream API
 - Beispiel-Funktionen
 
-## JavaScript2
-
-**B2 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/JavaScript2/.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/JavaScript2/.textbundle/text\</a\>
-
-
-
-## JavaScript2-\>Test6
-
-**Test 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/JavaScript2/Test6/.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/JavaScript2/Test6/.textbundle/text\</a\>
-
-
-
-## JavaScript2
-
-**Z 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/JavaScript2/.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/JavaScript2/.textbundle/text\</a\>
-
-
-
 ## Multiplattform
 
 **Flutter📱 📱**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Multiplattform/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Multiplattform/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Multiplattform/3.textbundle/text
 
 - Hersteller, IDE, Programmiersprache
 - Wie ist der Code strukturiert?
 
 **Kotlin Multiplattform 📱**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Multiplattform/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Multiplattform/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Multiplattform/2.textbundle/text
 
 - Hersteller, IDE, Programmiersprache
 - Wie ist der Code strukturiert?
 
 **Xamarin📱 📱**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Multiplattform/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Multiplattform/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Multiplattform/1.textbundle/text
 
 - Hersteller, IDE, Programmiersprache 
 - Was ist Xamarin.Essentials
@@ -480,29 +391,25 @@ Aufruf
 ## Swift-\>Patterns
 
 **MPV 🏛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/1.textbundle/text
 
 - Rollen
 - Zusammenspiel
 
 **MVC 🏛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/4.textbundle/text
 
 - Rollen
 - Zusammenspiel
 
 **MVVM 🏛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/2.textbundle/text
 
 - Rollen
 - Zusammenspiel
 
 **Viper 🏛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Patterns/3.textbundle/text
 
 - Rollen
 - Zusammenspiel
@@ -510,103 +417,59 @@ Aufruf
 
 ## Swift-\>SwiftUI
 
-**CoreData: Grundkonzepte 📟**
+**App Bundle Ressourcen 🗂️**
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/24.textbundle/text
 
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/29.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/29.textbundle/text\</a\>
+File vom App Bundle laden
+
+**CoreData: Grundkonzepte 📟**
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/29.textbundle/text
 
 Protokolle von Managed Objects
 Save
 Delete 
 
-**Custom Components 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/9.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/9.textbundle/text\</a\>
-
-- Custom Component ohne Binding
-- Custom Component mit Binding
-
-**Custom Modifier 🖌️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/13.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/13.textbundle/text\</a\>
-
-- Wie schreibt man einen Custom Modifier?
-- CustomModifier auf die View anwenden
-- Wie schreibt man die Extension um den Custom modifier einfacher zu verwenden?
-
 **Documents Directory 📑**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/28.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/28.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/28.textbundle/text
 
 - Pfad auslesen
 - Pfad ergänzen
 - Dateien lesen und schreiben
 
 **Encoding / Decoding 📠**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/26.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/26.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/26.textbundle/text
 
 - JSON encodieren und decodieren
 
 **EnvironmentObject 🌳**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/19.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/19.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/19.textbundle/text
 
 - Wie erstellt man ein EnvironmentObject (Annotation) und gibt dieses an die Subviews weiter?
 - Wie greifen die Subviews auf das Environment-Objekt z
 
 **ForEach ♻️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/10.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/10.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/10.textbundle/text
 
 Voraussetzungen, damit Objekte im ForEach verwendet werden können (Protokolle) 
 
+**Geometry Reader 📐**
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/14.textbundle/text
+
+- Wie funktioniert GeoReader
+- Wie kann man die Grösse auslesen
+- Wie kann man absolute und relative Positionen auslesen?
+
 ## Swift-\>SwiftUI-\>Komponenten
 
-**Alert 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/6.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/6.textbundle/text\</a\>
-
-- Wie macht man einen Alert mit Bool?
-- Wie macht man einen Alert mit Optional?
-- Wie ist ein Alert mit Buttons und Inhalt aufgebaut?
-
-**Button 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/5.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/5.textbundle/text\</a\>
-
-Wie macht man einen Button mit einem speziellen Label (z.B: SF Symbol) 
-
-**Image 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/7.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/7.textbundle/text\</a\>
-
-- Wie geht man sicher dass ein Bild nicht gequetscht wird und nicht über das Frame herausragt?
-- Async Image
-
-**List 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/8.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/8.textbundle/text\</a\>
-
-- Wie macht man eine `List` mit einem Array?
-- Wie macht man eine `List` mit einem Range?
-
 **Picker 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/4.textbundle/text
 
 Wie macht man einen Picker?
-
-**Textfeld 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/Komponenten/3.textbundle/text\</a\>
-
-Wie macht man ein Textfeld? (numerisch oder mit Text)
 
 ## Swift-\>SwiftUI
 
 **Layout 🟪**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/17.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/17.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/17.textbundle/text
 
 - Nach welchen 3 Regeln werden die UI’s aufgebaut?
 - Was bedeutet Layout-Neutral?
@@ -615,98 +478,33 @@ Wie macht man ein Textfeld? (numerisch oder mit Text)
 - Was ist eine Auswirkung, wenn man es absolut positioniert?
 - Wie list man die Grössenklasse des Gerätes aus?
 
-**MVVM 🏛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/20.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/20.textbundle/text\</a\>
-
-- Wie sieht ein einfaches ViewModel aus? Wie dessen Properties?, Wie die Access-Rechte?
-- Wie erstellt man ein ViewModel in der View?
-
 **Navigation View 🧭**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/11.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/11.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/11.textbundle/text
 
 Title
 Display Mode
 Navigation Link
 
-**ObservableObject 🕵️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/2.textbundle/text\</a\>
-
-- Wie ist ein ObservableObject aufgebaut?
-- Wann verwendet man StateObject und wann ObservedObject?
-- Wann braucht man ObservableObjects (Klassen) statt Structs
-- Wie kann man Änderungen Manuell pushen?
-- Was wird oft gemeinsam mit dem ObservableObject Protokoll verwendet?
-
-**Path 🖊️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/15.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/15.textbundle/text\</a\>
-
-- Wie wird Path verwendet?
-
 **Shape 🍏**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/16.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/16.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/16.textbundle/text
 
 - Wir wird eine Shape erstellt?
 
-**Sheets 📃**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/18.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/18.textbundle/text\</a\>
-
-Wie macht man ein Sheet mit Boolean?
-wie macht man ein Sheet mit Optional?
-Wie „dismisst“ man ein Sheet?
-
-**Transition 🐰**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/23.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/23.textbundle/text\</a\>
-
-(ohne Details)
-
 **UIKit-Funktionalität verwenden 🕸️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/31.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/31.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/31.textbundle/text
 
 (ohne Details) welche Komponenten spielen eine Rolle, wer hat welche Verantwortung, wie spielen sie zusammen?
 
-**Unit Testing 👁️‍🗨️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/32.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/32.textbundle/text\</a\>
-
-- Testklasse (Protokoll)
-- Einfache Testfunktion
-- Assert
-
 **UserDefaults 💾**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/25.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/25.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/25.textbundle/text
 
 - Mit Property Wrapper
 - Ohne Property Wrapper
 
-**Views 🌅**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/1.textbundle/text\</a\>
-
-- Wie schreibt man eine View
-- wie beobachtet man Properties?
-- Wie kann man eine ganze View beobachten?
-
-**unterschiedliche Views zurückgeben 🪟**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/12.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/12.textbundle/text\</a\>
-
-- 4 Möglichkeiten um unterschiedliche Views zurückzugeben
-- Wie funktioniert die Variante mit dem ViewBuilder?
-
 ## Swift-\>Syntax
 
 **Any / Existential Type 🌫️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.2.textbundle/text
 
 Zweck
 Anwenden
@@ -715,67 +513,40 @@ Unterschiede zu den alternativen
 Warum gibt es die Performance-Probleme?
 
 **Arrays 📚**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/3.textbundle/text
 
 Definieren
 Zuweisen
 Auslesen
 Hinzufügen
 
-**Async Await ⏰**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/29.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/29.textbundle/text\</a\>
-
-Zweck
-Syntax asynchrone Funktion
-Aufruf: von async Code, von sync code, von SwiftUI
-Mehrere Funktionen paralell ausführen
-Naming-Convention
-
 **Auto Closure / Escaping Closure 📞**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/8.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/8.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/8.textbundle/text
 
 Auto-closure, escaping Closure
 
-**Closures 📞**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/7.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/7.textbundle/text\</a\>
-
-Syntax (unterschiedlich kompakte Schreibweisen)
-
 **Dates 📅**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/31.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/31.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/31.textbundle/text
 
 Zweck und Unterschied von Date / Calendar
 
-**Delegation Pattern 🍷**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/19.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/19.textbundle/text\</a\>
-
-Beispiel (z.B Dice Game)
-
 **Dictionaries 📕**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/4.textbundle/text
 
 Definieren
 Zuweisen
 Auslesen
 Hinzufügen
 
-**Eigener Error-Typ 💥**
+**Do-Catch 🧯**
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/23.textbundle/text
 
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/21.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/21.textbundle/text\</a\>
-
-Eigene Errors definieren
-Error werfen
+Mehrere Errors
+Errors mit Parameter
+Auf Error-Inhalt zugreifen
 
 **Extensions 👁️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/16.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/16.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/16.textbundle/text
 
 Beispiel
 Protokolle implementieren
@@ -783,21 +554,28 @@ Protocol Extensions
 Filename
 
 **Fighter Jet Problem 🛩️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/15.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/15.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/15.textbundle/text
 
 Was ist das Problem?
 Was ist das Fazit?
 
-**Generics 🎉**
+**Funktionen 🤖**
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/6.textbundle/text
 
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/25.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/25.textbundle/text\</a\>
+Mit und ohne Label
+Default Parameter
+Varadic Parameter
+In-Out-Parameters
 
-Generische Funktionen, Klassen, Structs, Enums
+**Generic Constraints ✋**
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/26.textbundle/text
+
+Type Constraints
+Contextual Where Clauses
+Contextual Extension
 
 **Initializer 🛫**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/9.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/9.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/9.textbundle/text
 
 Designated
 Convenience
@@ -807,143 +585,70 @@ Required
 Wann wird der super-init aufgerufen?
 
 **Main Actor 🤴**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/30.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/30.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/30.textbundle/text
 
 Zweck / Anwendungsfall
 Aufruf
 
-**Opaque Return Types 🚗**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.textbundle/text\</a\>
-
-Anwendung
-Zweck
-
-**Precondition / Assertion / Fatal Error 🚔**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/24.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/24.textbundle/text\</a\>
-
-Precondition, Assertion, Fatal Error
-
 **Primary Associated Types 🥇**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/18.1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/18.1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/18.1.textbundle/text
 
 Wozu ist das gut?
 
-**Properties ℹ️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/11.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/11.textbundle/text\</a\>
-
-Computed, Setter/Getter, Observed, Lazy, Type Properties
-
 **Property Wrapper 📦**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/12.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/12.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/12.textbundle/text
 
 Zweck
 Custom Property Wrapper (nur Konzept)
 
 **Protocols 📜**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/14.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/14.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/14.textbundle/text
 
 Initializer
 Property mit Setter und Getter
 Funktionen (z.B. Mutating)
 
-**Some / Opaque parameter declarations 🚗**
+**Regex 🧿**
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/21.1.textbundle/text
 
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.1.textbundle/text\</a\>
+Regex Literals (Vorteil?)
+Explizite Regex
+Weitere Möglichkeit um Regex zu erstellen?
+
+**Sets ⭕️**
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/5.textbundle/text
+
+Definieren
+Zuweisen
+Protokollanforderungen
+
+**Some / Opaque parameter declarations 🚗**
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/27.1.textbundle/text
 
 Anwendung / wie hätte man es früher gemacht?
 Unterschiede zu Any?
 
 **Try ⚠️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/22.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/22.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/22.textbundle/text
 
 Try, Try?, Try!
 
 **Tuples 🗞️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/2.textbundle/text
 
 Definieren
 Zuweisen
 Auslesen
 
-**Type Erasure ❎**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/17.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/17.textbundle/text\</a\>
-
-Zweck
-Vordefinierte Any-Typen anwenden
-Unterschied zu Any/AnyObject
-
-** Protocol Associated Type 📜**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/18.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/18.textbundle/text\</a\>
-
-Anwendung
-Problem
-
-## 
-
-**Textfeld 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes//.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes//.textbundle/text\</a\>
-
-
-
-**Textfeld 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes//.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes//.textbundle/text\</a\>
-
-
-
-**Textfeld 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes//.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes//.textbundle/text\</a\>
-
-
-
-**Textfeld 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes//.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes//.textbundle/text\</a\>
-
-
-
-**Textfeld 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes//.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes//.textbundle/text\</a\>
-
-
-
-**Textfeld 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes//.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes//.textbundle/text\</a\>
-
-
-
-**Views 📄**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes//.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes//.textbundle/text\</a\>
-
-
-
 ## Webentwicklung
 
 **Angular 🏛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/6.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/6.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/6.textbundle/text
 
 - Hersteller, Programmiersprache, Konzepte
 
 **CSS Grössenangaben ↕️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/12.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/12.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/12.textbundle/text
 
 - Relativ zur Orginal-Schriftgrösse
 - Relativ zur Orginal-Schriftgrösse des Parent
@@ -951,14 +656,12 @@ Problem
 - Pixel, Punkte, Cm etc.
 
 **CSS Media Queries 📱**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/11.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/11.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/11.textbundle/text
 
 - Beispielcode: Screen und mindestens 480 pixel breit
 
 **CSS Selektoren 👆**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/10.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/10.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/10.textbundle/text
 
 - Mehrere Klassen
 - Bestimmtes Attribut
@@ -967,59 +670,50 @@ Problem
 - Pseudoklassen
 
 **HTML Template 👷‍♂️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/7.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/7.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/7.textbundle/text
 
 - Beispielcode
 
 **HTTP Authentication 🔑**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/3.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/3.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/3.textbundle/text
 
 - Wie ist ein JWT Token aufgebaut?
 
 **HTTP Status Codes 🟢**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/2.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/2.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/2.textbundle/text
 
 - 5 Kategorien
 
 **HTTP Verben 🌐**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/1.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/1.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/1.textbundle/text
 
 - 5 Verben
 
 **Javascript Einfache Funktion ↩️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/9.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/9.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/9.textbundle/text
 
 - Beispielcode
 
 **Javascript Einfache Klasse 🚙**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/8.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/8.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/8.textbundle/text
 
 - Beispielcode mit Konstruktor, Funktion und Getter
 
 **React 🧩**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/4.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/4.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/4.textbundle/text
 
 - Zweck
 - Aufbau einer Einfachen Komponente
 - Wie werden Daten mitgegeben ?
 
 **React State 🎛️**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/5.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/5.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/5.textbundle/text
 
 - Definition von Variablen in den Komponenten
 - Wie werden die Werte geändert?
 
 **Typescript Typen 🦆**
-
-\<a href="https://calculable.github.io/spaced-repetition-notes/Webentwicklung/13.textbundle/text"\>https://calculable.github.io/spaced-repetition-notes/Webentwicklung/13.textbundle/text\</a\>
+https://calculable.github.io/spaced-repetition-notes/Webentwicklung/13.textbundle/text
 
 - 3 Typescript Typen
 - Welchen Typ gibt es auch noch?
