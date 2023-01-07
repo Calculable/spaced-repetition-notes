@@ -17,5 +17,7 @@
 - Können keine Deinitializers haben
 - Bei Konstanten Structs kann man die Variabeln nicht verändern.
 
+Beachte: Auch Arrays sind Value Types!
+
 ## Zusammenfassung
 Vererbung, Initializer, Referenz, Konstanten

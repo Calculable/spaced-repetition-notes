@@ -3,6 +3,8 @@
 
 ## Für was sind Protocol Associated Types?
 
+Hinweis: Sollten wenn möglich vermieden werden
+
 Oft braucht man associated types, weil Protokolle keine generischen Parameter erlauben:
 
 ```swift

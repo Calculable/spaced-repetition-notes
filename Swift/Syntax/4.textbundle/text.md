@@ -8,10 +8,12 @@ var occupations = [
 ]
 let emptyDictionary = [String: Float]()
 occupations = [:]
+
+var adeleScore = scores["Adele Adkins", default: 0] //mit default wert
 ```
 
 ## Zusammenfassung
 Definieren
 Zuweisen
-Auslesen
+Auslesen (mit Default-Wert)
 Hinzufügen
