@@ -15,23 +15,6 @@
 pathUrl.appendingPathComponent("message.txt")
 ```
 
-## Datei schreiben
-
-```swift
-try jsonString.write(to: savePath, options:[.atomic, .completeFileProtection])
-```
-
-##  Datei lesen
-
-(haben wir bereits gesehen mit „contentsOf“)
-
-```swift
-do {
-	let input = try String(contentsOf: url)
-} catch {
-	print(error.localizedDescription)
-}
-```
 
 ##  Hinweis
 
@@ -42,4 +25,3 @@ do {
 ## Zusammenfassung
 - Pfad auslesen
 - Pfad ergänzen
-- Dateien lesen und schreiben

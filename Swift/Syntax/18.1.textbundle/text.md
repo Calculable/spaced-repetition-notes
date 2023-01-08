@@ -1,22 +1,14 @@
 # Primary Associated Types 🥇
 ::18.1::
-Folgender Code ist nicht erlaubt:
 
-```swift
-class  MusicPlayer { 
-	func  play(_  playlist: Collection) { /* ... */ }
-}
-```
 
-Dies liegt daran, dass Collection ein Protokoll mit Associated Types ist. Diese müssen zuerst ausgefüllt werden (oder man verwendet TypeErasure). Neu mit Swift 5.7 darf man auch folgendes Schreiben:
+Dieser Code hat ein Problem: Wir wollen zum Beispiel, dass innerhalb der Collection nur "Tracks" sein dürfen:
 
 ```swift
 class  MusicPlayer { 
 	func  play(_  playlist: some  Collection) { /* ... */ }
 }
 ```
-
-Aber auch diese Lösung hat ein Problem. Wir wollen zum Beispiel, dass innerhalb der Collection nur "Tracks" sein dürfen.
 
 Deshalb kann man jetzt Primary Associated Types angeben (das sieht aus wie ein Generic). Hier ein Beispiel aus dem bereits existierenden Colleciton-Protokoll:
 
@@ -46,3 +38,4 @@ class  MusicPlayer {
 
 ## Zusammenfassung
 Wozu ist das gut?
+Codebeispiel

@@ -22,41 +22,6 @@ convenience init(parameters) {
 }
 ```
 
-## Super Initializer aufrufen
-Wenn man kein `override` schreibt, wird der Super-Initializier Implizit aufgerufen:
-```swift
-init(color: String) {
-	self.color = color
-	// super.init() implicitly called here
-}
-```
-
-Wenn man `override` schreibt, wird der Super-Initializier explizit aufgerufen:
-
-```swift
- override init() {
-	super.init()
-	numberOfWheels = 2
-}
-```
-
-
-##  Failable Initializers
-
-Beachte: Es wird hier nicht einfach ein Fehler geworfen!
-
-```swift
-struct Animal {
-    let species: String
-    init?(species: String) {
-        if species.isEmpty { return nil }
-        self.species = species
-    }
-}
-```
-
-> You can delegate from init? to init! and vice versa, and you can override init? with init! and vice versa. You can also delegate from init to init!, although doing so will trigger an assertion if the init! initializer causes initialization to fail.
-
 ##  Required Initializers
 
 - Müssen von jeder Subklasse implementiert werden
@@ -74,7 +39,4 @@ class SomeClass {
 ## Zusammenfassung
 Designated
 Convenience
-Override
-Failable
 Required
-Wann wird der super-init aufgerufen?

@@ -14,5 +14,5 @@ await MainActor.run {
 - Man kann auch Funktionen oder Klassen mit `@MainActor` auszeichnen
 
 ## Zusammenfassung
-Zweck / Anwendungsfall
-Aufruf
+- Zweck / Anwendungsfall
+- Aufruf

@@ -37,6 +37,6 @@ moc.delete(book)
 ```
 
 ## Zusammenfassung
-Protokolle von Managed Objects
-Save
-Delete 
+- Protokolle von Managed Objects
+- Save
+- Delete 

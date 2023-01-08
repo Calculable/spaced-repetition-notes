@@ -21,6 +21,7 @@ func loadData() async throws {
 
 }
 ```
+
 ## Aufruf einer asynchronen Funktion
 
 ### ….innerhalb einer asynchronen Funktion
@@ -64,15 +65,6 @@ Add this modifier to the List now:
 
 - Das ist die asynchrone Version von `onAppear()`
 
-## Mehrere asynchrone Funktionen parallel Ausführen
-
-```swift
-async let games = getGames()
-async let players = getPlayers()
-async let scores = getScores()
-let everything = await [games, players, scores]
-```
-
 
 ## Gleichnamige Sync- und Async-Funktionen
 
@@ -82,5 +74,4 @@ let everything = await [games, players, scores]
 Zweck
 Syntax asynchrone Funktion
 Aufruf: von async Code, von sync code, von SwiftUI
-Mehrere Funktionen paralell ausführen
 Naming-Convention

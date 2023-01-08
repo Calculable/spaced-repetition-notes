@@ -56,6 +56,4 @@ print(message.replacing(/[a-m]at/, with: "dog"))
 ```
 
 ## Zusammenfassung
-Regex Literals (Vorteil?)
-Explizite Regex
-Weitere Möglichkeit um Regex zu erstellen?
+3 Varianten, um Reguläre ausdrücke zu erstellen (nicht auswändig)

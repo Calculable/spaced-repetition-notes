@@ -23,17 +23,6 @@ Für kleinere Titel:
 
 ```
 
-##  NavigationLink
-
-```swift
-NavigationLink {
-	Text("New secondary")
-} label: {
-	Text("Hello, World!")
-}
-```
-
 ## Zusammenfassung
 Title
 Display Mode
-Navigation Link

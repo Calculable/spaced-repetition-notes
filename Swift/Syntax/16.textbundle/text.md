@@ -2,6 +2,9 @@
 ::16::
 
 ## Beispiel
+
+Häufig verwendet man Extensions um einen Typen zu einem Protokoll konform zu machen
+
 ```swift
 extension Int: ExampleProtocol {
     var simpleDescription: String {
@@ -14,15 +17,7 @@ extension Int: ExampleProtocol {
 print(7.simpleDescription)
 ```
 
-## Häufiger Anwendungsfall: Protocol Extensions
-
-```swift
-extension SomeType: SomeProtocol, AnotherProtocol {
-    //...
-}
-```
-
-## Protocol Extensions
+## Protocol Extensions für Default Implementationen
 
 - Beinhalten Default-Implementierungen für ein Protokoll
 
@@ -44,6 +39,5 @@ z.B. `Bundle+Ext.swift`
 
 ## Zusammenfassung
 Beispiel
-Protokolle implementieren
 Protocol Extensions
 Filename

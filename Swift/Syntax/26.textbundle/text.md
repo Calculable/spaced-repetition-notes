@@ -1,7 +1,7 @@
 # Generic Constraints ✋
 ::26::
 
-### Type Constraints
+## Type Constraints
 
 ```swift
 func someFunction<T: SomeClass, U: SomeProtocol>(someT: T, someU: U) {
@@ -9,7 +9,7 @@ func someFunction<T: SomeClass, U: SomeProtocol>(someT: T, someU: U) {
 }
 ```
 
-### Contextual Where Clauses
+## Contextual Where Clauses
 
 ```swift
 func anyCommonElements<T: Sequence, U: Sequence>(_ lhs: T, _ rhs: U) -> Bool
@@ -20,7 +20,7 @@ func anyCommonElements<T: Sequence, U: Sequence>(_ lhs: T, _ rhs: U) -> Bool
 
 > Writing `<T: Equatable>` is the same as writing `<T> ... where T: Equatable`.
 
-### Contextual Extension
+## Contextual Extension
 
 ```swift
 extension Container where Item == Int {

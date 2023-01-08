@@ -20,4 +20,4 @@
 Beachte: Auch Arrays sind Value Types!
 
 ## Zusammenfassung
-Vererbung, Initializer, Referenz, Konstanten
+Unterschiede: Vererbung, Initializer, Referenz, Konstanten
