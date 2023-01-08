@@ -1,4 +1,4 @@
-# Eigener Error-Typ 💥
+# Error werfen 💥
 ::21.1::
 
 ```swift

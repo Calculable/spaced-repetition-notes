@@ -13,22 +13,6 @@ Hibernate: Implementiert die JPA-Spezifikation.
 - Lazy loading
 - Eager Loading
 
-## Repositories
-
-- Das Repository macht man entweder Manuell:
-
-```swift
-currentSession().createCriteria(Splitter.class).list
-```
-
-oder automatisch
-
-```swift
-interface XY extends CrudRepository<Car, Integer>
-```
-
-
 ##  Zusammenfassung
 - Unterschiede
 - Zwei Arten des Loadings
-- Zwei Arten um repositories zu implementieren
