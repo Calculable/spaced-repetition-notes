@@ -6,8 +6,6 @@
 
 ## HTML Template
 
-![][image-2]
-
 - Oft wird mit Fragments gearbeitet
 - Mit Spring Conversion Service werden zum Beispiel Java-Objekte für die Ausgabe vorbereitet
 - Error Handler
@@ -22,4 +20,3 @@
 
 
 [image-1]:	assets/Bildschirmfoto%202022-12-18%20um%2010.05.05.png
-[image-2]:	assets/Bildschirmfoto%202022-12-18%20um%2010.05.35.png

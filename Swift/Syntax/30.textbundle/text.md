@@ -6,7 +6,7 @@
 - Manchmal ist es aber nötig, den Main-Actor explizit aufzurufen. Zum Beispiel wenn man libraries hat, welche einen Closure entgegennehmen und diesen dann in einem anderen Kontext ausführen: 
 
 ```swift
-await MainActor.run {
+MainActor.run {
     // your work here
 }
 ```

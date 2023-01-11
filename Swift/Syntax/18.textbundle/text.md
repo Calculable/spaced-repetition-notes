@@ -11,6 +11,8 @@ Oft braucht man associated types, weil Protokolle keine generischen Parameter er
 protocol Product<T> {} //fehler: protocols do not allow generic parameters; use associated types instead
 ```
 
+(siehe aber auch: Primary Associated Type)
+
 stattdessen schreibt man:
 
 ```swift

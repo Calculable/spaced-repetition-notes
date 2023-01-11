@@ -32,4 +32,4 @@ Triangle()
 > Shapes measure their coordinates from the bottom-left corner rather than the top-left corner, which means SwiftUI goes the other way around from one angle to the other. This is, in my not very humble opinion, extremely alien.
 
 ## Zusammenfassung
-- Wir wird eine Shape erstellt?
+- Wir wird eine Shape erstellt? (allenfalls ohne den exakten Code)
