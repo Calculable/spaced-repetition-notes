@@ -15,6 +15,12 @@
 
 Vorteil: Es kann zur Compile-Zeit überprüft werden, ob es gültig ist
 
+## Modifiers
+
+```swift
+/the (.*) sat on the (.*)/.ignoresCase(true)
+```
+
 ## Explizite Regex
 
 
@@ -44,16 +50,6 @@ let search3 = Regex {
 }
 ```
 
-## String Methoden
-
-Viele String-Methoden funktionieren sowohl mit Regex als auch ohne Regex:
-```swift
-print(message.replacing("cat", with: "dog"))
-```
-
-```swift
-print(message.replacing(/[a-m]at/, with: "dog"))
-```
-
 ## Zusammenfassung
-3 Varianten, um Reguläre ausdrücke zu erstellen (nicht auswändig)
+- 3 Varianten, um Reguläre ausdrücke zu erstellen (nicht auswändig)
+- Wie macht man modifiers
