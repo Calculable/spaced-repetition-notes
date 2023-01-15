@@ -24,6 +24,8 @@ Damit das funktioniert muss der andere `ViewController` folgendes Property haben
 var text: String!
 ```
 
+Beachte: Das Ausrufezeichen wird benötigt, weil man ja ansonsten einen Initializer benötigen würde.
+
 und im `viewDidLoad` muss dieses entsprechend angezeigt werden:
 
 ```swift

@@ -8,6 +8,8 @@
 
 > Second, try calling the `exerciseAmbiguityInLayout()` method of the view that’s causing problems. This is a method specifically designed to debugging, and causes a view to randomly shift between all layouts that are possible given the constraints you’ve applied.
 
+(noch nie aktiv getestet)
+
 ## Tipp 3: wtfautolayout.com
 
 > This is a web service that reads Xcode Auto Layout errors and converts them into a graphical representation of what’s happened. It won’t direct you to the solution, but it might at least help make it clearer.

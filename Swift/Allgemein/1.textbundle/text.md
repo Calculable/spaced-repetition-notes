@@ -1,12 +1,12 @@
 # Xcode shortcuts 🚀
 
-## Project-Navigator einblenden / ausblenden
-
-Command+1
-
 ## Navigation Panel einblenden / ausblenden
 
 Command+0
+
+## Project-Navigator einblenden / ausblenden
+
+Command+1
 
 ## Snippets aufrufen
 
@@ -18,7 +18,7 @@ Option + Klick auf das File
 ![][image-1]
 
 
-## Open Quickly
+## Open Quickly!
 
 Command + Shift + O
 
@@ -35,8 +35,8 @@ Option + Klick auf den Klassennamen oder Methodennamen
 
 
 ## Zusammenfassung
-- Projekt Navigator einblenden / ausblenden
 - Navigation Panel einblenden / ausblenden
+- Projekt Navigator einblenden / ausblenden
 - Snippets aufrufen
 - File in zweitem Editor öffnen
 - Open Quickly
