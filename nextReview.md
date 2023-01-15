@@ -5,6 +5,7 @@
 **Existierende FunctionalInterfaces 📄**
 
 - die wichtigsten drei bereits existierenden FunctionalInterfaces
+
 https://calculable.github.io/spaced-repetition-notes/Java/Syntax/8.1.textbundle/text
 
 
@@ -12,6 +13,7 @@ https://calculable.github.io/spaced-repetition-notes/Java/Syntax/8.1.textbundle/
 
 - Keine genaue Syntax, nur das Prinzip
 - Auf was hat das Lamda Zugr
+
 https://calculable.github.io/spaced-repetition-notes/Java/Syntax/9.textbundle/text
 
 
@@ -21,6 +23,7 @@ https://calculable.github.io/spaced-repetition-notes/Java/Syntax/9.textbundle/te
 
 - Hersteller, IDE, Programmiersprache
 - Wie ist der Code strukturiert?
+
 https://calculable.github.io/spaced-repetition-notes/Multiplattform/3.textbundle/text
 
 
@@ -29,6 +32,7 @@ https://calculable.github.io/spaced-repetition-notes/Multiplattform/3.textbundle
 **App Bundle Ressourcen 🗂️**
 
 File vom App Bundle laden
+
 https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/24.textbundle/text
 
 
@@ -37,12 +41,14 @@ https://calculable.github.io/spaced-repetition-notes/Swift/SwiftUI/24.textbundle
 **Begriff: Copy on Write 🖨️**
 
 - Was bedeutet Copy on Write?
+
 https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/51.textbundle/text
 
 
 **Self vs self 👤**
 
 - Unterschied zwischen Self und self
+
 https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/34.textbundle/text
 
 
@@ -52,6 +58,7 @@ https://calculable.github.io/spaced-repetition-notes/Swift/Syntax/34.textbundle/
 
 - Code
 - Mit Sender / Tag arbeiten
+
 https://calculable.github.io/spaced-repetition-notes/Swift/UIKit/Allgemein/3.textbundle/text
 
 
@@ -59,5 +66,6 @@ https://calculable.github.io/spaced-repetition-notes/Swift/UIKit/Allgemein/3.tex
 
 - Funktionsdefinition
 - Wozu wird es benötigt?
+
 https://calculable.github.io/spaced-repetition-notes/Swift/UIKit/Allgemein/1.textbundle/text
 
