@@ -14,3 +14,5 @@ let notSure: any = 4;
 - 3 Typescript Typen
 - Welchen Typ gibt es auch noch?
 - Was, wenn der Typ egal ist?
+
+#nur learning unit#

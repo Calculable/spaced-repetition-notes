@@ -56,3 +56,5 @@ Optional kann man die beiden Attribute `omittingEmptySubsequences` und `maxSplit
 - HasPrefix / HasSuffix
 - Prefix / Suffix
 - Split
+
+#nur learning unit#

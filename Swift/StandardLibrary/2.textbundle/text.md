@@ -35,3 +35,5 @@ let result = nums.contains(2)
 - First Index
 - All Satisfy
 - Contains
+
+#nur learning unit#

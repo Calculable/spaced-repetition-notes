@@ -16,3 +16,5 @@ Eine Methode erwartet als Parameter ein Interface-Typ. Dieser Interface-Typ hat 
 
 [image-1]:	assets/Bildschirmfoto%202018-11-21%20um%2008.48.36.png
 [image-2]:	assets/Bildschirmfoto%202018-11-21%20um%2009.14.40.png
+
+#nur learning unit#

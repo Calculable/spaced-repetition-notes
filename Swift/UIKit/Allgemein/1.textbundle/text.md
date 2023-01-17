@@ -15,3 +15,6 @@ Siehe auch Kapitel: "Best Pratice: View Code und Controller Code trennen"
 ## Zusammenfassung
 - Funktionsdefinition
 - Wozu wird es benötigt?
+
+
+#nur learning unit#

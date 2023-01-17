@@ -6,3 +6,5 @@
 
 ## Zusammenfassung
 - 3 Arten von Datenbank-Diagrammen
+
+#nur learning unit#

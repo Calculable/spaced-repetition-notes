@@ -18,3 +18,5 @@ Vorteile: Lazy Evaluation, Paralellisierung
 
 [image-1]:	assets/Bildschirmfoto%202018-11-28%20um%2008.59.27.png
 [image-2]:	assets/Bildschirmfoto%202018-11-28%20um%2009.13.05.png
+
+#nur learning unit#

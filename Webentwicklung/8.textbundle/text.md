@@ -20,3 +20,5 @@ console.log(aufgabe.addition);
 
 ## Zusammenfassung
 - Beispielcode mit Konstruktor, Funktion und Getter
+
+#nur learning unit#

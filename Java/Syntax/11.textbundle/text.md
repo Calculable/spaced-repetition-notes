@@ -16,3 +16,5 @@ Mit Buffered Reader wrappen, um ganze Zeilen zu laden
 
 [image-1]:	assets/Bildschirmfoto%202018-12-05%20um%2008.10.30.png
 [image-2]:	assets/Bildschirmfoto%202018-12-05%20um%2008.11.28.png
+
+#nur learning unit#

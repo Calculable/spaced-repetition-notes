@@ -6,3 +6,5 @@
 - Wie sieht eine Komponente aus?
 
 [image-1]:	assets/DraggedImage.tiff
+
+#nur learning unit#

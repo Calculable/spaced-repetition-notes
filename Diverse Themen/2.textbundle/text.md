@@ -21,3 +21,5 @@
 - Welche Programmierparadigmen gibt es
 - Charakteristiken von Objektorientierter Programmierung
 - Charakteristiken von Funktionaler Programmierung
+
+#nur learning unit#

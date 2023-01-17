@@ -8,3 +8,5 @@ Ein mögliches Problem: externe Fragmentiertung
 ## Zusammenfassung
 - Unterschied Heap und Stack
 - Mögliches Problem im Heap
+
+#nur learning unit#

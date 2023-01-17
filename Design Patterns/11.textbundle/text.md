@@ -67,3 +67,5 @@ Achtung wichtig - beachte: Der Client ruft hier nicht die factoryMethod auf, son
 ## Zusammenfassung
 - Zweck
 - Beispielcode
+
+#nur learning unit#

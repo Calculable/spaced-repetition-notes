@@ -18,3 +18,6 @@
 - Was hilft, wenn man die Fehlermeldungen nicht zuordnen kann?
 - Mit welcher Methode kann man das UI visuell debuggen?
 - Welche Website kann helfen, die Fehlermeldungen zu verstehen?
+
+
+#nur learning unit#

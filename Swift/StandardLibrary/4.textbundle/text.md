@@ -34,3 +34,5 @@ Array(string)
 ## Zusammenfassung
 - Wie kann man über einen Index-Range auf einen Teil des Strings zugreifen
 - Was wäre eine Alternative dazu?
+
+#nur learning unit#

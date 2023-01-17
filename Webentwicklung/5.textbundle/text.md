@@ -16,3 +16,5 @@ Häufig gibt man als Props ein Callback mit:
 ## Zusammenfassung
 - Definition von Variablen in den Komponenten
 - Wie werden die Werte geändert?
+
+#nur learning unit#

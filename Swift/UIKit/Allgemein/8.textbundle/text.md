@@ -15,3 +15,6 @@
 - Wozu ist das App Delegate?
 - Wozu ist das Scene Delegate?
 
+
+
+#nur learning unit#

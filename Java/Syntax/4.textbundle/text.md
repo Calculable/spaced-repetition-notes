@@ -21,3 +21,5 @@ b.copyTo(b) //Hier wird methode 1 aufgerufen
 
 ## Zusammenfassung
 - Wann spielt der statische Typ und der dynamische Type eine Rolle?
+
+#nur learning unit#

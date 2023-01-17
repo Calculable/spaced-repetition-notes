@@ -20,3 +20,5 @@ NSLayoutConstraint.activate([
 - Wie werden Constraints über den Code erstellt?
 
 [1]:	https://www.hackingwithswift.com/articles/140/the-auto-layout-cheat-sheet
+
+#nur learning unit#

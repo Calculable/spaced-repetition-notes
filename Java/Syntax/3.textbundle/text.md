@@ -13,3 +13,5 @@ Objects.hash(firstname, lastname)
 - Wann muss man es überschreiben
 - Was ist die Anforderung an die Methode
 - Wie könnte eine Implementation aussehen?
+
+#nur learning unit#

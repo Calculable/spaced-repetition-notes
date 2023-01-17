@@ -45,3 +45,5 @@ z.B. `sorted` statt `sort`
 - Reduce
 - Sort
 - Was macht man, wenn man nicht die Instanz bearbeiten will sondern eine Kopie erstellen?
+
+#nur learning unit#

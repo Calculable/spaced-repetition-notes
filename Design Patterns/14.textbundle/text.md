@@ -9,3 +9,5 @@ Sieht genau gleich aus wie das Strategy Pattern! Hat aber einen anderen Sinn: Da
 - Zweck
 
 [image-1]:	assets/DraggedImage.png
+
+#nur learning unit#

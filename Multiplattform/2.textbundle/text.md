@@ -30,3 +30,5 @@ Common: z.B. Serialization, HTTP
 - Wie ist der Code strukturiert?
 
 [image-1]:	assets/kotlin-multiplatform.png
+
+#nur learning unit#

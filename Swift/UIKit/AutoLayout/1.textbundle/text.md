@@ -14,3 +14,6 @@
 ## Zusammenfassung
 - Welche Arten von Constraints gibt es?
 - Was muss das System wissen?
+
+
+#nur learning unit#

@@ -34,3 +34,6 @@ textLabel.text = text
 
 ## Zusammenfassung
 - Wie kann man beim Segue der anderen View Daten mitgeben?
+
+
+#nur learning unit#

@@ -1,5 +1,8 @@
-# Navigation View 🧭
+# Navigation View (deprecated) 🧭
 ::11::
+
+## Deprecated
+=\> Siehe `NavigationStack`
 
 ## Beispiel
 

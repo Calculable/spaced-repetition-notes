@@ -8,3 +8,6 @@
 - Wie heisst das Konzept, dass bei Swift verwendet wird
 - Welches Problem kann auftreten?
 - Wie wird dieses Problem vermieden?
+
+
+#nur learning unit#

@@ -24,3 +24,5 @@ Eine Tabelle ist anscheinend automatisch in der zweiten Normalform, wenn es nur 
 - Welche drei Normalformen gibt es?
 
 [image-1]:	assets/dritte_normalform_kundenbeispiel-409x61.jpg
+
+#nur learning unit#

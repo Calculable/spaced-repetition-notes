@@ -24,3 +24,5 @@ Siehe auch Kapitel: "beim Segue Daten übergeben"
 
 [image-1]:	assets/4c99cb_2732717f25b14362bf3b98f13bbe21a0~mv2.png
 [image-2]:	assets/4c99cb_ffd2f85a625d4f5a82dd5496dc16ceca~mv2.png
+
+#nur learning unit#

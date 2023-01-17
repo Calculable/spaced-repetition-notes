@@ -8,3 +8,6 @@
 - Begriff für "natürliche Grösse"
 - Begriff für "wir stark will es nicht wachsen"
 - Begriff für "wie stark will es nicht schrumpfen"
+
+
+#nur learning unit#

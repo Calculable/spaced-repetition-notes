@@ -25,3 +25,5 @@ SELECT MAX( salaer ) FROM angestellter;
 ## Zusammenfassung
 - Wie ist ein Select aufgebaut?
 - Aggregatsfunktionen
+
+#nur learning unit#

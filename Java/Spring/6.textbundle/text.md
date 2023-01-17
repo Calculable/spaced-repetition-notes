@@ -16,3 +16,6 @@ Resource aClasspathTemplate = ctx.getResource("classpath:somePackage/application
 ##  Zusammenfassung
 Um was geht es?
 
+
+
+#nur learning unit#

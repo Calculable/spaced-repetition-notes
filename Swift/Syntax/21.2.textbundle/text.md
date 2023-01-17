@@ -57,3 +57,5 @@ Hinweis: `result.0` gibt den ganzen gematchten String zurück
 - Einzelne Informationen extrahieren mit Regex
 
 [1]:	https://www.hackingwithswift.com/swift/5.7/regexes
+
+#nur learning unit#
