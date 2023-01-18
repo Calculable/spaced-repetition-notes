@@ -50,6 +50,19 @@ Zum Beispiel für Accessibility, damit man nicht immer die gleiche Information w
 - Einzelne Buchstaben indivisuell anpassen (z.B. rotation etc.)
 - Links machen
 
+## Alternative 
+
+Man kann Text auch so kombinieren:
+
+```swift
+Text("SwiftUI ")
+    .font(.largeTitle)
++ Text("is ")
+    .font(.headline)
++ Text("awesome")
+    .font(.footnote)
+```
+
 ## Quelle
 Quelle: [How to add advanced text styling using AttributedString - a free SwiftUI by Example tutorial (hackingwithswift.com)][1]
 
@@ -61,6 +74,7 @@ Quelle: [How to add advanced text styling using AttributedString - a free SwiftU
 ## Zusammenfassung
 - Wie kombiniert man unterschiedliche Stylings in einem Text?
 - Anwendungsbeispiel Accessibility?
+- Alternative
 
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring

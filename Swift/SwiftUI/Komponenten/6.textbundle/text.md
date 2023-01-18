@@ -29,6 +29,11 @@ struct ContentView: View {
 }
 ```
 
+## Hinweis
+
+- Anscheinend kann man nicht mehrere `alert` Modifier aneinander hängen.
+- Lösung: Man hängt die Modifiers einfach an unterschiedliche Views.
+
 ## Zusammenfassung
 - Wie macht man einen Alert mit Bool?
 - Wie macht man einen Alert mit Optional?

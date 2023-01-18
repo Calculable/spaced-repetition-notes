@@ -21,63 +21,12 @@ NavigationStack { /* content */}
 
 Darin kann ich ganz normal navigation Links platzieren
 
-## Bei 2-Spalten Layout (Übersicht und Detail)
+## Bei 2- oder 3- Spaltenlayout
 
-
-Vorher:
-
-```swift
-NavigationView {
-	// This is deprecated.
-	/* column 1 */
-	/* column 2 */
-}
-```
-
-Nachher:
-
-```swift
-NavigationSplitView {
-	/* column 1 */
-} detail: {
-	/* column 2 */
-}
-```
-
-Was unter „detail“ eingetragen ist kann je nach gerät Initial dargestellt werden, es wird jedoch überschrieben, wenn man einen Navigation Link anklickt
-
-![][image-1]
-
-## Bei 3-Spalten Layout
-
-Vorher\_:
-
-```swift
-NavigationView { // This is deprecated. /* column 1 */ /* column 2 */ /* column 3 */}
-```
-
-```swift
-NavigationSplitView { 
-	/* column 1 */
-} content: { 
-	/* column 2 */
-} detail: {
-	/* column 3 */
-}
-```
-
-> If you need navigation within a column, embed a navigation stack in that column. This arrangement provides finer control over what each column displays.  [`NavigationSplitView`][1]  also enables you to customize column visibility and width.
-![][image-2]
-## ToDo: Ausprobieren
-
-- Todo: Programmatic Navigation
+Siehe NavigationSplit View
 
 ## Zusammenfassung
-- Wie macht man ein Ein-Spaltiges Layout, ein Zwei-Spaltiges Layout und ein Drei-Spaltiges Layout?
+- Wie macht man ein Ein-Spaltiges Layout?
 
-[1]:	https://developer.apple.com/documentation/swiftui/navigationsplitview
-
-[image-1]:	assets/DraggedImage.tiff
-[image-2]:	assets/Bildschirm%C2%ADfoto%202023-01-17%20um%2018.45.25.png
 
 #nur learning unit#

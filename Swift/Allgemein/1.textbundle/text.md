@@ -2,37 +2,40 @@
 
 ## Navigation Panel einblenden / ausblenden
 
-Command+0
+`Command+0`
 
 ## Project-Navigator einblenden / ausblenden
 
-Command+1
+`Command+1`
 
 ## Snippets aufrufen
 
-Shift-Command-L
+`Shift-Command-L`
 
 ## File im zweiten Editor öffnen
 
-Option + Klick auf das File
+`Option + Klick` auf das File
 ![][image-1]
 
 
 ## Open Quickly!
 
-Command + Shift + O
+`Command + Shift + O`
 
 ![][image-2]
 
 ## Dokumentation anzeigen
 
-Command + Shift + 0
+`Command + Shift + 0`
 
 
 ## Quick Help
 
-Option + Klick auf den Klassennamen oder Methodennamen
+`Option + Klick` auf den Klassennamen oder Methodennamen
 
+## Resume Live Preview
+
+`Option-Cmd-P`
 
 ## Zusammenfassung
 - Navigation Panel einblenden / ausblenden
@@ -42,6 +45,7 @@ Option + Klick auf den Klassennamen oder Methodennamen
 - Open Quickly
 - Dokumentation öffnen
 - Quick Help
+- Resume Live Preview
 
 [image-1]:	assets/image-asset.png
 [image-2]:	assets/image-asset-1.png

@@ -1,4 +1,4 @@
-# NavigationSplitView mit Selection Navigation  🧭
+# Selection Navigation  🧭
 
 (evt. deaktivieren)
 
