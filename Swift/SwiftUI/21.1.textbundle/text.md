@@ -1,4 +1,4 @@
-# @ScaledMetric
+# @ScaledMetric ↔️
 
 Dieser Wert wird automatisch relativ zur vom Nutzer gewählten Dynamic Type Size - Einstellung angepasst:
 

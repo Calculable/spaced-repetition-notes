@@ -1,4 +1,4 @@
-# @SceneStorage
+# @SceneStorage 💾
 
 Eigentlich gleich wie AppStorage mit dem Unterschied, dass jede Scene eine eigene Instanz hat (zum Beispiel auf dem iPad wenn die App Side-By-Side läuft):
 

@@ -29,6 +29,7 @@ struct ContentView: View {
 
 Hinweis: Wahrscheinlich wird in diesem Codebeispiel das Computed Property verwendet, weil ansonsten der Rückgabewert eine Background Color ist und nicht ein Attributed String...
 
+Beachte: Die Syntax ist nicht deklarativ!
 
 ## Wo kann es besonders sinnvoll sein?
 
@@ -50,7 +51,7 @@ Zum Beispiel für Accessibility, damit man nicht immer die gleiche Information w
 - Einzelne Buchstaben indivisuell anpassen (z.B. rotation etc.)
 - Links machen
 
-## Alternative 
+## Alternative
 
 Man kann Text auch so kombinieren:
 

@@ -37,6 +37,27 @@
 
 `Option-Cmd-P`
 
+
+## Toggle Breakpoint on Current Line
+
+`Cmd-\`
+
+## Dokumentation generieren
+
+`Option+Cmd+/`
+
+(Direkt vor dem Funktionskopf drücken)
+
+## Re-Indent Code
+
+`Ctrl+I`
+
+## Generate Interface File
+
+`Ctrl+Cmd+Up`
+
+> Xcode produces a generated interface, showing properties, function signatures, and comments
+
 ## Zusammenfassung
 - Navigation Panel einblenden / ausblenden
 - Projekt Navigator einblenden / ausblenden
@@ -46,6 +67,10 @@
 - Dokumentation öffnen
 - Quick Help
 - Resume Live Preview
+- Toggle Breakpoint on Current Line
+- Dokumentation generieren
+- Re-Indent Code
+- Generate Interface File
 
 [image-1]:	assets/image-asset.png
 [image-2]:	assets/image-asset-1.png

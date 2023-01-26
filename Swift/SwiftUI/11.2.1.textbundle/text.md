@@ -59,7 +59,7 @@ So kann man zudem die anzeige noch genauer steuern: [How to customize the displa
 
 
 ##  Zusammenfassung
-- Wie macht man ein 1- oder 2-Spaltiges Layout?
+- Wie macht man ein 2- oder 3-Spaltiges Layout?
 - ohne weitere Informationen
 
 

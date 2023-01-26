@@ -1,4 +1,4 @@
-# Profiling mit Instruments
+# Profiling mit Instruments ⏲️
 
 ## Was kann man herausfinden?
 

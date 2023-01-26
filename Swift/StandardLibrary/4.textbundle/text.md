@@ -32,6 +32,7 @@ Array(string)
 
 
 ## Zusammenfassung
+- Wir wird ein Index ausgelesen und verschoben
 - Wie kann man über einen Index-Range auf einen Teil des Strings zugreifen
 - Was wäre eine Alternative dazu?
 
