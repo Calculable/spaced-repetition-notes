@@ -33,4 +33,3 @@ class TowerInstanceTests: XCTestCase {
 ## Zusammenfassung
 - Testklasse (Protokoll)
 - Einfache Testfunktion
-- Testdown Block
