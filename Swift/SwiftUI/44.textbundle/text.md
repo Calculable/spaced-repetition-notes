@@ -1,4 +1,3 @@
-
 # Strings: Behind the scenes 🎭
 
 ## Wie sind Strings gespeichert?
@@ -30,3 +29,5 @@ for i in name.count {
 
 - Wie sind Strings gespeichert (z.B. ein Emoji)?
 - Was ist die Implikation davon?
+
+#nur learning unit#

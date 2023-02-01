@@ -1,4 +1,4 @@
-# APIs: GET 🌐
+# APIs: GET (asynchron) 🌐
 ::27::
 
 ## Model (Beispiel)

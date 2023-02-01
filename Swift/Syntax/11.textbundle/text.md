@@ -10,6 +10,7 @@ class DataManager {
 
 Hinweis zu Multithreading: If a property marked with the lazy modifier is accessed by multiple threads simultaneously and the property hasn’t yet been initialized, there’s no guarantee that the property will be initialized only once.
 
+Das kann sehr praktisch sein, wenn ein Objekt sich selbst im Konstruktor der lazy variable mitgeben will!
 
 ## Zusammenfassung
 Codebeispiel
