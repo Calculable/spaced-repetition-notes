@@ -1,4 +1,4 @@
-# Hashcode implementieren #️⃣
+# Hashcode implementieren 📄
 
 - Pflicht, wenn `equals` überschrieben wurde
 - Anforderung: Hash muss gleich sein, wenn die Objekte gleich sind

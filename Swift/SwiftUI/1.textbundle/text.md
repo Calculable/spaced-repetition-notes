@@ -16,4 +16,3 @@ struct ContentView: View {
 
 ## Zusammenfassung
 - Wie schreibt man eine View
-

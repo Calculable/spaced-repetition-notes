@@ -1,4 +1,4 @@
-# Raw Strings #️⃣
+# Raw Strings 📄
 
 Innerhalb solcher Strings werden auch `=` und `\` ganz normal dargestellt.
 

@@ -3,18 +3,25 @@
 
 ## Für was braucht man Type Erasure?
 
-- Siehe auch: Protocol Associated Type. Das Problem ist dass es keine Generics für Protokolle gibt
+ - Das Problem ist dass es keine Generics für Protokolle gibt
+- Stattdessen verwendet man Protocol Associated Types
+- Ist dies der Fall, dann kann das Protokoll nicht mehr als Existential Typ verwendet werden. (Weil man könnte das Protokoll ja gar nicht richtig verwenden, wenn man nicht weiss, welche Typen darin gespeichert sind.
+- (Beachte: Seit Swift 5.7 ist dieses Problem nicht mehr so schlimm, teilweise ist die Verwendung als existential Type möglich. Zudem gibt es neu die Primary Associated Types)
+	 
 
 - Hier ist eine sehr gute Erklärung: [https://robnapier.net/erasure][1]
+- Siehe auch: Protocol Associated Type.
 
 - Wir können eine `AnyXY<T>`-Klasse bauen, um das Problem zu beheben. Diese ist ein wie ein Wrapper.
+
+
 
 ## Vordefinierte `Any`-Typen:
 
 z.B. `AnyView`, `AnySequence`, …
 
 ```swift
-let seq = AnySequence([1,2,3])
+let seq = AnySequence<Int>([1,2,3])
 //This creates an AnySequence<Int>.
 ```
 
