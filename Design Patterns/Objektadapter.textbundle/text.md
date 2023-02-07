@@ -1,5 +1,6 @@
 
-# Objektadapter 🔌
+# Objektadapter
+🔌
 
 ## Problem
 - Man hat eine gegebene Klasse und will diese so verwenden, das sie einem bestimmten Interface entspricht

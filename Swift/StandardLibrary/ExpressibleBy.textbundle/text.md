@@ -1,4 +1,5 @@
-# ExpressibleBy 🦎
+# ExpressibleBy
+🦎
 
 Damit kann man sagen, dass sich ein Typ aus einem anderen Typ erstellen lassen können soll.
 

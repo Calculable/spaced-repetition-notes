@@ -1,4 +1,5 @@
-# Xcode shortcut: Dokumentation anzeigen 🚀
+# Xcode shortcut: Dokumentation anzeigen
+🚀
 
 ## Dokumentation anzeigen
 

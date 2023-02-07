@@ -1,4 +1,5 @@
-# Dokumentation 📝
+# Dokumentation
+📝
 
 # Code Dokumentieren: Ergänzungen
 

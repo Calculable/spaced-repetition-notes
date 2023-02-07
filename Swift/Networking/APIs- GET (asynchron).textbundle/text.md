@@ -1,4 +1,5 @@
-# APIs: GET (asynchron) 🌐
+# APIs: GET (asynchron)
+🌐
 
 ## Model (Beispiel)
 ```swift

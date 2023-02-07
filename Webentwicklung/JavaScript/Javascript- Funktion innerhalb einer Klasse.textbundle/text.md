@@ -1,4 +1,5 @@
-# Javascript: Funktion innerhalb einer Klasse 🚙
+# Javascript: Funktion innerhalb einer Klasse
+🚙
 
 ```java
 addieren(){

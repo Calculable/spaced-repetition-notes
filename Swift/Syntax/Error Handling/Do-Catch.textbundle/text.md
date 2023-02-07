@@ -1,4 +1,5 @@
-# Do-Catch 🧯
+# Do-Catch
+🧯
 
 ```swift
 do {

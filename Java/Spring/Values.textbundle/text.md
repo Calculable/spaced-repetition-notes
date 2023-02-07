@@ -1,5 +1,6 @@
 
-# Values 👤
+# Values
+👤
 
 At its simplest form, these properties live in .properties files and there could be many of them:
 

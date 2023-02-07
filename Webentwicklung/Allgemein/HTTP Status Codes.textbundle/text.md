@@ -1,4 +1,5 @@
-# HTTP Status Codes 🟢
+# HTTP Status Codes
+🟢
 
 1xx- Informational Request.
 2xx- Request was successful.

@@ -1,4 +1,5 @@
-# Xcode shortcut: Dokumentation generieren 🚀
+# Xcode shortcut: Dokumentation generieren
+🚀
 
 ## Dokumentation generieren
 

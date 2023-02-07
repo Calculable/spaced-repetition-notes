@@ -1,4 +1,5 @@
-# NS Cache 💾
+# NS Cache
+💾
 
 ##  Zweck
 Funktioniert wie ein Dictionary, aber: iOS entfernt automatisch Inhalte, wenn das Gerät nicht mehr viel Speicherplatz hat.

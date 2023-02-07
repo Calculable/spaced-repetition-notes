@@ -1,4 +1,5 @@
-# Accessibility: System-Optionen auslesen 🦮
+# Accessibility: System-Optionen auslesen
+🦮
 
 Beispiel: Differentiate without Color.
 

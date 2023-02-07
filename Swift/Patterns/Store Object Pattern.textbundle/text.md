@@ -1,4 +1,5 @@
-# Store Object Pattern 💾
+# Store Object Pattern
+💾
 
 ## Was sind Store Objects?
 

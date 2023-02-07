@@ -1,4 +1,5 @@
-# APIs: POST 🌐
+# APIs: POST
+🌐
 
 ## Model (Beispiel)
 ```swift

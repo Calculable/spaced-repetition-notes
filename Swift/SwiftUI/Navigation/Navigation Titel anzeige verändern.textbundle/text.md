@@ -1,4 +1,5 @@
-# Navigation Titel anzeige verändern 🧭
+# Navigation Titel anzeige verändern
+🧭
 
 Für kleinere Titel: 
 

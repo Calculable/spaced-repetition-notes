@@ -1,4 +1,5 @@
-# Encoding / Decoding 📠
+# Encoding / Decoding
+📠
 
 ## Codierbares Model
 

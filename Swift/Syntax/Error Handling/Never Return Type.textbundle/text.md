@@ -1,4 +1,5 @@
-# Never Return Type 🧨
+# Never Return Type
+🧨
 
 ##  Zweck
 The `Never` return type is a special one in Swift, and tells the compiler that execution will never return when this function is called.

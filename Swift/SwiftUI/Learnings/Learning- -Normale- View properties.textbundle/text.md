@@ -1,4 +1,5 @@
-# Learning: "Normale" View properties 🧠
+# Learning: "Normale" View properties
+🧠
 
 ## Beispiel
 

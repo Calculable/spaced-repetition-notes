@@ -1,4 +1,5 @@
-# Failable Initializer 🛫
+# Failable Initializer
+🛫
 
 ##  Failable Initializers
 

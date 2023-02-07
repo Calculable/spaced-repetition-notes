@@ -1,5 +1,6 @@
 
-# Singleton 🍷
+# Singleton
+🍷
 
 ## Zweck
 

@@ -1,4 +1,5 @@
-# Flutter: Grundlagen 📱
+# Flutter: Grundlagen
+📱
 
 ## Hinweise
 - Open Source

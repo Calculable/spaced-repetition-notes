@@ -1,4 +1,5 @@
-# Primary Associated Types 🥇
+# Primary Associated Types
+🥇
 
 
 Dieser Code hat ein Problem: Wir wollen zum Beispiel, dass innerhalb der Collection nur "Tracks" sein dürfen:

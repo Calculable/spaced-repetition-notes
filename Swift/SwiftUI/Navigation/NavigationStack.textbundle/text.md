@@ -1,4 +1,5 @@
-# NavigationStack 🧭
+# NavigationStack
+🧭
 
 ## Navigation Stack löst die NavigationView ab
 

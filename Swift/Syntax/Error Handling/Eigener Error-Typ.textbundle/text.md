@@ -1,4 +1,5 @@
-# Eigener Error-Typ 💥
+# Eigener Error-Typ
+💥
 
 ```swift
 enum VendingMachineError: Error { //error ist ein Protokoll

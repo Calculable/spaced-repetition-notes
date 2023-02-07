@@ -1,4 +1,5 @@
-# Layout: 3 Schritte 🟪
+# Layout: 3 Schritte
+🟪
 
 ## Three Steps
 

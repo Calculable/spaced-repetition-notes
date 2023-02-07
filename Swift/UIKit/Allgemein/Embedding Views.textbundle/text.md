@@ -1,4 +1,5 @@
-# Embedding Views 🪟
+# Embedding Views
+🪟
 
 ## Häufige Embedding Views:
 - View

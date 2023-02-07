@@ -1,4 +1,5 @@
-# Sichtbarkeiten 👓
+# Sichtbarkeiten
+👓
 
 - `public`: Sichtbar für alle Klassen
 - `protected`: Sichtbare für Package und Subklassen

@@ -1,4 +1,5 @@
-# Super Initializer 🛫
+# Super Initializer
+🛫
 
 ## Super Initializer aufrufen
 Wenn man kein `override` schreibt, wird der Super-Initializier Implizit aufgerufen:

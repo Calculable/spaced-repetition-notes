@@ -1,4 +1,5 @@
-# Accessibility: Kind-Elemente ignorieren 🦮
+# Accessibility: Kind-Elemente ignorieren
+🦮
 
 ```swift
 VStack {

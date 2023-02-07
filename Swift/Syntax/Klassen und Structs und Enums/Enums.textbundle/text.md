@@ -1,4 +1,5 @@
-# Enums 🪸
+# Enums
+🪸
 
 ## Mit Typextension
 ```swift

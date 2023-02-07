@@ -1,4 +1,5 @@
-# Polymorphismus 🎭
+# Polymorphismus
+🎭
 
 
 Ein Objekt hat nicht nur den Typ seiner Klasse, sondern auch die Typen seiner Superklassen

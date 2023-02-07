@@ -1,4 +1,5 @@
-# Lazy Sequence 🦥
+# Lazy Sequence
+🦥
 
 ## Zweck
 Die Zahlen werden erst berechnet, wenn sie benötigt werden

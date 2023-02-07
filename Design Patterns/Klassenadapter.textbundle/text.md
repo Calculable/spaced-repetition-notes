@@ -1,4 +1,5 @@
-# Klassenadapter 🔌
+# Klassenadapter
+🔌
 
 ## Lösung
 

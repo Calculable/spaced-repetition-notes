@@ -1,4 +1,5 @@
-# Main Actor 🤴
+# Main Actor
+🤴
 
 - Es geht darum, dass alle Änderungen, die eine Auswirkung auf das UI haben, im Main Actor geschehen müssen
 - In der Regel sorgt man dafür, dass der ganze View / ViewModel Code im Main Actor läuft. 

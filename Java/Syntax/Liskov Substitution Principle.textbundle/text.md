@@ -1,4 +1,5 @@
-# Liskov Substitution Principle  🎭
+# Liskov Substitution Principle 
+🎭
 
 Objekte einer Klasse soll man durch Objekte einer Subklasse ersetzen können, ohne die Programm-Korrektheit zu verletzen.
 

@@ -1,4 +1,5 @@
-# Dateien im App Template 🎬
+# Dateien im App Template
+🎬
 
 
 1.  **YourProjectName.swift**. This performs an initial set up, then creates and displays your initial view.

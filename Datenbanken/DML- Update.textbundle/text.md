@@ -1,4 +1,5 @@
-# DML: Update 🔄
+# DML: Update
+🔄
 ```sql
 UPDATE abteilung SET name='Verkauf' WHERE abtnr=3;
 ```

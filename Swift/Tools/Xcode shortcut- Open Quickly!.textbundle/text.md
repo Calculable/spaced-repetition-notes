@@ -1,4 +1,5 @@
-# Xcode shortcut: Open Quickly! 🚀
+# Xcode shortcut: Open Quickly!
+🚀
 
 ## Open Quickly!
 

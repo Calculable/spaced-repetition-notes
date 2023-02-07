@@ -1,4 +1,5 @@
-# Animation: Binding Changes 🚁
+# Animation: Binding Changes
+🚁
 
 
 ```swift

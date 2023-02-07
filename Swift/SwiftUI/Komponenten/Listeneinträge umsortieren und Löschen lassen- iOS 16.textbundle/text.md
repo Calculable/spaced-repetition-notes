@@ -1,4 +1,5 @@
-# Listeneinträge umsortieren und Löschen lassen: iOS 16 👆
+# Listeneinträge umsortieren und Löschen lassen: iOS 16
+👆
 
 ## Beispiel
 Mit iOS 16 einfacher dank editActions

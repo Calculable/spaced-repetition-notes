@@ -1,4 +1,5 @@
-# Theorie: Document-Based App 📄
+# Theorie: Document-Based App
+📄
 
 ## Definition
 

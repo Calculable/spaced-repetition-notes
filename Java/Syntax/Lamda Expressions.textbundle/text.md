@@ -1,4 +1,5 @@
-# Lamda Expressions 🥷
+# Lamda Expressions
+🥷
 
 ##  Beispiel
 ![][image-1]

@@ -1,4 +1,5 @@
-# FizzBuzz Test 👍
+# FizzBuzz Test
+👍
 
 ##  Anweisung
 -   If the integer is evenly divisible by three, it should return “Fizz”.

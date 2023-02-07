@@ -1,4 +1,5 @@
-# RandomAccessCollection 🎲
+# RandomAccessCollection
+🎲
 
 - Ein Protokoll, welches besagt, dass man über ein Subscript mit Index auf die Elemente zugreifen kann.
 - Wird zum Beispiel von Array implementiert

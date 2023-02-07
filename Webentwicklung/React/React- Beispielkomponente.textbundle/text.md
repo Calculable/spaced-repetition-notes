@@ -1,4 +1,5 @@
-# React: Beispielkomponente 🧩
+# React: Beispielkomponente
+🧩
 
 - Im JS gibt man die Komponente zurück (JSX Syntax)
 - Data gibt man mit `props` in die Komponenten

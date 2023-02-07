@@ -1,4 +1,5 @@
-# Closures 📞
+# Closures
+📞
 
 ## Syntax
 

@@ -1,4 +1,5 @@
-# Textfeld für numerische Werte 🧩
+# Textfeld für numerische Werte
+🧩
 
 ```swift
 TextField("Amount", value: $checkAmount, format: .currency(code: Locale.current.currencyCode ?? "USD"))

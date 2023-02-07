@@ -1,4 +1,5 @@
-# Initializer 🛫
+# Initializer
+🛫
 
 ## Designated Initializer
 - Initializiert alle Properties

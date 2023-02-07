@@ -1,4 +1,5 @@
-# unterschiedliche Views zurückgeben 🪟
+# unterschiedliche Views zurückgeben
+🪟
 
 ## Lösung 1: Ternary Conditional Operator verwenden
 ```swift

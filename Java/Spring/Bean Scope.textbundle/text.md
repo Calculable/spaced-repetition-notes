@@ -1,5 +1,6 @@
 
-# Bean Scope 🫘
+# Bean Scope
+🫘
 
 - Singleton
 - Session

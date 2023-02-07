@@ -1,4 +1,5 @@
-# Animation: withAnimation 🚁
+# Animation: withAnimation
+🚁
 
 ```swift
 withAnimation(.interpolatingSpring(stiffness: 5, damping: 1)) {

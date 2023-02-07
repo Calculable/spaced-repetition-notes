@@ -1,4 +1,5 @@
-# Arrays 📚
+# Arrays
+📚
 
 ```swift
 var shoppingList = ["catfish", "water", "tulips"]

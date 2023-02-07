@@ -1,4 +1,5 @@
-# React: Erweiterungen 🧩
+# React: Erweiterungen
+🧩
 
 - Kann erweitert werden mit weiteren Libraries
 - z.b: Redux für State Management

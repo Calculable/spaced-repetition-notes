@@ -1,4 +1,5 @@
-# SceneDelegate Lifecycle Methoden 🔄
+# SceneDelegate Lifecycle Methoden
+🔄
 
 - `sceneDidBecomeActive`
 - `sceneWillResignActive`: Zum Beispiel bei einem eingehenden Telefonanruf
@@ -7,7 +8,7 @@
 
 ## Zusammenfassung
 - Welche 4 Lifecycle Methoden gibt es?
-					 
+						 
 
 
 #nur learning unit#

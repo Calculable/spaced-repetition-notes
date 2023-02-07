@@ -1,4 +1,5 @@
-# Xcode shortcut: Quick Help 🚀
+# Xcode shortcut: Quick Help
+🚀
 
 ## Quick Help
 

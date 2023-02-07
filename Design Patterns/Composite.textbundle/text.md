@@ -1,5 +1,6 @@
 
-# Composite 🪆
+# Composite
+🪆
 
 - Eine Klasse, die sich selbst enthält
 - Nicht verwechseln mit Decorator-Pattern

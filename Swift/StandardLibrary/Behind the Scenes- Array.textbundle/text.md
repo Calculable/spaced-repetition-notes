@@ -1,4 +1,5 @@
-# Behind the Scenes: Array 📚
+# Behind the Scenes: Array
+📚
 
 ## Schneller Zugriff mit Index
 - Die Elemente liegen alle nebeneinander im Speicher

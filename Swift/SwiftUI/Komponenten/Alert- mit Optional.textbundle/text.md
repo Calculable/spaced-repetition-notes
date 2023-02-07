@@ -1,4 +1,5 @@
-# Alert: mit Optional 🧩
+# Alert: mit Optional
+🧩
 
 ## Beispiel
 Beachte: Es braucht den Boolean noch immer

@@ -1,4 +1,5 @@
-# Funktionen: Varadic Parameters 📄
+# Funktionen: Varadic Parameters
+📄
 
 
 ```swift

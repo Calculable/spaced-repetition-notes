@@ -1,4 +1,5 @@
-# Klassendiagramm 🔃
+# Klassendiagramm
+🔃
 
 ## Einzelne Klasse
 ![][image-1]

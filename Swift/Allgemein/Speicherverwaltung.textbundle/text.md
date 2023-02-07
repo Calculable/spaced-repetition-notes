@@ -1,4 +1,5 @@
-# Speicherverwaltung 🚮
+# Speicherverwaltung
+🚮
 
 - Automatic Reference Count (ARC)
 - Problem: Wenn sich Objekte gegenseitig referezieren können sie nie entfernt werden

@@ -1,4 +1,5 @@
-# Tree 🌳
+# Tree
+🌳
 
 ## Begriffe
 - **Root**-Objekt

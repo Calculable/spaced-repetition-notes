@@ -1,4 +1,5 @@
-# CSS Media Queries 📱
+# CSS Media Queries
+📱
 
 ```java
 @media screen and (min-width: 480px) {

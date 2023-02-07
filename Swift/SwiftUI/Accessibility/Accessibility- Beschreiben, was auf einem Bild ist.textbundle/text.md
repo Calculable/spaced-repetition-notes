@@ -1,4 +1,5 @@
-# Accessibility: Beschreiben, was auf einem Bild ist 🦮
+# Accessibility: Beschreiben, was auf einem Bild ist
+🦮
 
 ## Beschreiben, was auf einem Bild ist
 

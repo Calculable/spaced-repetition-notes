@@ -1,4 +1,5 @@
-# AppDelegate, SceneDelegate 🔄
+# AppDelegate, SceneDelegate
+🔄
 
 
 ## App Delegate

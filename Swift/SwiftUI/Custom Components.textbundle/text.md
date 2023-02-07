@@ -1,4 +1,5 @@
-# Custom Components 🧩
+# Custom Components
+🧩
 
 ## Ohne `@Binding`
 Man macht einfach seine eigene View-Klasse

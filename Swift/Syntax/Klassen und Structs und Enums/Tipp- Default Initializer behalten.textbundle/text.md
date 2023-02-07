@@ -1,4 +1,5 @@
-# Tipp: Default Initializer behalten 🛫
+# Tipp: Default Initializer behalten
+🛫
 
 Wenn man im Struct einen eigenen Initializer schreibt, dann wird der default Initializer in der Regel gelöscht.
 

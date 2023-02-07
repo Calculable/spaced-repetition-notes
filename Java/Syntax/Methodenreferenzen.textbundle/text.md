@@ -1,4 +1,5 @@
-# Methodenreferenzen 👉
+# Methodenreferenzen
+👉
 
 ##  Beispiel
 Eine Methode erwartet als Parameter ein Interface-Typ. Dieser Interface-Typ hat nur eine zu implementierende Funktion. Dann kann man beim Methodenaufruf auf gleiche eine Methodenreferenz übergeben:

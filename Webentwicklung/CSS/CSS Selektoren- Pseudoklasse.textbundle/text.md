@@ -1,4 +1,5 @@
-# CSS Selektoren: Pseudoklasse 👆
+# CSS Selektoren: Pseudoklasse
+👆
 
 ##  Pseudoklassen
 ```java

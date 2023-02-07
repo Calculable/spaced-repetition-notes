@@ -1,4 +1,5 @@
-# Self vs self 👤
+# Self vs self
+👤
 
 
 `Self` bezieht sich auf den konkreten Typ (z.B. Int) und `self` bezieht sich auf die aktuelle Instanz.

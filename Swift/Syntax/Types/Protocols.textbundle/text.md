@@ -1,4 +1,5 @@
-# Protocols 📜
+# Protocols
+📜
 
 ```swift
 protocol ExampleProtocol {

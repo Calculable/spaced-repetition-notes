@@ -1,4 +1,5 @@
-# Listeneinträge umsortieren und Löschen lassen: vor iOS 16 👆
+# Listeneinträge umsortieren und Löschen lassen: vor iOS 16
+👆
 
 
 ```swift

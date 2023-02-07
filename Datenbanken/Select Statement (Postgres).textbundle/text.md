@@ -1,4 +1,5 @@
-# Select Statement (Postgres) 👆
+# Select Statement (Postgres)
+👆
 
 ## Aufbau
 

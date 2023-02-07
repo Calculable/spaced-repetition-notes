@@ -1,4 +1,5 @@
-# Error und Exception 💥
+# Error und Exception
+💥
 
 ![][image-1]
 

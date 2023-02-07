@@ -1,4 +1,5 @@
-# HTTP Verben 🌐
+# HTTP Verben
+🌐
 
 - GET
 - PUT: Für update (ganzes Objekt)

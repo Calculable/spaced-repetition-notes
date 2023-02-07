@@ -1,4 +1,5 @@
-# Sequence Protokoll 📚
+# Sequence Protokoll
+📚
 
 ## Zweck
 - Das Sequence Protokoll erlaubt es uns, mit `for` über eine Datenstruktur zu iterieren.

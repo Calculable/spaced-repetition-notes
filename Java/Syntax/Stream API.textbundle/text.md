@@ -1,4 +1,5 @@
-# Stream API 🌊
+# Stream API
+🌊
 
 ## Beispiel
 ![][image-1]
@@ -11,7 +12,7 @@
 	```
 
 - Denn die **Zwischenoperationen** geben nicht eine **Collection** zurück, sondern ein `Stream<String>`!
-		 
+			 
 ![][image-2]
 
 ##  Vorteile

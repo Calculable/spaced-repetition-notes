@@ -1,4 +1,5 @@
-# Escaping Closure 📞
+# Escaping Closure
+📞
 
 ## @Escaping Closure
 

@@ -1,4 +1,5 @@
-# Transition 🐰
+# Transition
+🐰
 
 ```swift
 if isShowingRed {

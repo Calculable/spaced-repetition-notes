@@ -1,4 +1,5 @@
-# Optionals als Functors und Monads 🫙
+# Optionals als Functors und Monads
+🫙
 
 ## Map
 

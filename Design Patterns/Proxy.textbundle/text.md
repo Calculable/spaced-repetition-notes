@@ -1,5 +1,6 @@
 
-# Proxy 📞
+# Proxy
+📞
 
 - Man kontrolliert die Methodenaufrufe auf ein Objekt
 - Zum Beispiel für Logging, Inspection, Firewall, Cache

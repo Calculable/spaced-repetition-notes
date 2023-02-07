@@ -1,3 +1,0 @@
-# Unit Testing: XCTFail 👁️‍🗨️
-
-`XCTFail()`

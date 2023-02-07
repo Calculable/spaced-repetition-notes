@@ -1,4 +1,5 @@
-# CoreData: Neue Entity erzeugen 📟
+# CoreData: Neue Entity erzeugen
+📟
 
 
 ```swift

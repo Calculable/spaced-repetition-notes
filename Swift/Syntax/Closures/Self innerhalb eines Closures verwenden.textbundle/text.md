@@ -1,4 +1,5 @@
-# Self innerhalb eines Closures verwenden 👤
+# Self innerhalb eines Closures verwenden
+👤
 
 - Innerhalb eines Closures muss `self` immer angegeben werden.
 - Statt `self` kann man auch `self?` angeben. Somit ist man gezwungen darüber nachzudenken, ob man Strong oder Weak Capture verwerden will.

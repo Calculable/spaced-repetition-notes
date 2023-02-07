@@ -1,4 +1,5 @@
-# Error werfen 💥
+# Error werfen
+💥
 
 ```swift
 func canThrowAnError() throws -> String { //beachte: throws

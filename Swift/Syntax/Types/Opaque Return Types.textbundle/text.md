@@ -1,4 +1,5 @@
-# Opaque Return Types 🚗
+# Opaque Return Types
+🚗
 
 ##  Beispiel
 ```swift

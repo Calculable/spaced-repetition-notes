@@ -1,4 +1,5 @@
-# Auf Szenen-Änderungen reagieren 🐇
+# Auf Szenen-Änderungen reagieren
+🐇
 
 ## Codebeispiel
 ```swift

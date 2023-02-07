@@ -1,5 +1,5 @@
-
-# Template Method 📑
+# Template Method
+📑
 
 ## Zweck
 

@@ -1,4 +1,5 @@
-# Binary Tree Traversieren 🌳
+# Binary Tree Traversieren 
+🌳
 
 ## Beispiel Baum:
 	 A

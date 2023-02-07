@@ -1,4 +1,5 @@
-# Typescript Typen 🦆
+# Typescript Typen
+🦆
 
 ```java
 // There are 3 basic types in TypeScript

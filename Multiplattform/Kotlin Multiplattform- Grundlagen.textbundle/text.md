@@ -1,4 +1,5 @@
-# Kotlin Multiplattform: Grundlagen 📱
+# Kotlin Multiplattform: Grundlagen
+📱
 
 ## Hinweise
 

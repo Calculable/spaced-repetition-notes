@@ -1,4 +1,5 @@
-# Synthesized Implementation 🤖
+# Synthesized Implementation
+🤖
 
 - Für einige Swift-Protokolle gibt es Synthesized Implementationen.
 - Das heisst man muss es nicht selbst implementieren (bei Structs)

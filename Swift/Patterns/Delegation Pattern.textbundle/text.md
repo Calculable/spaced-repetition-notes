@@ -1,4 +1,5 @@
-# Delegation Pattern 🍷
+# Delegation Pattern
+🍷
 
 ```swift
 protocol DiceGameDelegate: AnyObject {

@@ -1,4 +1,5 @@
-# Xcode shortcut: Resume Live Preview 🚀
+# Xcode shortcut: Resume Live Preview
+🚀
 
 ## Resume Live Preview
 

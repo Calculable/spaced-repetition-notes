@@ -1,4 +1,5 @@
-# Object Diagram 💈
+# Object Diagram
+💈
 
 ![][image-1]
 

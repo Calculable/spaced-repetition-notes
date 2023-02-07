@@ -1,4 +1,5 @@
-# Pfad für Konsolenapplikationen 📃
+# Pfad für Konsolenapplikationen
+📃
 
 Wenn Applikationen hier abgelegt werden, können sie direkt von der Konsole gestartet werden:
 

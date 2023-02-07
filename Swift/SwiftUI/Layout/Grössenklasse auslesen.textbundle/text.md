@@ -1,4 +1,5 @@
-# Grössenklasse auslesen 📱
+# Grössenklasse auslesen
+📱
 
 Es gibt nur `compact` und `regular` nichts dazwischen. 
 

@@ -1,4 +1,5 @@
-# Xamarin: Grundlagen 📱
+# Xamarin: Grundlagen
+📱
 - Von Microsoft
 - Visual Studio
 - Kompiliert auf Windows, iOS und Android

@@ -1,4 +1,5 @@
-# Basic Auth 🔑
+# Basic Auth
+🔑
 
 username + password encoded as base64
 

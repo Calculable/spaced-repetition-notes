@@ -1,4 +1,5 @@
-# DML: Insert 📥
+# DML: Insert
+📥
 
 ```sql
 INSERT INTO abteilung VALUES (23, 'Verkauf');

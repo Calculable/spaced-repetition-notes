@@ -1,4 +1,5 @@
-# Begriff: Unterschied zwischen Protokoll und Existential Type 📄
+# Begriff: Unterschied zwischen Protokoll und Existential Type
+📄
 
 Idealerweise werden Protokolle in Kombination mit Generic Constraints verwendet:
 

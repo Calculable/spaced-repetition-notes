@@ -1,4 +1,5 @@
-# Strings: Behind the scenes 🎭
+# Strings: Behind the scenes
+🎭
 
 ## Wie sind Strings gespeichert?
 > Swift strings are complex collections of characters, where multiple symbols might combine together to a form a single letter visible to users. For example, an emoji as simple as the British flag is actually made up of two distinct unicode characters.

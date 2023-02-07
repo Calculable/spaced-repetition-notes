@@ -1,4 +1,5 @@
-# Navigation Link 🔗
+# Navigation Link
+🔗
 
 ## Beispiel
 ```swift
@@ -11,6 +12,6 @@ NavigationLink {
 
 ##  Siehe auch
 - NavigationStack, NavigationStack mit Programatic Navigation und NavigationStack mit Selection Navigation
-			 
+				 
 ## Zusammenfassung
 Beispiel

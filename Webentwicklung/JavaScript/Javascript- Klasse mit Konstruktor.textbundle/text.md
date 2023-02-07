@@ -1,4 +1,5 @@
-# Javascript: Klasse mit Konstruktor 🚙
+# Javascript: Klasse mit Konstruktor
+🚙
 
 ```java
 class Beispiel {

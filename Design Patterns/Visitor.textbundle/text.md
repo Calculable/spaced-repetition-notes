@@ -1,5 +1,6 @@
 
-# Visitor 👋
+# Visitor
+👋
 
 ## Problem: Double-Dispatch
 

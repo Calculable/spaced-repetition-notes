@@ -1,4 +1,5 @@
-# Xcode shortcut: Re-Indent Code 🚀
+# Xcode shortcut: Re-Indent Code
+🚀
 
 ## Re-Indent Code
 

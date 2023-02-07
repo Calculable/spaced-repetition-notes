@@ -1,5 +1,6 @@
 
-# Bridge 🌉
+# Bridge
+🌉
 
 Vorher
 ![][image-1]

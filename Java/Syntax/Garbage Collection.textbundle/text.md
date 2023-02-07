@@ -1,4 +1,5 @@
-# Garbage Collection 🚮
+# Garbage Collection
+🚮
 
 ## Stack und Heap
 - **Stack**: Kann auf Objekte im Heap referenzierten (beinhaltet zum Beispiel die Rücksprung-Adressen bei Funktionen)

@@ -1,4 +1,5 @@
-# Argument Parser 📃
+# Argument Parser
+📃
 
 ## Einstiegspunkt
 

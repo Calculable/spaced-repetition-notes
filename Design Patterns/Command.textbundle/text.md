@@ -1,5 +1,6 @@
 
-# Command 🪖
+# Command
+🪖
 
 - Trennung von Funktion und Ausführen der Funktion
 - Anwendungsfälle:

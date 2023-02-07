@@ -1,4 +1,5 @@
-# ERD Model 💿
+# ERD Model
+💿
 
 ![][image-1]
 

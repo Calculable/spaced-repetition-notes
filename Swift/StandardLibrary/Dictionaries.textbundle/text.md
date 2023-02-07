@@ -1,4 +1,5 @@
-# Dictionaries 📕
+# Dictionaries
+📕
 
 ```swift
 var occupations = [

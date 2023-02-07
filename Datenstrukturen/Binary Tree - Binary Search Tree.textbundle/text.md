@@ -1,4 +1,5 @@
-# Binary Tree / Binary Search Tree 🌳
+# Binary Tree / Binary Search Tree
+🌳
 
 ## Was ist ein Binary Tree?
 - Wie ein Tree aber jeder Knoten kann maximal zwei Kinder haben.

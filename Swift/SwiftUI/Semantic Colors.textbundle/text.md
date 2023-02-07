@@ -1,4 +1,5 @@
-# Semantic Colors 🎨
+# Semantic Colors
+🎨
 
 ##  Vorteil
 Sehen auch im Dark Mode gut aus (passen sich an)

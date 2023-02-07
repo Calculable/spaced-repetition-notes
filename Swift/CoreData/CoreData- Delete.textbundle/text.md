@@ -1,4 +1,5 @@
-# CoreData: Delete 📟
+# CoreData: Delete
+📟
 
 ```swift
 moc.delete(book)
@@ -6,4 +7,4 @@ moc.delete(book)
 ```
 
 ## Zusammenfassung
-- Delete 
+- Delete

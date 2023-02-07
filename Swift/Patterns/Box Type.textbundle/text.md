@@ -1,4 +1,5 @@
-# Box Type 🎁
+# Box Type
+🎁
 
 ## Um was geht es?
 

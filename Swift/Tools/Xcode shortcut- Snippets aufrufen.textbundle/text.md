@@ -1,4 +1,5 @@
-# Xcode shortcut: Snippets aufrufen 🚀
+# Xcode shortcut: Snippets aufrufen
+🚀
 
 ## Snippets aufrufen
 

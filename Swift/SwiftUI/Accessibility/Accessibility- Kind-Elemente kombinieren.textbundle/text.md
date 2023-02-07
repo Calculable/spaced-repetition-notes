@@ -1,4 +1,5 @@
-# Accessibility: Kind-Elemente kombinieren 🦮
+# Accessibility: Kind-Elemente kombinieren
+🦮
 
 ```swift
 VStack {

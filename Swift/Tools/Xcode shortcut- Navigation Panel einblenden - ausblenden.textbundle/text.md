@@ -1,4 +1,5 @@
-# Xcode shortcut: Navigation Panel einblenden / ausblenden 🚀
+# Xcode shortcut: Navigation Panel einblenden / ausblenden
+🚀
 
 ## Navigation Panel einblenden / ausblenden
 

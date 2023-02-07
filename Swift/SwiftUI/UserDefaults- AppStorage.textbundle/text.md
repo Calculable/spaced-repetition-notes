@@ -1,4 +1,5 @@
-# UserDefaults: AppStorage 💾
+# UserDefaults: AppStorage
+💾
 
 ```swift
 @AppStorage("tapCount") private var tapCount = 0

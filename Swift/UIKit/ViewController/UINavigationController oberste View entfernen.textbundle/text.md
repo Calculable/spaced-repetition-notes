@@ -1,4 +1,5 @@
-# UINavigationController oberste View entfernen 🥞
+# UINavigationController oberste View entfernen
+🥞
 
 ```swift
 self.navigationController?.popViewController(animated: true)

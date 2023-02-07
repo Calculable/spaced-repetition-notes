@@ -1,4 +1,5 @@
-# Picker 🧩
+# Picker
+🧩
 
 ```swift
 Picker("Select your student", selection: $selectedStudent){

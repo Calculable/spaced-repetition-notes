@@ -1,4 +1,5 @@
-#  Activity Diagram 🚴
+#  Activity Diagram
+🚴
 
 ![][image-1]
 

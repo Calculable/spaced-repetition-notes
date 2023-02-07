@@ -1,4 +1,5 @@
-# CoreData: Fetch Request mit Sort Descriptor 🐶
+# CoreData: Fetch Request mit Sort Descriptor
+🐶
 
 ##  Beispiel
 

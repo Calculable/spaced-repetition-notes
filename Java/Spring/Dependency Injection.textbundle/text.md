@@ -1,5 +1,6 @@
 
-# Dependency Injection 💉
+# Dependency Injection
+💉
 
 - Field Injection
 - Setter injection

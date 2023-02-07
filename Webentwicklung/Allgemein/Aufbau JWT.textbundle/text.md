@@ -1,4 +1,5 @@
-# Aufbau JWT 🔑
+# Aufbau JWT
+🔑
 
 - Bearer/token: tokens called bearer tokens. Often JWT
 	- Token Header: Enthält den Algorithmus

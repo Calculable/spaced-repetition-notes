@@ -1,4 +1,5 @@
-# Unterschied Sorted und Ordered 🎱
+# Unterschied Sorted und Ordered
+🎱
 
 - "Ordered" heisst, dass beim Einfügen die Reihenfolge gleich bleibt, "Sorted" heisst, dass es nach einem bestimmten Kriterium sortiert wurde.
 

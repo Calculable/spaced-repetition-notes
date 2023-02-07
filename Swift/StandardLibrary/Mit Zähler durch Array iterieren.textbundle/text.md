@@ -1,4 +1,5 @@
-# Mit Zähler durch Array iterieren 🔁
+# Mit Zähler durch Array iterieren
+🔁
 
 ```swift
  for (index, item) in myArray.enumerated() {

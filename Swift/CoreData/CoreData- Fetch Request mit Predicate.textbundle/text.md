@@ -1,4 +1,5 @@
-# CoreData: Fetch Request mit Predicate 🐶
+# CoreData: Fetch Request mit Predicate
+🐶
 
 ## Beispiel
 ```swift

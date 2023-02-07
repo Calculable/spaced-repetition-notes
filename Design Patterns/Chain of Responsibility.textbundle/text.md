@@ -1,5 +1,6 @@
 
-# Chain of Responsibility 🪖
+# Chain of Responsibility
+🪖
 
 
 >  This pattern decouples sender and receiver of a request based on type of request.

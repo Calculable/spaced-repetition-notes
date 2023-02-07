@@ -1,4 +1,5 @@
-# CSS Selektoren: Mehrere Klassen 👆
+# CSS Selektoren: Mehrere Klassen
+👆
 
 ```java
 .class1.class2 { }

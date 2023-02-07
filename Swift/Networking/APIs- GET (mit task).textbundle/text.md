@@ -1,4 +1,5 @@
-# APIs: GET (mit task) 🌐
+# APIs: GET (mit task)
+🌐
   
   Mit Data Task muss die Funktion nicht asynchron sein, weil man mit Callbacks arbeitet
 

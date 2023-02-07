@@ -1,4 +1,5 @@
-# Generics 🎉
+# Generics
+🎉
 
 ##  Generische Funktion
 ```swift

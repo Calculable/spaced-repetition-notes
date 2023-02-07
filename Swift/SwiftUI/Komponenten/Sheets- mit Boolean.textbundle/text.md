@@ -1,4 +1,5 @@
-# Sheets: mit Boolean 📃
+# Sheets: mit Boolean
+📃
 
 ## Anzeigen: mit Boolean
 ```swift

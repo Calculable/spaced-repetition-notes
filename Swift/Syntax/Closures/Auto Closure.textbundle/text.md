@@ -1,4 +1,5 @@
-# Auto Closure 📞
+# Auto Closure
+📞
 
 ## Auto Closure
 

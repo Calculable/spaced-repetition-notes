@@ -1,5 +1,5 @@
-
-# NavigationSplitView 🧭
+# NavigationSplitView
+🧭
 
 ## Bei 2-Spalten Layout (Übersicht und Detail)
 

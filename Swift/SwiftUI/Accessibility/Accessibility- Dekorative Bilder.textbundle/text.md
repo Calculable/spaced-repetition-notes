@@ -1,4 +1,5 @@
-# Accessibility: Dekorative Bilder 🦮
+# Accessibility: Dekorative Bilder
+🦮
 
 ```swift
 Image(decorative: "character")

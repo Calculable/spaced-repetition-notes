@@ -1,4 +1,5 @@
-# Der Result-Typ 🎉
+# Der Result-Typ
+🎉
 
 ## Definition
 

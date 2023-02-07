@@ -1,4 +1,5 @@
-# Xcode shortcut: Project-Navigator einblenden / ausblenden 🚀
+# Xcode shortcut: Project-Navigator einblenden / ausblenden
+🚀
 
 ## Project-Navigator einblenden / ausblenden
 

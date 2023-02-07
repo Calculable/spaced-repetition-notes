@@ -1,4 +1,5 @@
-# Aggregatsfunktion (Postgres) 👆
+# Aggregatsfunktion (Postgres)
+👆
 
 ```sql
 SELECT MAX( salaer ) FROM angestellter;

@@ -1,4 +1,5 @@
-# Xcode shortcut: File im zweiten Editor öffnen 🚀
+# Xcode shortcut: File im zweiten Editor öffnen
+🚀
 
 ## File im zweiten Editor öffnen
 

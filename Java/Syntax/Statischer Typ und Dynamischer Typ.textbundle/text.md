@@ -1,4 +1,5 @@
-# Statischer Typ und Dynamischer Typ 🚙
+# Statischer Typ und Dynamischer Typ
+🚙
 
 - Wird ein Objekt als Parameter übergeben, spielt für das Overloading der statische Typ eine Rolle
 - Wird eine Methode auf einem Objekt aufgerufen, spielt für das Overriding der dynamische Typ eine Rolle

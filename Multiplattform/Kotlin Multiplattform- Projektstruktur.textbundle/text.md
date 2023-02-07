@@ -1,4 +1,5 @@
-# Kotlin Multiplattform: Projektstruktur 📱
+# Kotlin Multiplattform: Projektstruktur
+📱
 
 ##  Projektstruktur
 

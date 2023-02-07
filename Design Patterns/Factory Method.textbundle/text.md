@@ -1,5 +1,6 @@
 
-# Factory Method 🏭
+# Factory Method
+🏭
 
 ## Beispiel
 

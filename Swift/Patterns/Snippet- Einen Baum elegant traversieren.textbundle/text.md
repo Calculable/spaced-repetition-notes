@@ -1,4 +1,5 @@
-# Snippet: Einen Baum elegant traversieren 👣
+# Snippet: Einen Baum elegant traversieren
+👣
 
 Hier hat man zum Beispiel einen Baum und möchte die Anzahl Elemente im ganzen Baum zählen:
 

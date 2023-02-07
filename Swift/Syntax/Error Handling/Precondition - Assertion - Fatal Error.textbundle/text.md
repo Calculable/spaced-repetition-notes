@@ -1,4 +1,5 @@
-# Precondition / Assertion / Fatal Error 🚔
+# Precondition / Assertion / Fatal Error
+🚔
 
 ## Precondition (for Production)
 

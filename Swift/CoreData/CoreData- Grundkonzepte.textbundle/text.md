@@ -1,4 +1,5 @@
-# CoreData: Grundkonzepte 📟
+# CoreData: Grundkonzepte
+📟
 
 ##  Grund-Konzepte
 - Managed Objects sind Hashable und Identifiable

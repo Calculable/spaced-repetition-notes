@@ -1,4 +1,5 @@
-# Indirect Enum 🚏
+# Indirect Enum
+🚏
 
 Genau so wie ein Struct nicht auf sich selbst referenzieren kann (weil es sonst unendlich gross wird), kann auch ein Enum nicht auf sich selbst referenzieren.
 

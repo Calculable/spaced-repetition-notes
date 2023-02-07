@@ -1,4 +1,5 @@
-# Phantom Types 👻
+# Phantom Types
+👻
 
 ## Was ist das?
 

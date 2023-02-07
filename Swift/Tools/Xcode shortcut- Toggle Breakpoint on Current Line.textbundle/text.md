@@ -1,4 +1,5 @@
-# Xcode shortcut: Toggle Breakpoint on Current Line 🚀
+# Xcode shortcut: Toggle Breakpoint on Current Line
+🚀
 
 ## Toggle Breakpoint on Current Line
 
