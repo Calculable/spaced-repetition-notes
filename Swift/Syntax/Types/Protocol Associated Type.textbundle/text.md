@@ -1,4 +1,4 @@
-#  Protocol Associated Type 📜
+# Protocol Associated Type 📜
 
 ## Für was sind Protocol Associated Types?
 
