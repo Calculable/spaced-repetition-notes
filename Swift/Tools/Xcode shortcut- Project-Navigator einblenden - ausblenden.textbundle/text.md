@@ -3,6 +3,6 @@
 
 ## Project-Navigator einblenden / ausblenden
 
-`Command+1`
+`⌘ - 1`
 
 #nur learning unit#

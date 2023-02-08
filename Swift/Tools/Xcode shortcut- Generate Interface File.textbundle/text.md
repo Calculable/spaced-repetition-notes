@@ -3,7 +3,7 @@
 
 ## Generate Interface File
 
-`Ctrl+Cmd+Up`
+`Ctrl - ⌘ - ↑`
 
 > Xcode produces a generated interface, showing properties, function signatures, and comments
 

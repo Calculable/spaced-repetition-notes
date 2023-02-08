@@ -3,6 +3,6 @@
 
 ## Navigation Panel einblenden / ausblenden
 
-`Command+0`
+`⌘ - 0`
 
 #nur learning unit#

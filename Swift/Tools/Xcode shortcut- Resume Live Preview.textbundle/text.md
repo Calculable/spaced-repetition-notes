@@ -3,6 +3,6 @@
 
 ## Resume Live Preview
 
-`Option-Cmd-P`
+`⌘ - ⌥ - P`
 
 #nur learning unit#

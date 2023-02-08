@@ -3,7 +3,7 @@
 
 ## Dokumentation anzeigen
 
-`Command + Shift + 0`
+`⌘ - ⇧ - 0`
 
 
 #nur learning unit#

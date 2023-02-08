@@ -33,6 +33,11 @@ und im `viewDidLoad` muss dieses entsprechend angezeigt werden:
 textLabel.text = text
 ```
 
+## Wichtig! Siehe auch:
+
+Siehe auch „UIKit: Optionale Properties vermeiden mit Dependency Injection“
+
+
 ## Zusammenfassung
 - Wie kann man beim Segue der anderen View Daten mitgeben?
 

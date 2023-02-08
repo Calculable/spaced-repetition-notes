@@ -3,6 +3,6 @@
 
 ## Snippets aufrufen
 
-`Shift-Command-L`
+`⌘ - ⌥ - L`
 
 #nur learning unit#

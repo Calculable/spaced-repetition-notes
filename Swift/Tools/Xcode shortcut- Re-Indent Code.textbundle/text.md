@@ -3,6 +3,6 @@
 
 ## Re-Indent Code
 
-`Ctrl+I`
+`Ctrl - I`
 
 #nur learning unit#

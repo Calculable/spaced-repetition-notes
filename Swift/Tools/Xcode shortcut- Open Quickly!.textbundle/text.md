@@ -3,7 +3,7 @@
 
 ## Open Quickly!
 
-`Command + Shift + O`
+`⌘ - ⇧ - O`
 
 ![][image-1]
 

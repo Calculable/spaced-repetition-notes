@@ -3,8 +3,9 @@
 
 ## Dokumentation generieren
 
-`Option+Cmd+/`
+`⌘ - ⌥ - 7`
 
+|
 (Direkt vor dem Funktionskopf drücken)
 
 

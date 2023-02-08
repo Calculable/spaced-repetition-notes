@@ -1,6 +1,7 @@
 # Modaler Dialog ohne Segue
 🗒️
 
+## Code
 
 Hier muss man den anzuzeigenden ViewController zuerst instanzieren:
 
@@ -18,6 +19,10 @@ So kann der Modale Dialog wieder geschlossen werden:
 ```swift
 dismiss(animated:  true, completion:  nil)
 ```
+
+## Wichtig! Siehe auch:
+
+Siehe auch „UIKit: Optionale Properties vermeiden mit Dependency Injection“
 
 ## Zusammenfassung
 - Wie kann man einen modalen Dialog ohne Segue anzeigen?

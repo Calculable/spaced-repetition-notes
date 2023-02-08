@@ -14,6 +14,8 @@ struct Checkerboard: Shape {
 }
 ```
 
+`@State` bedeutet =\> We want to change it! - Ansonsten einfach Var verwenden, weil wenn sich der Wert ändert, wird die View sowieso neu gezeichnet...
+
 ## Zusammenfassung
 - Weshalb kann man oft auf `@State` verzichten
 
