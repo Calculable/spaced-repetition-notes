@@ -11,5 +11,9 @@
 NSPredicate(format: "universe == %@", "Star Wars"))
 ```
 
+## Siehe auch
+- CoreData: Fetch Request mit Sort Descriptor
+- Man kann FetchRequests auch ohne Annotation erstellen (also im Code) - siehe Zusammenfassung
+
 ## Zusammenfassung
 - Mit und ohne Platzhalter

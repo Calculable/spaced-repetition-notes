@@ -1,10 +1,11 @@
-# Constraints Übersicht
+# Übersicht Constraints
 ⛓️
 
 ## Welche Arten von Constraints gibt es?
 - Abstand zum Rand oder zum Nachbarn
 - Alignment
-- Equal height / width (custom multiplier kann gewählt werden)
+- Equal height / width 
+	- (der custom multiplier kann gewählt werden)
 
 ## Was muss das System wissen?
 - Breite

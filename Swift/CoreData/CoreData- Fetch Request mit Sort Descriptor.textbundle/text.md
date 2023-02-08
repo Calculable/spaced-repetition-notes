@@ -13,6 +13,7 @@
 ##  Siehe auch
 
 - Fetch Request mit Predicate
+- Man kann FetchRequests auch ohne Annotation erstellen (also im Code) - siehe Zusammenfassung
 
 ## Zusammenfassung
 - Wie macht man einen Fetch Request (mit Sortierung)?

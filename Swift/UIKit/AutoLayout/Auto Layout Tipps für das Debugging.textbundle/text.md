@@ -1,4 +1,4 @@
-# Auto Layout Debuggen
+# Auto Layout Tipps für das Debugging
 🪲
 
 ## Tipp 1: Jedem Constraint einen eigenen Identifier geben
@@ -7,8 +7,7 @@
 
 ## Tipp 2: exerciseAmbiguityInLayout() Methode
 
-> Second, try calling the `exerciseAmbiguityInLayout()` method of the view that’s causing problems. This is a method specifically designed to debugging, and causes a view to randomly shift between all layouts that are possible given the constraints you’ve applied.
-
+> Second, try calling the `exerciseAmbiguityInLayout()` method of the view that’s causing problems. This is a method specifically designed to debugging, and causes a view to randomly shift between all layouts that are possible given the constraints you’ve applied. 
 (noch nie aktiv getestet)
 
 ## Tipp 3: wtfautolayout.com
@@ -18,7 +17,7 @@
 ## Zusammenfassung
 - Was hilft, wenn man die Fehlermeldungen nicht zuordnen kann?
 - Mit welcher Methode kann man das UI visuell debuggen?
-- Welche Website kann helfen, die Fehlermeldungen zu verstehen?
+- Welche Website kann hilft, die Fehlermeldungen zu verstehen?
 
 
 #nur learning unit#
