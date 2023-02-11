@@ -1,7 +1,5 @@
-# Selection Navigation 
+# Selection Navigation
 🧭
-
-(evt. deaktivieren)
 
 ## Codebeispiel
 

@@ -1,4 +1,4 @@
-#  Sequence Diagram
+# Sequence Diagram
 🧬
 
 ## Beispiel
