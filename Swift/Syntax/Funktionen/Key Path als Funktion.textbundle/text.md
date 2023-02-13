@@ -13,7 +13,7 @@ let nameCounts2 = names.map(\.count)
 print(nameCounts2)
 ```
 
-
+Beachte: Es braucht keine geschweiften Klammern hier
 
 ## Zusammenfassung
 - Wie können Key Paths als Funktion verwendet werden?

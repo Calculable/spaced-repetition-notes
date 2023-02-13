@@ -65,6 +65,10 @@ Client.someClientCode(factory: ConcreteFactory1())
 Achtung wichtig - beachte: Der Client ruft hier nicht die factoryMethod auf, sondern direkt den Business code!  Hinweis - es gibt aber auch viele Beispiele, indem die Factory/Creator primär verwendet wird, um direkt die Products zu erhalten und nicht um business Logik auf der Factory selbst aufzurufen:
 
 
+## Naming Convention in Swift
+
+> Ergänzung Iterator: Begin names of factory methods with “make”, e.g. x.makeIterator().
+
 ## Zusammenfassung
 - Zweck
 - Beispielcode

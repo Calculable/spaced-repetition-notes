@@ -1,4 +1,4 @@
-# Programatic Navigation 
+# Programatic Navigation
 🧭
 
 ## Hinweis
@@ -29,6 +29,7 @@ NavigationStack(path: $path) {
 }
 ```
 
+Beachte: navigationDestination ist nicht an den NavigationStack gebunden sondern an die Liste
 
 ## Wrapper
 
@@ -36,6 +37,7 @@ Hinweis: Es gibt auch einen Wrapper `NavigationPath` wenn man im NavigationArray
 
 ## Zusammenfassung
 - Codebeispiel, Zweck
+
 
 
 

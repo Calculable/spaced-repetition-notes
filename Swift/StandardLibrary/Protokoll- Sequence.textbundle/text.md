@@ -1,9 +1,11 @@
-# Sequence Protokoll
-📚
+# Protokoll: Sequence
+🎲
+
 
 ## Zweck
-- Das Sequence Protokoll erlaubt es uns, mit `for` über eine Datenstruktur zu iterieren.
-- Hier gezeigt am Beispiel einer LinkedList
+- Erlaubt es, durch die Collection zu iterieren.
+- Es gibt keine Garantie darüber, dass man mehrfach iterieren kann
+- Um das Protokoll zu implementieren, muss man einen Iterator zurückgeben können.
 
 ## Iterator zurückgeben
 Als Anforderung muss man eine Funktion haben, die einen Iterator zurückgibt:
@@ -29,7 +31,7 @@ struct LinkedListIterator<Element>: IteratorProtocol {
 ```
 
 ## Zusammenfassung
-- Wozu dient das Protokoll `Sequence`)
+- Wozu dient das Protokoll `Sequence`
 - Was für eine Methode muss implementiert werden (nur Konzept)
 
 

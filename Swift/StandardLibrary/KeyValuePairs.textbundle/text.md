@@ -1,6 +1,12 @@
 # KeyValuePairs
 🧑‍🤝‍🧑
 
+## Definition
+
+```swift
+KeyValuePairs<Key, Value>
+```
+
 ## Unterschiede zum Dictionary
 Eine Alternative zum Dictionary mit folgenden Unterschieden:
 
@@ -8,8 +14,21 @@ Eine Alternative zum Dictionary mit folgenden Unterschieden:
 - Doppelte Keys sind erlaubt
 - Die Reihenfolge, in der die Werte hinzugefügt wurden bleibt bestehen.
 
+
+## Beispiel
+
+```swift
+let pairsWithDuplicateKey: KeyValuePairs<String, String> = [
+    "天": "Heaven",
+    "澤": "Lake",
+    "澤": "Marsh",
+	]
+```
+
+
 ## Nachteil
-- Einen bestimmten Wert auszulesen ist langsamer
+- Die Collection ist nicht mutable nachdem man sie einmal mit dem Initializer erstellt hat
+- Man kann nicht einzelne Werte auslesen, sondern muss das ganze zuerst umwandeln (map funktioniert)
 
 ##  Zusammenfassung
 - Was sind unterschiede zum Dictionary
