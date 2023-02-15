@@ -50,6 +50,28 @@ struct Node {
 }
 ```
 
+
+Es muss natürlich auch nicht immer für verschachtelte Komponenten sein:
+
+
+```swift
+@resultBuilder struct StringBuilder {
+    static func buildBlock(_ parts: String...) -> String {
+        parts.joined(separator: "\n")
+    }
+}
+```
+
+
+```swift
+@StringBuilder func makeSentence() -> String {
+    "The rain in Spain"
+    "Falls mainly"
+    "On the Spaniards"
+}
+```
+
+
 ## Diskussion
 
 > Although function builders aren’t to everyone’s tastes, it’s great to have it as an option here – use them if you prefer them, or take the manual approach instead.

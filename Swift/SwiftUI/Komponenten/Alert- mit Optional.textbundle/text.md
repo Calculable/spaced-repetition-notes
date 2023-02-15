@@ -11,6 +11,8 @@ Beachte: Es braucht den Boolean noch immer
 ```swift
 .alert("Welcome", isPresented: $isShowingUser, presenting: selectedUser) { user in
     Button(user.id) { }
+} message: { user in
+	Test("Hello World")
 }
 ```
 
