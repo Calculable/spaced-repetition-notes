@@ -5,7 +5,7 @@
 
 ```swift
 xyView
-	.dropDestination(payloadType: Image.self) {  (images: [Image], _) in
+	.dropDestination(for: Image.self) {  (images: [Image], _) in
 		if let image = images.first { 
 			myImage = image
 			return  true
