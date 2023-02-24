@@ -57,9 +57,16 @@ class Presenter {
 
 ```
 
+## Unterschied zwischen MVP und MVVM
+
+- Bei MVP geht es darum, dass der Presenter den UI Status enthält und die Transformationen macht, damit dies im UI dargestellt werden kann.
+- MVVM ist eigentlich die gleiche Idee, fügt dem ganzen aber noch data bindings hinzu, so dass UI-Änderungen automatisch im ViewModel reflektiert werden und Änderungen im ViewModel automatisch im UI.
+
+
 ##  Zusammenfassung
 - Rollen
 - Zusammenspiel
+- Unterschied zu MVVM
 
 [image-1]:	https://miro.medium.com/max/640/1*Yf9H3RWc9pdcnxxco_dTqQ.webp
 

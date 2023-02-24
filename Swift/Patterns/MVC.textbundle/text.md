@@ -20,8 +20,9 @@
 
 > Although our SwiftUI layouts conform to the View protocol, if you were to try to think about them in MVC terms I’d say they were more like  _controllers_.
 
-=\> Denn wir Beschreiben ja nur die Views. Das heisst die eigentliche View, ist der Part im Hintergrund von SwiftUI der es Rendret.
+=\> Denn wir Beschreiben ja nur die Views. Das heisst die eigentliche View, ist der Part im Hintergrund von SwiftUI der es Rendert.
 
+Wenn man nicht MVVM einsetzt hat man also auch eine MVC-Architektur mit, wobei unser „View“ eigentlich der Controller ist und der Render-Part von SwiftUI eigentlich die View ist.
 
 ##  Zusammenfassung
 - Rollen / Zusammenspiel

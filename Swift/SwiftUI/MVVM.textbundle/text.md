@@ -24,6 +24,7 @@ extension ContentView {
 ```
 
 - Man kann die ganzen State Properties in das ViewModel verschieben. ACHTUNG: `@State private` muss man jetzt durch `@Published` ersetzen.
+- Man macht eine Extension damit man nicht den Namespace verschmutzt
 
 ## ViewModel in der View erzeugen
 
@@ -31,6 +32,11 @@ extension ContentView {
 @StateObject private var viewModel = ViewModel()
 ```
 
+Das ViewModel muss aber nicht immer zwingend von der View selbst erstellt werden. Es kann auch über Dependency Injection in die App kommen.
+
+## Siehe auch
+
+Kapitel: „MVVM: Diskussion“
 ## Zusammenfassung
 - Wie sieht ein einfaches ViewModel aus? Wie dessen Properties?, Wie die Access-Rechte?
 - Wie erstellt man ein ViewModel in der View?
