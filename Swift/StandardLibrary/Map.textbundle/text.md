@@ -10,7 +10,7 @@ let result1 = numbers1.map { element in
 
 ## Wo ist `map` sonst noch unterstützt?
 
-- **Optional**: map will extract the value wrapped inside, transform it using a function we specify, then place it back into another `Optional`
+- **Optional**: map will extract the value wrapped inside, transform it using a function we specify, then place it back into another `Optional` - siehe separates Kapitel
 - **Result**: if saved data was loaded successfully then transform it, otherwise do nothing. (Alternativ gibt es auch `mapError`)
 
 ## Functors (nicht auswändig)
