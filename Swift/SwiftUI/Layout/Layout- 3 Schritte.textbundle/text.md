@@ -10,4 +10,3 @@
 
 ## Zusammenfassung
 - Nach welchen 3 Regeln werden die UI’s aufgebaut?
-- Was bedeutet Layout-Neutral?

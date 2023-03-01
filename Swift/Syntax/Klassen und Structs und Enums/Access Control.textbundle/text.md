@@ -4,6 +4,7 @@
 ## Syntax
 
 ```swift
+open class SomePublicClass {}
 public class SomePublicClass {}
 internal class SomeInternalClass {} //wäre auch implizit
 fileprivate class SomeFilePrivateClass {}

@@ -57,6 +57,5 @@ Man kann auch noch weitere Gruppen machen, zum Beispiel für Protokolle, UIKit/A
 
 ## Zusammenfassung
 - Welche zwei Varianten gibt es, um das Projekt zu strukturieren?
-- 
 
 #nur learning unit#

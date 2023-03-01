@@ -3,8 +3,8 @@
 
 ## Wie wird ein Build eindeutig identifiziert?
 
-- **Build String** (CFBundleShortVersionString)
 - **Version Number** (CFBundleVersion)
+- **Build String** (CFBundleShortVersionString)
 
 ## Was ist der unterschied zwischen beiden?
 

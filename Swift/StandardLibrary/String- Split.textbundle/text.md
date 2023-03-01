@@ -2,7 +2,7 @@
 ↩️
 
 ```swift
-let result = split(separator: ";")
+let result = myString.split(separator: ";")
 ```
 
 Beachte: Das Resultat sind Substrings. Diese können mit `String(substring)` wieder in normale Strings konvertiert werden.

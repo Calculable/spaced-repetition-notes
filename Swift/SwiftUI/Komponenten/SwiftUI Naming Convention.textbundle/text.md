@@ -13,10 +13,10 @@
 - `PersonProfile` (View)
 - `PersonProfileViewModel` (ViewModel)
 
-=\> Bei Hacking with Swift wurde das ViewModel als eine Extension der View erstellt und hatte jeweils immer den Namen `ViewModel`
+=\> Bei Hacking with Swift wurde das ViewModel als eine Extension der View erstellt und hatte jeweils immer nur den Namen `ViewModel`. Aber das File hiess PersonProfileViewModel.
 
 ## Zusammenfassung
 - View-Structs benennen (zwei Meinungen) 
-- View-Model benennen (zwei Meinungen) 
+- View-Model benennen
 
 #nur learning unit#

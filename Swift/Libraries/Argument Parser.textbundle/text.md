@@ -43,7 +43,7 @@ var file: String
 Damit kann man einige globale Einstellungen für die Applikation festlegen:
 
 ```swift
-tatic var configuration: CommandConfiguration {
+static var configuration: CommandConfiguration {
     CommandConfiguration(commandName: "jsontidy", abstract: "Adjusts JSON files to compress or expand data, and also provide key sorting.")
 }
 ```

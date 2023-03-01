@@ -1,7 +1,7 @@
 # Testable import
 🧐
 
-Damit kann auf alle Teile des Projektes zugreifen, ohne diese als `public` markieren zu müssen.
+Damit kann auf die Teile des Projektes zugreifen, ohne diese als `public` markieren zu müssen (Vermutung: Zugriff auf Internal, nicht aber auf Private).
 
 
 ```swift

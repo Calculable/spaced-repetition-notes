@@ -18,4 +18,4 @@ ForEach(strings, id:\.self) {
 ```
 
 ## Zusammenfassung
-- ForEach mit Ranger und Sequenz
+- ForEach mit Range und Sequenz
