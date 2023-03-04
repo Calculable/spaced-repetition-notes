@@ -10,9 +10,9 @@
 - Arrays sind Structs
 - Siehe auch Kapitel "State Missverständnis"
 
-## Lösung 1: Innerhalb des Arrays Struct-Elemente verwenden
+## Lösung 1: Innerhalb des Arrays Struct-Elemente verwenden !
 
-- Weil eine Änderung eines Structs immer die Änderung des ganzen Structs zur folge hat, wird das auch vom Array bemerkt
+- Weil eine Änderung eines Structs immer die Änderung des ganzen Structs zur folge hat, wird das auch vom Array bemerkt!
 - Bei Klassen hingegen funktioniert dieser Ansatz nicht
 
 ## Lösung 2: View aufsplitten
@@ -39,11 +39,12 @@ struct MySubView {
 }
 ```
 
-## Lösung 3: Das Array manuell über die Änderung informieren
+## Lösung 3: Wrapper-Klasse um das Array bauen als ObservableObject
+
+Bei Änderungen innerhalb des Arrays kann man dann den Wrapper über die Änderung informieren.
 
 ```swift
-people.objectWillChange.send()
-people[0].name = "changed"
+myWrapper.objectWillChange.send()
 ```
 
 (Man kann das zum Beispiel in eine Wrapper-Klasse um das Array einbauen)

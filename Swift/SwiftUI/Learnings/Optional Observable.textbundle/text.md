@@ -42,3 +42,6 @@ struct SubView: View {
 
 ## Zusammenfassung?
 - Was macht man, wenn man ein optionales ObservableObject beobachten möchte?
+
+
+#nur learning unit#

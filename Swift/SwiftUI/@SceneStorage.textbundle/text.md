@@ -16,6 +16,6 @@ Beispiel: Man hat eine Navigation View und verwendet App Storage, um zu speicher
 
 ## Weiterer Unterschied
 
-- Wenn der Nutzer die App über den App-Switcher abschiesst, werden die Daten entfernt.
+- Wenn der Nutzer die App über den App-Switcher abschiesst, werden die Daten entfernt!
 ## Zusammenfassung
 - Code und Zweck

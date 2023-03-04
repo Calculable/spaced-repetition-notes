@@ -34,3 +34,5 @@ var car = Car(color: "Red")
 - Wann muss man `super.init()` explizit aufrufen und wann wird es automatisch aufgerufen?
 
 [image-1]:	assets/Bildschirm%C2%ADfoto%202023-02-13%20um%2016.33.50.png
+
+#nur learning unit#

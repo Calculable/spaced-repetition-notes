@@ -110,3 +110,5 @@ print("Hello4")
 ## Zusammenfassung
 - Was ist das Problem wenn man in einem `ObservableObject` ein `@Published` array hat, dessen Elemente ebenfalls `ObservableObject`s sind?
 - (Nur Problem kennen, nicht die Lösung)
+
+#nur learning unit#
