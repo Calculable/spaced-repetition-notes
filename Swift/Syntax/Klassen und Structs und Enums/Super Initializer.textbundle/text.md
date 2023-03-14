@@ -2,7 +2,7 @@
 🛫
 
 ## Super Initializer aufrufen
-Wenn man kein `override` schreibt, wird der Super-Initializier Implizit aufgerufen:
+Wenn man kein `override` schreibt UND der Super-Konstruktor keine Argumente hat, wird der Super-Initializier Implizit aufgerufen:
 ```swift
 init(color: String) {
 	self.color = color

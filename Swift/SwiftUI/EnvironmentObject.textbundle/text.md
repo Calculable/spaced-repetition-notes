@@ -46,6 +46,19 @@ VStack {
 
 Beachte: Im Vergleich zu `@EnvironmentObject` darf man hier unterschiedliche Typen haben.
 
+## Environment im Initializer
+
+Im Initializer hat man Zugriff auf die Environment-Variabeln:
+
+```swift
+@Environment(\.accessibilityEnabled) var accessibilityEnabled
+    
+init() {
+	if accessibilityEnabled {
+		print("Accessibility is enabled!")
+	}
+}
+```
 
 ## Zusammenfassung
 - Wie erstellt man ein EnvironmentObject (Annotation) und gibt dieses an die Subviews weiter?

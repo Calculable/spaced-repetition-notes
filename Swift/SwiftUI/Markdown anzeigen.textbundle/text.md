@@ -23,6 +23,8 @@ Man kann auch explizite Instanzen erstellen:
 Text(verbatim:)
 ```
 
+=\> In diesem Fall wird der Text auch nicht übersetzt!
+
 ## Zusammenfassung
 - Beispielcode
 - Warum funktioniert es?

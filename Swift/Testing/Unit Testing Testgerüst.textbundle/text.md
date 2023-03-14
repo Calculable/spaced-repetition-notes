@@ -27,6 +27,8 @@ class TowerInstanceTests: XCTestCase {
 }
 ```
 
+Beachte: Es gibt alternativ auch `setUpWithError`
+
 ##  Testfunktionen
 - Test-Funktionen haben das Prefix `test`
 
