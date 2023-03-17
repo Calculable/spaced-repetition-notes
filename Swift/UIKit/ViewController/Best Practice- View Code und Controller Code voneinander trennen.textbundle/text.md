@@ -78,4 +78,4 @@ Beachte, wie die neue `shareView` dem bereits vorhandenen Property `shareView` z
 Wie kann man den View Code innerhalb von `viewDidLoad` auslagern?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

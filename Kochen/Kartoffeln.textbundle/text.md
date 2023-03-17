@@ -5,3 +5,6 @@
 - 🍵: 25 Minuten, mittlere Temperatur
 - 🍳: nur Bratkartoffeln oder wenn sie bereits gekocht sind
 - ♨️: 30 Minuten oder bis weich und gebräunt, 200 Grad
+
+
+#learning unit#

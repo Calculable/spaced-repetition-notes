@@ -14,4 +14,4 @@ Nachher
 [image-1]:	https://refactoring.guru/images/patterns/diagrams/bridge/problem-en-2x.png
 [image-2]:	https://refactoring.guru/images/patterns/diagrams/bridge/solution-en-2x.png
 
-#nur learning unit#
+#nur learning unit# #learning unit#

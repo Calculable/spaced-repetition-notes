@@ -28,4 +28,4 @@ Source: Cmglee, Wikipedia
 
 [image-1]:	assets/2560px-Comparison_computational_complexity.svg.png
 
-#nur learning unit#
+#nur learning unit# #learning unit#

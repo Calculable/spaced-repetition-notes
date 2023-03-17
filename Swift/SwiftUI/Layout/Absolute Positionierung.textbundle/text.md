@@ -11,3 +11,6 @@ Wenn man den `.position` Modifier verwendet, dann ist der Rückgabewert immer ei
 ## Zusammenfassung
 - Wie positioniert man eine View Absolut?
 - Was ist eine Auswirkung, wenn man es absolut positioniert?
+
+
+#learning unit#

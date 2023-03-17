@@ -14,4 +14,4 @@ Color(UIColor.systemGroupedBackground)
 - Wie verwendet man alle Semantic Colors von UIKit in SwiftUI?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

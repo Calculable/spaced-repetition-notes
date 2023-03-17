@@ -4,7 +4,7 @@
 ## Verhalten
 - LIFO: "Last in, First Out"
 - Zwei Operationen: Push und Pop, Peek (Optional)
-		 
+			 
 ## Implementation (gekürzt)
 
 ```swift
@@ -26,7 +26,7 @@ Siehe Hacking With Swift für die vollständige Implementation
 
 ## Zusammenfassung
 - 2 (bzw. 3) Operationen (Konzept)
-		 
+			 
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

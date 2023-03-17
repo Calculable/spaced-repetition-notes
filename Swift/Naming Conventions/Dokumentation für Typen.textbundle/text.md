@@ -12,3 +12,5 @@ struct List {
 
 ## Zusammenfassung
 - Wie sollte das Summary für einen Typen aussehen?
+
+#learning unit#

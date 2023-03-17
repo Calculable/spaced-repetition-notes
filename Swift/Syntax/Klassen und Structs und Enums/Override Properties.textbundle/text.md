@@ -23,4 +23,4 @@ class Car: Vehicle {
 - Wie überschreibt man eine Property aus der Oberklasse?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

@@ -11,3 +11,5 @@ Startet mit „the“ oder „a“
 
 ## Zusammenfassung
 - Wie sollte das Summary für ein Property aussehen?
+
+#learning unit#

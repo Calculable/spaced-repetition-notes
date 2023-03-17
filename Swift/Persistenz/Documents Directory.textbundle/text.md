@@ -24,3 +24,6 @@ pathUrl.appendingPathComponent("message.txt")
 ## Zusammenfassung
 - Pfad auslesen
 - Pfad ergänzen
+
+
+#learning unit#

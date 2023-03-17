@@ -16,4 +16,4 @@ let notSure: any = 4;
 - Welchen Typ gibt es auch noch?
 - Was, wenn der Typ egal ist?
 
-#nur learning unit#
+#nur learning unit# #learning unit#

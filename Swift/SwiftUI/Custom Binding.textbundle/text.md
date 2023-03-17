@@ -18,4 +18,4 @@ let agreedToAll = Binding<Bool>(
 
 Wie macht man ein Custom Binding?
 
-#nur learning unit#
+#nur learning unit# #learning unit#

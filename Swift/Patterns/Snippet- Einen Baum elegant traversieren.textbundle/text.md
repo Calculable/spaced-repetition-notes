@@ -16,4 +16,4 @@ Beachte: In `$0` steht das letzte Resultat, in `$1` jeweils eine Child-Node
 - Code-Snippet: Wie kann man in einer Baumstruktur möglichst Elegant die Anzahl der Knoten zählen?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

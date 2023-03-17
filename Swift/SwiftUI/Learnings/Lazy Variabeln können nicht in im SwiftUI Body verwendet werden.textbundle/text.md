@@ -13,4 +13,4 @@
 ##  Zusammenfassung
 Warum können Lazy Variabeln nicht im SwiftUI Body verwendet werden?
 
-#nur learning unit#
+#nur learning unit# #learning unit#

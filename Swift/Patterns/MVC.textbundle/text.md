@@ -30,4 +30,4 @@ Wenn man nicht MVVM einsetzt hat man also auch eine MVC-Architektur mit, wobei u
 
 [image-1]:	assets/Bildschirm%C2%ADfoto%202023-01-02%20um%2013.41.40.png
 
-#nur learning unit#
+#nur learning unit# #learning unit#

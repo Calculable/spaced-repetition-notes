@@ -27,4 +27,4 @@ self.title = item.itemTitle
 - Weshalb müssen State-Variabeln im Initializer speziell initialisiert werden?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

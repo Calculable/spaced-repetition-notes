@@ -17,3 +17,6 @@ Siehe Zusammenfassung "Date Formatter"
 
 - Drei Varianten, um Dates zu formatieren (nur Konzept, Einordnung)
 - Wie heisst der internationale ISO-Standard für Dates?
+
+
+#learning unit#

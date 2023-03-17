@@ -19,3 +19,5 @@ let lazyDoubled = numbers.lazy.map { $0 * 2 }
 
 ##  Zusammenfassung
 - Wie wird Lazy Sequence angewendet?
+
+#learning unit#

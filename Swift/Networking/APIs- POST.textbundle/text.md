@@ -30,3 +30,5 @@ func placeOrder() async throws {
 - Api-Zugrif: Die Funktion ist… ?
 - Protokoll für die Modelklassen
 - Daten hochladen
+
+#learning unit#

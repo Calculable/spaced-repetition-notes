@@ -7,3 +7,6 @@ Wirf einen Fehler wenn es Nil ist
     let token = try XCTUnwrap(user.getAuthenticationToken())
 ```
 
+
+
+#learning unit#

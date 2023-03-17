@@ -35,4 +35,4 @@ struct LinkedListIterator<Element>: IteratorProtocol {
 - Was für eine Methode muss implementiert werden (nur Konzept)
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

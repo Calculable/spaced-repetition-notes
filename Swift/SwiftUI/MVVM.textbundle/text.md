@@ -40,3 +40,5 @@ Kapitel: „MVVM: Diskussion“
 ## Zusammenfassung
 - Wie sieht ein einfaches ViewModel aus? Wie dessen Properties?, Wie die Access-Rechte?
 - Wie erstellt man ein ViewModel in der View?
+
+#learning unit#

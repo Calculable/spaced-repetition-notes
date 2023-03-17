@@ -11,3 +11,6 @@ enum VendingMachineError: Error { //error ist ein Protokoll
 
 ## Zusammenfassung
 Eigene Errors definieren
+
+
+#learning unit#

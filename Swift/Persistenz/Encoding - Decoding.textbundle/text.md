@@ -24,3 +24,5 @@ let decodedItems = try JSONDecoder().decode([ExpenseItem].self, from: savedItems
 
 ## Zusammenfassung
 - JSON encodieren und decodieren
+
+#learning unit#

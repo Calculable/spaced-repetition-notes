@@ -73,4 +73,4 @@ Man sollte es nur verwenden, wenn man sicher ist, dass es nicht nil wird.
 - Was ist Capturing?
 - Auf welche drei Arten kann man Values "capturen"
 
-#nur learning unit#
+#nur learning unit# #learning unit#

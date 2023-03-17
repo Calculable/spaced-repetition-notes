@@ -20,4 +20,4 @@ func testDecodingString() {
 ## Zusammenfassung
 - Wie lädt man aus dem Testing-Bundle eine Ressource?
 
-#nur learning unit#
+#nur learning unit# #learning unit#

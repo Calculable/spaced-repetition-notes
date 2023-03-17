@@ -26,3 +26,5 @@ if let cachedVersion = cache.object(forKey: "CachedObject") {
 
 ## Zusammenfassung
 - Wie wird der NSCache angewendet?
+
+#learning unit#

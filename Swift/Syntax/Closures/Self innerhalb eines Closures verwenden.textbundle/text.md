@@ -8,4 +8,4 @@
 ## Zusammenfassung
 - Wie hat man aus einem Closure Zugriff auf `Self`
 
-#nur learning unit#
+#nur learning unit# #learning unit#

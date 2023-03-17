@@ -64,3 +64,5 @@ init() {
 - Wie erstellt man ein EnvironmentObject (Annotation) und gibt dieses an die Subviews weiter?
 - Wie greifen die Subviews auf das Environment-Objekt zugreifen
 - Unterschied Environment und Environment-Object
+
+#learning unit#

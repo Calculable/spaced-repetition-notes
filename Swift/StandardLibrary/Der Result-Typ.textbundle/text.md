@@ -15,4 +15,4 @@ enum Result<Success, Failure: Error> {
 - Wie ist ein Result aufgebaut (Code)
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

@@ -81,4 +81,4 @@ Quelle: [How to add advanced text styling using AttributedString - a free SwiftU
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring
 
-#nur learning unit#
+#nur learning unit# #learning unit#

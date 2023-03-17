@@ -23,4 +23,4 @@ extension MyStruct: Equatable where Value: Equatable { }
 - Beispiel: Was muss ein Struct erfüllen, dass `Equatable` automatisch implementiert werden kann?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

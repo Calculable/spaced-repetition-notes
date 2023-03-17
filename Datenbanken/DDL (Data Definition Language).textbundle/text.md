@@ -15,4 +15,4 @@ CREATE TABLE Projekt (
 ## Zusammenfassung
 - Beispiel: Tabelle mit mehreren Attributen
 
-#nur learning unit#
+#nur learning unit# #learning unit#

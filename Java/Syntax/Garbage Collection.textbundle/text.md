@@ -12,4 +12,4 @@ Ein mögliches Problem: externe Fragmentiertung
 - Unterschied Heap und Stack
 - Mögliches Problem im Heap
 
-#nur learning unit#
+#nur learning unit# #learning unit#

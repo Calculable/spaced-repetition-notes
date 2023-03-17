@@ -36,4 +36,4 @@ URLSession.shared.dataTaskPublisher(for: url)
 - Wie sieht ein Request mit Combine ungefähr aus? (vor allem Konzept)
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

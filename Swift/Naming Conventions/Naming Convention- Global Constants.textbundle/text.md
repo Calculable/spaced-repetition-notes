@@ -22,4 +22,4 @@ let SECONDS_PER_MINUTE = 60
 - Wie werden globale Konstanten definiert?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

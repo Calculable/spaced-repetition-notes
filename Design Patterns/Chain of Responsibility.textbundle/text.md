@@ -23,4 +23,4 @@ loggerChain.logMessage(AbstractLogger.INFO,
 
 [image-1]:	https://www.tutorialspoint.com/design_pattern/images/chain_pattern_uml_diagram.jpg
 
-#nur learning unit#
+#nur learning unit# #learning unit#

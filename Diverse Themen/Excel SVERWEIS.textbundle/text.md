@@ -1,7 +1,7 @@
 # Excel SVERWEIS
 🧮
 
-## Zweck 
+## Zweck
 
 - Mit dieser Formel kann man Werte in einer anderen Tabelle suchen.
 
@@ -32,4 +32,4 @@ Man verwendet die folgende Formel
 [image-2]:	assets/Bildschirm%C2%ADfoto%202023-03-14%20um%2009.54.48.png
 [image-3]:	assets/Bildschirm%C2%ADfoto%202023-03-14%20um%2009.55.59.png
 
-#nur learning unit#
+#nur learning unit# #learning unit#

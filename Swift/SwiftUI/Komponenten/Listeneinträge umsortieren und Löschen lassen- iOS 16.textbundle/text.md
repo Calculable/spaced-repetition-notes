@@ -26,4 +26,4 @@ Beachte: Statt List und ForEach zu schachteln hat bereits List die benötigte Fu
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-let-users-move-rows-in-a-list
 
-#nur learning unit#
+#nur learning unit# #learning unit#

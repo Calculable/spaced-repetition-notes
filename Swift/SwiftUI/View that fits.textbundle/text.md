@@ -35,4 +35,4 @@ Text in SwiftUI prefers to sit on one line, and by default `ViewThatFits` will p
 - Code / Zweck
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

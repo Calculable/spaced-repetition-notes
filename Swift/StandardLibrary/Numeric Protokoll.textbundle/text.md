@@ -13,4 +13,4 @@ func count<Number: Numeric>(numbers: [Number]) {
 - Wozu ist das Protokoll Numeric gut?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

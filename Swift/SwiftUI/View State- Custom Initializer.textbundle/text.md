@@ -23,3 +23,6 @@ init() {
 
 ## Zusammenfassung
 - Wie macht man einen Initializer für den View State (nicht empfohlen)
+
+
+#learning unit#

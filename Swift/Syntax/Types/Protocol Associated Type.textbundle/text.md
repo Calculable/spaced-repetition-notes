@@ -48,3 +48,5 @@ Mit Swift 5.7 wurde dieser Verhalten gelockert und es tauchen weniger Fehlermeld
 ## Zusammenfassung
 Anwendung
 Problem
+
+#learning unit#

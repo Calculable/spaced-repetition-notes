@@ -14,3 +14,5 @@ protocol ExampleProtocol {
 - Initializer
 - Property mit Setter und Getter
 - Funktionen (z.B. Mutating)
+
+#learning unit#

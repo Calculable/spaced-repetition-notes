@@ -28,3 +28,5 @@ struct ContentView: View {
 ## Zusammenfassung
 - Wie macht man einen Alert mit Bool?
 - Wie ist ein Alert mit Buttons und Inhalt aufgebaut?
+
+#learning unit#

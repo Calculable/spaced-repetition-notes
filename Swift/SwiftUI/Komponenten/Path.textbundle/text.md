@@ -21,3 +21,5 @@ Path { path in
 - Wie wird Path verwendet?
 
 [image-1]:	assets/Bildschirmfoto%202022-07-27%20um%2015.59.22.png
+
+#learning unit#

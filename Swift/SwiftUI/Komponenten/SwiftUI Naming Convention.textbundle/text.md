@@ -19,4 +19,4 @@
 - View-Structs benennen (zwei Meinungen) 
 - View-Model benennen
 
-#nur learning unit#
+#nur learning unit# #learning unit#

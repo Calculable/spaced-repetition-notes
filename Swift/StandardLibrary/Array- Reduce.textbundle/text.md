@@ -8,4 +8,4 @@ let sumNums = nums.reduce(0) { (sum, num) -> Int in
 ```
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

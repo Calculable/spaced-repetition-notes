@@ -14,3 +14,5 @@ var favoriteGenres: Set<String> = ["Rock", "Classical", "Hip hop"]
 Definieren
 Zuweisen
 Protokollanforderungen
+
+#learning unit#

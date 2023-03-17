@@ -42,4 +42,4 @@ struct ProductView: View {
 - Wie funktioniert das Pattern?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

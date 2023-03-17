@@ -21,3 +21,5 @@ Beachte: Auch Arrays sind Value Types!
 
 ## Zusammenfassung
 Unterschiede: Vererbung, Initializer, Referenz, Konstanten
+
+#learning unit#

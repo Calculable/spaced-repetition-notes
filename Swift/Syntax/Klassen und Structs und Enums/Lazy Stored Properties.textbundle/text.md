@@ -13,3 +13,5 @@ Das kann sehr praktisch sein, wenn ein Objekt sich selbst im Konstruktor der laz
 
 ## Zusammenfassung
 Codebeispiel
+
+#learning unit#

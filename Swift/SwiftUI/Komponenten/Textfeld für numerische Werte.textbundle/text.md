@@ -8,3 +8,5 @@ TextField("Amount", value: $checkAmount, format: .currency(code: Locale.current.
 
 ## Zusammenfassung
 Wie macht man ein Textfeld? (numerisch)
+
+#learning unit#

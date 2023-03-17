@@ -14,3 +14,5 @@ func authenticateUser(method: (String) throws -> Bool) rethrows {
 
 ## Zusammenfassung
 - Was ist Rethrows und wie wird es angewendet?
+
+#learning unit#

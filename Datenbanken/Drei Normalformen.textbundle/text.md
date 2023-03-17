@@ -26,4 +26,4 @@ Eine Tabelle ist anscheinend automatisch in der zweiten Normalform, wenn es nur 
 
 [image-1]:	assets/dritte_normalform_kundenbeispiel-409x61.jpg
 
-#nur learning unit#
+#nur learning unit# #learning unit#

@@ -1,4 +1,4 @@
-# Binary Tree Traversieren 
+# Binary Tree Traversieren
 🌳
 
 ## Beispiel Baum:
@@ -25,4 +25,4 @@ B, A, C
 - Welche drei Arten von Tree-Traversal gibt es?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

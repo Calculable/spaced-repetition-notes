@@ -28,4 +28,4 @@ func colorButton(for item: String) -> some View {
 - Welche drei Varianten gibt es, um eine View aufzuteilen?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

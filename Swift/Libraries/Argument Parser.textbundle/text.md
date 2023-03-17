@@ -55,4 +55,4 @@ static var configuration: CommandConfiguration {
 
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

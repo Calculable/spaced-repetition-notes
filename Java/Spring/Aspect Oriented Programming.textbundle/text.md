@@ -24,4 +24,4 @@ Häufige Implementation:AspectJ
 
 [image-1]:	https://www.marcobehler.com/images/spring-clig-proxies.png
 
-#nur learning unit#
+#nur learning unit# #learning unit#

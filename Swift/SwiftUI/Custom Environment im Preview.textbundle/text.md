@@ -15,3 +15,5 @@ struct MyView_Preview: PreviewProvider {
 
 ## Zusammenfassung
 - Wie kann man dem Preview eigene Environment-Variabeln / Environment-Objekte mitgeben?
+
+#learning unit#

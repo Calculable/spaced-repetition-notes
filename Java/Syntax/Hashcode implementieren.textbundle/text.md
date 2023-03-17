@@ -15,4 +15,4 @@ Objects.hash(firstname, lastname)
 - Was ist die Anforderung an die Methode
 - Wie könnte eine Implementation aussehen?
 
-#nur learning unit#
+#nur learning unit# #learning unit#

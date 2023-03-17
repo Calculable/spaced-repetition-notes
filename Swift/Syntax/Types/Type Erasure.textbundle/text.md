@@ -7,7 +7,7 @@
 - Stattdessen verwendet man Protocol Associated Types
 - Ist dies der Fall, dann kann das Protokoll nicht mehr als Existential Typ verwendet werden. (Weil man könnte das Protokoll ja gar nicht richtig verwenden, wenn man nicht weiss, welche Typen darin gespeichert sind.
 - (Beachte: Seit Swift 5.7 ist dieses Problem nicht mehr so schlimm, teilweise ist die Verwendung als existential Type möglich. Zudem gibt es neu die Primary Associated Types)
-				 
+					 
 
 - Hier ist eine sehr gute Erklärung: [https://robnapier.net/erasure][1]
 - Siehe auch: Protocol Associated Type.
@@ -75,3 +75,5 @@ Vordefinierte Any-Typen anwenden
 Unterschied zu Any/AnyObject
 
 [1]:	https://robnapier.net/erasure
+
+#learning unit#

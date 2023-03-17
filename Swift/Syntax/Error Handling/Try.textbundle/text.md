@@ -29,3 +29,5 @@ let photo = try! loadImage(atPath: "./Resources/John Appleseed.jpg")
 
 ## Zusammenfassung
 Try, Try?, Try!
+
+#learning unit#

@@ -48,3 +48,5 @@ struct EmojiPickerView: UIViewControllerRepresentable {
 (ohne Details) welche Komponenten spielen eine Rolle, wer hat welche Verantwortung, wie spielen sie zusammen?
 
 [image-1]:	assets/Konzeptzeichnung_UIKit.drawio.png
+
+#learning unit#

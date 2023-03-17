@@ -19,3 +19,6 @@ Beispiel: Man hat eine Navigation View und verwendet App Storage, um zu speicher
 - Wenn der Nutzer die App über den App-Switcher abschiesst, werden die Daten entfernt!
 ## Zusammenfassung
 - Code und Zweck
+
+
+#learning unit#

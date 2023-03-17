@@ -21,4 +21,4 @@ z = x.strippingNewLines()
 - Wie unterscheiden sich die Namen von mutating- und non-mutating Funktionen?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

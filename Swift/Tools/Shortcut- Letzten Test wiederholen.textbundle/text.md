@@ -9,4 +9,4 @@ Auch bekannt als „Smash“-Go
 ## Zusammenfassung
 - Shortcut
 
-#nur learning unit#
+#nur learning unit# #learning unit#

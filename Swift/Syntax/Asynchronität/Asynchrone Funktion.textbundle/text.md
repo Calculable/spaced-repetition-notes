@@ -34,3 +34,5 @@ func loadData() async throws {
 Zweck
 Syntax asynchrone Funktion
 Naming-Convention
+
+#learning unit#

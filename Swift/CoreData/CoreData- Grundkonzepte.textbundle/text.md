@@ -44,3 +44,5 @@ moc.delete(book)
 - Auf Managed Object Context zugreifen
 - Save
 - Delete 
+
+#learning unit#

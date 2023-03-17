@@ -10,3 +10,6 @@ func canThrowAnError() throws -> String { //beachte: throws
 
 ## Zusammenfassung
 Error werfen
+
+
+#learning unit#

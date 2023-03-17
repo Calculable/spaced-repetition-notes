@@ -10,3 +10,5 @@
 
 ## Zusammenfassung
 - Bedeutung von YourProjectName.swift, ContentView.swift, Assets.xcassets, Info.plist, Preview Content
+
+#learning unit#

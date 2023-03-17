@@ -15,4 +15,4 @@ x.intersects(y)
 - Wie sollte man Methoden / Properties benennen, welche einen Bool-Wert zurückgeben?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

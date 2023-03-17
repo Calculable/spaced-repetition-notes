@@ -58,4 +58,4 @@ class ObserverConceptual: XCTestCase {
 ## Zusammenfassung
 - Beispiel-Implementation
 
-#nur learning unit#
+#nur learning unit# #learning unit#

@@ -36,4 +36,4 @@ let sortedNames = names.sorted(by: >)
 Wie kann man Operatoren als First-Class-Types verwenden?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

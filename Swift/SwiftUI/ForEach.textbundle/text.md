@@ -19,3 +19,5 @@ ForEach(strings, id:\.self) {
 
 ## Zusammenfassung
 - ForEach mit Range und Sequenz
+
+#learning unit#

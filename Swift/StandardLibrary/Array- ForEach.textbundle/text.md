@@ -6,4 +6,4 @@ nums.forEach { print($0) }
 ```
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

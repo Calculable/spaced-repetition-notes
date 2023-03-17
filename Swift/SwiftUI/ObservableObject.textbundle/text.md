@@ -28,3 +28,5 @@
 - Wie ist ein ObservableObject aufgebaut?
 - Wann verwendet man StateObject und wann ObservedObject?
 - Was wird oft gemeinsam mit dem ObservableObject Protokoll verwendet?
+
+#learning unit#

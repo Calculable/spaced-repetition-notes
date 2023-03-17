@@ -18,3 +18,5 @@ if sizeClass == .compact {
 
 ## Zusammenfassung
 - Wie list man die Grössenklasse des Gerätes aus?
+
+#learning unit#

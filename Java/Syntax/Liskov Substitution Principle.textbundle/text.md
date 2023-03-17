@@ -1,4 +1,4 @@
-# Liskov Substitution Principle 
+# Liskov Substitution Principle
 🎭
 
 Objekte einer Klasse soll man durch Objekte einer Subklasse ersetzen können, ohne die Programm-Korrektheit zu verletzen.
@@ -8,4 +8,4 @@ Dass heisst, ich kann einer Methode, die ein „Vehicle“ entgegennimmt, einen 
 ## Zusammenfassung
 Was bedeutet der Begriff?
 
-#nur learning unit#
+#nur learning unit# #learning unit#

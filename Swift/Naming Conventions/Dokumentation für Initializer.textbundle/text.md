@@ -1,7 +1,7 @@
 # Dokumentation für Initializer
 📝
 
-- Startet mit „Initializes“ oder „Creates“ 
+- Startet mit „Initializes“ oder „Creates“
 
 
 ```swift
@@ -16,3 +16,5 @@ init(count n: Int, repeatedElement x: Element)
 
 ## Zusammenfassung
 - Wie sollte das Summary für einen Initializer aussehen?
+
+#learning unit#

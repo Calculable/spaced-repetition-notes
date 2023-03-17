@@ -27,3 +27,6 @@ func loadData() async throws {
 - Protokoll für die Modelklassen
 - URL erzeugen
 - Daten empfangen
+
+
+#learning unit#

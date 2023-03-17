@@ -8,3 +8,5 @@ Beachte: Arrays und Dictionaries sind auch structs!
 
 ##  Zusammenfassung
 - Was bedeutet Copy on Write?
+
+#learning unit#

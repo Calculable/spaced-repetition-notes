@@ -33,3 +33,5 @@ geo.frame(in: .local).midX
 - Wie funktioniert GeoReader
 - Wie kann man die Grösse auslesen
 - Wie kann man absolute und relative Positionen auslesen?
+
+#learning unit#

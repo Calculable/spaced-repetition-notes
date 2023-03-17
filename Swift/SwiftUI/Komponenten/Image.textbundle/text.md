@@ -48,3 +48,5 @@ Es gibt aber diverse Modifiiers, die man anwenden kann:
 
 [image-1]:	assets/Bildschirmfoto%202022-07-26%20um%2012.51.37.png
 [image-2]:	assets/Bildschirmfoto%202022-07-26%20um%2012.52.03.png
+
+#learning unit#

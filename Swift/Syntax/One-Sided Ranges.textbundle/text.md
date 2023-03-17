@@ -17,3 +17,5 @@ let smallParts = characters[3...]
 
 ##  Zusammenfassung
 - Wie funktionieren One-Sided Ranges?
+
+#learning unit#

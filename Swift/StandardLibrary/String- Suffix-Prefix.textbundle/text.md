@@ -31,4 +31,4 @@ let result = name.suffix(3)
 - Prefix / Suffix
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

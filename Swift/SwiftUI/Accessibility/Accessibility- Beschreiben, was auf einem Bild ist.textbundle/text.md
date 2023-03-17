@@ -15,3 +15,5 @@ Der Hint wird nach einem kurzen Delay vorgelesen und kann ausführlicher sein (�
 
 ## Zusammenfassung
 - Beschreiben was auf einem Bild ist (2 Möglichkeiten)
+
+#learning unit#

@@ -41,4 +41,4 @@ Siehe Hacking With Swift für die vollständige Implementation
 - Aufbau / 4 Basisoperationen (Name unwichtig)
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

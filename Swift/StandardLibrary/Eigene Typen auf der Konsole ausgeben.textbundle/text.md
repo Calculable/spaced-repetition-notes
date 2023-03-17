@@ -43,3 +43,5 @@ debugPrint(player)
 ## Zweck
 - Wie kann man einen eigenen Typ auf der Konsole ausgeben?
 - Unterscheidung zwischen debugPrint und print
+
+#learning unit#

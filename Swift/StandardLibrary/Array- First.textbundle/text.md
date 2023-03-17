@@ -20,4 +20,4 @@ let result = nums.firstIndex(where: { $0 % 2 == 0 })!
 ##  Zusammenfassung
 - Drei Varianten
 
-#nur learning unit#
+#nur learning unit# #learning unit#

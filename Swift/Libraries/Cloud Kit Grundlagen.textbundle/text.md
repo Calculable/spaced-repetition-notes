@@ -23,3 +23,5 @@ Quelle: [https://www.answertopia.com/swiftui/an-overview-of-swiftui-core-data-an
 - Konzepte Verstehen: Container, Datenbank, Record
 
 [1]:	https://www.answertopia.com/swiftui/an-overview-of-swiftui-core-data-and-cloudkit-storage/
+
+#learning unit#

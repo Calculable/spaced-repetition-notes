@@ -34,3 +34,5 @@ numbers.sorted { $0 > $1 }
 
 ## Zusammenfassung
 Syntax (unterschiedlich kompakte Schreibweisen)
+
+#learning unit#

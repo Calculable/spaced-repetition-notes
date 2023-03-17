@@ -20,4 +20,4 @@ func filter(_ includedInResults: (Element) -> Bool)...
 - Mit welcher Merkhilfe kommt man auf gute Parameter-Namen?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

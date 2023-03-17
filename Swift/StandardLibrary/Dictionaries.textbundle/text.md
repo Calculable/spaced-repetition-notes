@@ -17,3 +17,5 @@ Definieren
 Zuweisen
 Auslesen (mit Default-Wert)
 Hinzufügen
+
+#learning unit#

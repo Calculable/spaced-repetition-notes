@@ -1,4 +1,4 @@
-# Unterschied zwischen Optional\<X\> und X? 
+# Unterschied zwischen Optional\<X\> und X?
 🫙
 
 Hier macht der Compiler einen Default-Constructor, welcher nur Name beinhaltet:
@@ -25,4 +25,4 @@ Ansonsten bleibt es gleich. Man kann es also verwenden um die eigene Intention b
 - Was ist der Unterschied in der praktischen Verwendung zwischen `Optional<X>` und `X`?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

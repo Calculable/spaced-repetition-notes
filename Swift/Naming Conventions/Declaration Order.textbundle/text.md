@@ -16,3 +16,5 @@
 ## Zusammenfassung
 - In welcher Reihenfolge kommen die Properties (lazy, computed normal)
 - Wie werden die Funktionen sortiert?
+
+#learning unit#

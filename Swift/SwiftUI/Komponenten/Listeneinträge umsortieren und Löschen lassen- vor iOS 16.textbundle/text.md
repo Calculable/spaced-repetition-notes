@@ -33,4 +33,4 @@ func move(from source: IndexSet, to destination: Int) {
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-let-users-move-rows-in-a-list
 
-#nur learning unit#
+#nur learning unit# #learning unit#

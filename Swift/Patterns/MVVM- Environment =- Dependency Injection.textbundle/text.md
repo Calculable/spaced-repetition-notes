@@ -29,4 +29,4 @@ Stattdessen verwendet eine darüberliegende View dann `@Environment` oder `@Envi
 ## Zusammenfassung
 - Wie hat man im ViewModel Zugriff auf `@Environment`-Variabeln?
 
-#nur learning unit#
+#nur learning unit# #learning unit#

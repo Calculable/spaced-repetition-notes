@@ -15,4 +15,4 @@ func makeCollectionView() -> UICollectionView {
 - Wie können Lazy Properties verwendet werden, um Optionals zu vermeiden?
 
 
-#nur learning unit#
+#nur learning unit# #learning unit#

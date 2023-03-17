@@ -9,3 +9,6 @@ func anyCommonElements<T: Sequence, U: Sequence>(_ lhs: T, _ rhs: U) -> Bool
 (Beachte `Element` ist wiederum der generische Typ von `T`)
 
 > Writing `<T: Equatable>` is the same as writing `<T> ... where T: Equatable`.
+
+
+#learning unit#

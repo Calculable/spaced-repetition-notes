@@ -17,3 +17,6 @@ func fetch(_ url: URL) {
 
 ## Zusammenfassung
 - Wie verwendet man den `dataTask` (Code)
+
+
+#learning unit#
