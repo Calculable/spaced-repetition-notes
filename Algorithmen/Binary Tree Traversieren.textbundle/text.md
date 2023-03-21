@@ -25,4 +25,4 @@ B, A, C
 - Welche drei Arten von Tree-Traversal gibt es?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

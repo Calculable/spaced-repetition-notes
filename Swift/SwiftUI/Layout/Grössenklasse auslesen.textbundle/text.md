@@ -16,7 +16,11 @@ if sizeClass == .compact {
 }
 ```
 
+![][image-1]
+
 ## Zusammenfassung
 - Wie list man die Grössenklasse des Gerätes aus?
+
+[image-1]:	assets/Bildschirmfoto%202022-08-24%20um%2015.38.11.png
 
 #learning unit#

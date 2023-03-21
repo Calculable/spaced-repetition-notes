@@ -31,4 +31,4 @@ https://www.hackingwithswift.com/swift/5.7/regexes
 Prüfen, ob der ganze String matcht
 Einzelne Informationen extrahieren mit Regex
 
-#nur learning unit# #learning unit#
+#learning unit#

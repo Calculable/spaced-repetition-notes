@@ -35,4 +35,4 @@ Der Store wird oft als EnvironmentObject an die Views gegeben:
 - Wie werden Store Objects an die View gegeben?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

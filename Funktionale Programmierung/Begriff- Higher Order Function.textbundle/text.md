@@ -10,4 +10,4 @@
 - Wie nennt man das Gegenteil einer Higher Order Function?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

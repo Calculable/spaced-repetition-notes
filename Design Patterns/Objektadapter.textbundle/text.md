@@ -30,4 +30,4 @@
 
 [image-1]:	assets/DraggedImage.tiff
 
-#nur learning unit# #learning unit#
+#learning unit#

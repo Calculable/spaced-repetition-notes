@@ -9,4 +9,4 @@
 ## Zusammenfassung
 - Wie ist ein JWT Token aufgebaut?
 
-#nur learning unit# #learning unit#
+#learning unit#

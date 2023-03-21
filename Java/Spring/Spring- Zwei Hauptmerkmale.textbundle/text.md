@@ -10,4 +10,4 @@
 ##  Zusammenfassung
 Welche zwei Eigenschaften zeichnen Spring hauptsächlich aus?
 
-#nur learning unit# #learning unit#
+#learning unit#

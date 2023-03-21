@@ -8,4 +8,4 @@ var x = Project.fetchRequest()
 ## Zusammenfassung
 - Wie erhält man alle Instanzen (z.B: von `Project`?)
 
-#nur learning unit# #learning unit#
+#learning unit#

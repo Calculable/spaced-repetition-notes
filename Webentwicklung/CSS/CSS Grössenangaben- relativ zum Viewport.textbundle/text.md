@@ -14,4 +14,4 @@ font-size: 2vmax; /* or greater */
 - 4 Varianten
 
 
-#nur learning unit# #learning unit#
+#learning unit#

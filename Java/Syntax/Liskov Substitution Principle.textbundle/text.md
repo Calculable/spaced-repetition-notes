@@ -8,4 +8,4 @@ Dass heisst, ich kann einer Methode, die ein „Vehicle“ entgegennimmt, einen 
 ## Zusammenfassung
 Was bedeutet der Begriff?
 
-#nur learning unit# #learning unit#
+#learning unit#

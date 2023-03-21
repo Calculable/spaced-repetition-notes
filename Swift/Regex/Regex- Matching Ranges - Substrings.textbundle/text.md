@@ -22,4 +22,4 @@ let result = ranges.map {message[$0]}
 - Gematchte Substrings zurückgeben
 
 
-#nur learning unit# #learning unit#
+#learning unit#

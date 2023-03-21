@@ -17,4 +17,4 @@ struct App {
 - Wie sieht der Einstiegspunkt für eine Command-Line Applikation aus? (Code)
 
 
-#nur learning unit# #learning unit#
+#learning unit#

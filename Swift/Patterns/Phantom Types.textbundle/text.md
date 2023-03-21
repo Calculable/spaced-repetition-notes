@@ -36,4 +36,4 @@ let zoe1 = Employee<Programmer>(name: "Zoe")
 - Wozu braucht man sie?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

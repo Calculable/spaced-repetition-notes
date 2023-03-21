@@ -6,4 +6,4 @@
 ## Zusammenfassung
 - Vor- und Nachteile von Indexen
 
-#nur learning unit# #learning unit#
+#learning unit#

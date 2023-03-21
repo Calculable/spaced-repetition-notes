@@ -26,6 +26,9 @@ func placeOrder() async throws {
 }
 ```
 
+Beachte: Hier verwendet man die „shared“ session. Das ist in der Regel zu bevorzugen. Wenn man jedoch benutzerdefinierte Funktionalität benötigt, dann sin sind eigene Sessions vorzuziehen.
+
+
 ## Zusammenfassung
 - Api-Zugrif: Die Funktion ist… ?
 - Protokoll für die Modelklassen

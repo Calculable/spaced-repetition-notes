@@ -18,4 +18,4 @@
 ## Zusammenfassung
 - Wie ist ein Select aufgebaut?
 
-#nur learning unit# #learning unit#
+#learning unit#

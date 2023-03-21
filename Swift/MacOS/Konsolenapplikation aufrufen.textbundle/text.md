@@ -15,4 +15,4 @@
 - Wie werden Flags und Argumente einer Konsolenapplikation mitgegeben?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

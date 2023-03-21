@@ -46,4 +46,4 @@ class OrderBuilder {
 - Zweck
 - Beispiel-Code
 
-#nur learning unit# #learning unit#
+#learning unit#

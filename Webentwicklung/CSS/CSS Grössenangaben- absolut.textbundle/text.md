@@ -20,4 +20,4 @@ max-width: 5in;   /* inches */
 - 3 Varianten
 
 
-#nur learning unit# #learning unit#
+#learning unit#

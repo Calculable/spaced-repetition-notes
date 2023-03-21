@@ -9,4 +9,4 @@
 ##  Zusammenfassung
 - Charakteristiken von Funktionaler Programmierung
 
-#nur learning unit# #learning unit#
+#learning unit#

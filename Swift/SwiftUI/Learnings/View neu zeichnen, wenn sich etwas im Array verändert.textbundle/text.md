@@ -58,4 +58,4 @@ myWrapper.objectWillChange.send()
 - Welche 4 Möglichkeiten gibt es, wenn man im UI über Änderungen an Objekten innerhalb eines Arrays informiert werden möchte?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

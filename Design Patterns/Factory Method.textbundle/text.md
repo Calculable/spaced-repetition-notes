@@ -73,4 +73,4 @@ Achtung wichtig - beachte: Der Client ruft hier nicht die factoryMethod auf, son
 - Zweck
 - Beispielcode
 
-#nur learning unit# #learning unit#
+#learning unit#

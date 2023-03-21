@@ -26,4 +26,4 @@ class Facade {
 - Zweck
 
 
-#nur learning unit# #learning unit#
+#learning unit#

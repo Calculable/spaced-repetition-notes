@@ -14,4 +14,4 @@ Beachte: Core Data Klassen sind Observable Object
 - wie kann man CoreData Klassen explizit mitteilen, dass sie geändert wurden (und im UI neu gezeichnet werden sollen)
 
 
-#nur learning unit# #learning unit#
+#learning unit#

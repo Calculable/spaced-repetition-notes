@@ -12,4 +12,4 @@ font-size: 2rem;  /* or the root element's font-size */
 - 2 Varianten
 
 
-#nur learning unit# #learning unit#
+#learning unit#

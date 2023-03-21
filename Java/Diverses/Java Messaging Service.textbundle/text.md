@@ -17,4 +17,4 @@
 Um was geht es?
 Was ist eine häufige Implementation?
 
-#nur learning unit# #learning unit#
+#learning unit#

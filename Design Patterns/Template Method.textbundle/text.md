@@ -69,4 +69,4 @@ extension AbstractProtocol {
 - Beispielcode
 - Begriffe: Base, Hook
 
-#nur learning unit# #learning unit#
+#learning unit#

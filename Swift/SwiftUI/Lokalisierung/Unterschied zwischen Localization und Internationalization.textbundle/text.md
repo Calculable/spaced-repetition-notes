@@ -9,4 +9,4 @@
 - Wie lauten die Abkürzungen?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

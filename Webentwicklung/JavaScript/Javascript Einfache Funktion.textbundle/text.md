@@ -10,4 +10,4 @@ function myFunction(thing){
 ## Zusammenfassung
 - Beispielcode
 
-#nur learning unit# #learning unit#
+#learning unit#

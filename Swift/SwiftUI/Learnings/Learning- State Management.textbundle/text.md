@@ -88,4 +88,4 @@ Siehe Kapitel: „View neu zeichnen, wenn sich etwas im Array verändert“
 
 [image-1]:	assets/Bildschirm%C2%ADfoto%202023-03-04%20um%2010.56.48.png
 
-#nur learning unit# #learning unit#
+#learning unit#

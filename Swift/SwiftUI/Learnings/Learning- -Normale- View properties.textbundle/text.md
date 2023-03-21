@@ -20,4 +20,4 @@ struct Checkerboard: Shape {
 - Weshalb kann man oft auf `@State` verzichten
 
 
-#nur learning unit# #learning unit#
+#learning unit#

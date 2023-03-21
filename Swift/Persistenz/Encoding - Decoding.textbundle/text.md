@@ -22,6 +22,9 @@ let data = try JSONEncoder().encode(user)
 let decodedItems = try JSONDecoder().decode([ExpenseItem].self, from: savedItems)
 ```
 
+## Wie wird mit Optionals umgegangen?
+
+>  In fact, if we mark a property as optional Codable will automatically skip over it if the value is missing from our input JSON.
 ## Zusammenfassung
 - JSON encodieren und decodieren
 

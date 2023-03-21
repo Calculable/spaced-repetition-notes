@@ -7,4 +7,4 @@
 ## Zusammenfassung
 - die wichtigsten drei bereits existierenden FunctionalInterfaces
 
-#nur learning unit# #learning unit#
+#learning unit#

@@ -8,4 +8,4 @@ INSERT INTO abteilung VALUES (23, 'Verkauf');
 ##  Zusammenfassung
 Beispiel-Syntax
 
-#nur learning unit# #learning unit#
+#learning unit#

@@ -12,4 +12,4 @@ addieren(){
 ## Zusammenfassung
 - Funktion innerhalb einer Klasse
 
-#nur learning unit# #learning unit#
+#learning unit#

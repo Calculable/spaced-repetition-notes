@@ -14,4 +14,4 @@
 ##  Zusammenfassung
 - Was macht Spring boot?
 
-#nur learning unit# #learning unit#
+#learning unit#

@@ -8,4 +8,4 @@ SELECT MAX( salaer ) FROM angestellter;
 ## Zusammenfassung
 - Beispiel
 
-#nur learning unit# #learning unit#
+#learning unit#

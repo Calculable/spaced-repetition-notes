@@ -30,4 +30,4 @@ Zwischen den Schnittstellen definiert man Protokolle. Für unterschiedliche Modu
 
 [image-1]:	https://miro.medium.com/max/1400/1*-Mfew6qvLQ-t-DSOkY23Aw.webp
 
-#nur learning unit# #learning unit#
+#learning unit#

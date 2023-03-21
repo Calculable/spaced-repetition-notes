@@ -70,4 +70,4 @@ So kann man zudem die anzeige noch genauer steuern: [How to customize the displa
 [image-1]:	assets/DraggedImage.tiff
 [image-2]:	assets/Bildschirm%C2%ADfoto%202023-01-17%20um%2018.45.25.png
 
-#nur learning unit# #learning unit#
+#learning unit#

@@ -18,7 +18,11 @@ Button {
 }
 ```
 
+![][image-1]
+
 ## Zusammenfassung
 Wie macht man einen Button mit einem speziellen Label (z.B: SF Symbol) 
+
+[image-1]:	assets/Bildschirmfoto%202022-07-21%20um%2017.03.55.png
 
 #learning unit#

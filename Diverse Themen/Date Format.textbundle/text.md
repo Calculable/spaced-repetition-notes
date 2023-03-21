@@ -54,4 +54,4 @@ Beachte: Man verwendet ein grosses M
 
 [1]:	https://help.scribesoft.com/scribe/en/sol/general/datetime.htm#:~:text=dd%2FMM%2Fyyyy%20%E2%80%94%20Example,Example%3A%202013%2F6%2F23
 
-#nur learning unit# #learning unit#
+#learning unit#

@@ -12,6 +12,24 @@ Picker("Select your student", selection: $selectedStudent){
 Wenn man nicht `ForEach` verwendet, dann braucht jeder Eintrag einen `tag`
 ![][image-1]
 
+
+**Wichtiger Hinweis**
+Achtung - damit der Picker funktioniert, braucht es eine Navigation View. Ansonsten beim Klicken des Pickers keine View angezeigt werden
+
+**Was ist, wenn man keine ID angibt?**
+
+- Beim Selected Item wird statt der ID der Index gespeichert:
+- Wenn man also hier 2 Personen auswählt, dann steht danach bei `numberOfPeople` der Wert `0` drin.
+
+```swift
+Picker("Number of people", selection: $numberOfPeople) {
+        ForEach(2 ..< 100) {
+            Text("\($0) people")
+        }
+    }
+```
+
+
 ## Zusammenfassung
 Wie macht man einen Picker?
 

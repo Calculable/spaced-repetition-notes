@@ -34,4 +34,4 @@ Stack<?>
 ## Zusammenfassung
 Was bedeuten die drei Begriffe?
 
-#nur learning unit# #learning unit#
+#learning unit#

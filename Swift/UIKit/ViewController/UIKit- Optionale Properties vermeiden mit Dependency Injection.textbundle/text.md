@@ -39,7 +39,7 @@ Jetzt kann man die Methode `instantiateViewController` mit einem eigenen "Creato
 ```swift
 var myViewController = storyboard?.instantiateViewController(identifier: "MyViewController",  creator: { coder in 
 	MyViewController(coder: coder, title: "MyTitle")
-}
+})
 ```
 
 

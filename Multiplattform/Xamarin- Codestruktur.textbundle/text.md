@@ -9,4 +9,4 @@
 
 [image-1]:	assets/Bildschirmfoto%202022-12-15%20um%2007.47.36.png
 
-#nur learning unit# #learning unit#
+#learning unit#

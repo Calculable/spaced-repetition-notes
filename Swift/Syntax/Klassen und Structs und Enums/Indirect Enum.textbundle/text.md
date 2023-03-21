@@ -17,4 +17,4 @@ indirect enum MyEnum {
 - Was ist ein Indirect Enum (nur Theorie)
 
 
-#nur learning unit# #learning unit#
+#learning unit#

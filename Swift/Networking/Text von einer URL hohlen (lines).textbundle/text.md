@@ -15,4 +15,4 @@ for try await quote in url.lines {
 
 - Sehr einfaches Codebeispiel
 
-#nur learning unit# #learning unit#
+#learning unit#

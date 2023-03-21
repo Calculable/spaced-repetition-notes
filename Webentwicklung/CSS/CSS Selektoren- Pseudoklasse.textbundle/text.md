@@ -9,4 +9,4 @@ selector:hover { }
 ## Zusammenfassung
 - Beispiel: Hover
 
-#nur learning unit# #learning unit#
+#learning unit#

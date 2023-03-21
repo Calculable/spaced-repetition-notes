@@ -1,6 +1,10 @@
 # UserDefaults
 💾
 
+## Was ist UserDefaults.Standart?
+
+In Advanced apps kann man eigene Versionen von UserDefaults erstellten. Für einfache Apps reicht Standart aus.
+
 ## Werte speichern
 
 ```swift
@@ -13,6 +17,8 @@ Hier sollte man nicht viele Daten speichern (weniger als 1 MB)
 ```swift
 UserDefaults.standard.integer(forKey: "Tap")
 ```
+
+(Es ist kein Optional. Bei Integer bekommt man den Standartwert „0“ zurück. Das kann problematisch sein, zum Beispiel bei Bool wenn man nicht weiss ob man jetzt den Standartwert zurückbekommen hat oder tatsächlich ein Wert des users.)
 
 ## Keine Optionals
 

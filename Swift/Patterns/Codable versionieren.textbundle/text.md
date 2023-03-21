@@ -105,4 +105,4 @@ extension Employee: Decodable {
 - Welche drei Varianten gibt es, um Codeable zu versionieren? (nur Konzept, ohne Details)
 
 
-#nur learning unit# #learning unit#
+#learning unit#
