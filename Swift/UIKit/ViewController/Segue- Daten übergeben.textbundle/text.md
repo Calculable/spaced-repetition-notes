@@ -42,4 +42,4 @@ Siehe auch „UIKit: Optionale Properties vermeiden mit Dependency Injection“
 - Wie kann man beim Segue der anderen View Daten mitgeben?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

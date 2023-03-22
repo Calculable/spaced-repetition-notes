@@ -16,4 +16,4 @@
 [image-1]:	assets/4c99cb_338b4515f6cb4519943bcae41f198ba0~mv2.png
 [image-2]:	assets/4c99cb_965ca34dd5514039b059b0def1ee7be3~mv2.png
 
-#nur learning unit# #learning unit#
+#learning unit#

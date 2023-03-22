@@ -5,6 +5,8 @@
 let storyboard = UIStoryboard(name: "Main", bundle: nil)
 //allenfalls kann man auch einfach storyboard? schreiben
 let vc = storyboard.instantiateViewController(identifier: "SecondVC")
+//change the view controller
+    vc.selectedImage = pictures[indexPath.row]
 self.navigationController?.pushViewController(vc, animated: true)
 ```
 
@@ -18,4 +20,4 @@ Wie kann man einen neue View auf den Stack pushen (ohne Segue)
 
 [image-1]:	assets/Bildschirm%C2%ADfoto%202023-01-11%20um%2020.06.19.png
 
-#nur learning unit# #learning unit#
+#learning unit#

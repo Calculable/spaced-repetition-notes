@@ -5,27 +5,27 @@
 Man sollte den Code im `viewDidLoad` nicht überfrachten so wie hier:
 
 ```swift
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-		backgroundColor = UIColor(white: 0.9, alpha: 1)
+  override func viewDidLoad() {
+      super.viewDidLoad()
+      
+	backgroundColor = UIColor(white: 0.9, alpha: 1)
 
-		let stackView = UIStackView()
-		stackView.translatesAutoresizingMaskIntoConstraints = false
-		stackView.spacing = 10
-		view.addSubview(stackView)
+	let stackView = UIStackView()
+	stackView.translatesAutoresizingMaskIntoConstraints = false
+	stackView.spacing = 10
+	view.addSubview(stackView)
 
-		stackView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor).isActive = true
-		stackView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor).isActive = true
-		stackView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor).isActive = true
-		stackView.axis = .vertical
+	stackView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor).isActive = true
+	stackView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor).isActive = true
+	stackView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor).isActive = true
+	stackView.axis = .vertical
 
-		let notice = UILabel()
-		notice.numberOfLines = 0
-		notice.text = "Your child has attempted to share the following photo from the camera:"
-		stackView.addArrangedSubview(notice)
+	let notice = UILabel()
+	notice.numberOfLines = 0
+	notice.text = "Your child has attempted to share the following photo from the camera:"
+	stackView.addArrangedSubview(notice)
 
-    }
+  }
 ```
 
 
@@ -78,4 +78,4 @@ Beachte, wie die neue `shareView` dem bereits vorhandenen Property `shareView` z
 Wie kann man den View Code innerhalb von `viewDidLoad` auslagern?
 
 
-#nur learning unit# #learning unit#
+#learning unit#

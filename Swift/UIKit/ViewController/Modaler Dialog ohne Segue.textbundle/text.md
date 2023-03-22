@@ -20,6 +20,10 @@ So kann der Modale Dialog wieder geschlossen werden:
 dismiss(animated:  true, completion:  nil)
 ```
 
+Hier wird die Storyboard ID festgelegt:
+
+![][image-1]
+
 ## Wichtig! Siehe auch:
 
 Siehe auch „UIKit: Optionale Properties vermeiden mit Dependency Injection“
@@ -28,5 +32,6 @@ Siehe auch „UIKit: Optionale Properties vermeiden mit Dependency Injection“
 - Wie kann man einen modalen Dialog ohne Segue anzeigen?
 - Wie wird der modale Dialog wieder geschlossen?
 
+[image-1]:	assets/Bildschirmfoto%202021-09-01%20um%2011.58.15.png
 
-#nur learning unit# #learning unit#
+#learning unit#

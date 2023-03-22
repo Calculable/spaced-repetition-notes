@@ -1,6 +1,7 @@
 # Toolbar
 🧩
 
+## Ohne Placement
 ```swift
 .navigationTitle("BetterRest")
 .toolbar {
@@ -10,10 +11,24 @@
 
 ![][image-1]
 
-Es gibt auch verschiedene „Placements“, so man bestimmen kann, wo der Button angezeigt wird: Zum Beispiel `.primaryAction` oder `.secondaryAction`
+## Mit Placement
+- Zum Beispiel `.primaryAction` oder `.secondaryAction`
+- Man wrappt das ganze in ein `ToobarItem`
 
-Man kann das auch in ein ToolbarItem wrappen
 
+```swift
+.toolbar {
+	ToolbarItem(placement: .primaryAction) {
+		Button("Example") {}		
+	}
+}
+```
+
+
+
+
+
+## Benutzerdefinierte Toolbar
 Man kann die Toolbar auch für den Nutzer anpassbar machen:
 
  [How to let users customize toolbar buttons - a free SwiftUI by Example tutorial (hackingwithswift.com)]()(https://www.hackingwithswift.com/quick-start/swiftui/how-to-let-users-customize-toolbar-buttons)
@@ -21,6 +36,8 @@ Man kann die Toolbar auch für den Nutzer anpassbar machen:
 
 ## Zusammenfassung
 - Wie macht man eine Toolbar
+
+
 
 
 

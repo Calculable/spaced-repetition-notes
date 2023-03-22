@@ -16,4 +16,4 @@ Je nach Interpretation kann das Model auch selbst Daten nachladen
 - Einordnung Model und ViewController
 
 
-#nur learning unit# #learning unit#
+#learning unit#

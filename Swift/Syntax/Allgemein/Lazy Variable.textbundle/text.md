@@ -17,6 +17,16 @@ struct Person {
 
 Lazy Let existiert nicht.
 
+## Beispiel 2
+
+Bei Closures kann es sinnvoll sein, damit man auf `self` Zugreifen kann:
+
+```swift
+lazy var getAutoDetails: () -> String = {
+	return "Das Modell \(self.modell) gehört \(self.besitzer)."
+}
+```
+
 ##  Zusammenfassung
 - Zweck
 - Codebeispiel

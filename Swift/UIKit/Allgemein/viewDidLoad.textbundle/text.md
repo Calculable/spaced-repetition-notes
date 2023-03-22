@@ -5,10 +5,10 @@
 - Wir einmal aufgerufen
 
 ```swift
-   override func viewDidLoad() {
-        super.viewDidLoad()
-        
-		backgroundColor = UIColor(white: 0.9, alpha: 1)
+override func viewDidLoad() {
+	super.viewDidLoad()
+	backgroundColor = UIColor(white: 0.9, alpha: 1)
+}
 ```
 
 Siehe auch Kapitel: "Best Pratice: View Code und Controller Code trennen"
@@ -18,4 +18,4 @@ Siehe auch Kapitel: "Best Pratice: View Code und Controller Code trennen"
 - Wozu wird es benötigt?
 
 
-#nur learning unit# #learning unit#
+#learning unit#
