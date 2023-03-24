@@ -7,7 +7,7 @@
 ```swift
 override func viewDidLoad() {
 	super.viewDidLoad()
-	backgroundColor = UIColor(white: 0.9, alpha: 1)
+	view.backgroundColor = UIColor(white: 0.9, alpha: 1)
 }
 ```
 

@@ -3,6 +3,6 @@
 
 ## Snippets aufrufen
 
-`⌘ - ⌥ - L`
+`⌘ - ⇧ - L`
 
 #learning unit#
