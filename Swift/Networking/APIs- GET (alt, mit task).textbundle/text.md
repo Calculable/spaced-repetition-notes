@@ -1,7 +1,7 @@
-# APIs: GET (mit task)
+# APIs: GET (alt, mit task)
 🌐
   
-  Mit Data Task muss die Funktion nicht asynchron sein, weil man mit Callbacks arbeitet
+  Mit Data Task muss die Funktion nicht asynchron sein, weil man mit Callbacks arbeitet =\> Es ist also eher die ältere Version
 
 ```swift
 func fetch(_ url: URL) {
@@ -15,6 +15,7 @@ func fetch(_ url: URL) {
 }
 ```
 
+=\> Beachte: `.resume()` nicht vergessen
 ## Zusammenfassung
 - Wie verwendet man den `dataTask` (Code)
 

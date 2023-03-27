@@ -1,4 +1,4 @@
-# Lazy Variable
+# Lazy Property und Variabeln
 🦥
 
 ## Zweck
@@ -27,8 +27,21 @@ lazy var getAutoDetails: () -> String = {
 }
 ```
 
+## Lazy Local Variable
+
+Auch das funktioniert:
+
+```swift
+func printFibonacci(of number: Int, allowAbsolute: Bool = false) {
+    lazy var result = fibonacci(of: abs(number))
+
+	//do something with the result    
+}
+```
+
 ##  Zusammenfassung
 - Zweck
 - Codebeispiel
+- Funktioniert es auch als Lokale Veriable
 
 #learning unit#

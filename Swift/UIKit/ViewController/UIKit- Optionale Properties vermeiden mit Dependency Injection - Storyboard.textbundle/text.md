@@ -1,4 +1,4 @@
-# UIKit: Optionale Properties vermeiden mit Dependency Injection
+# UIKit: Optionale Properties vermeiden mit Dependency Injection - Storyboard
 💉
 
 ## Problem
@@ -42,6 +42,6 @@ var myViewController = storyboard?.instantiateViewController(identifier: "MyView
 })
 ```
 
-
+=\> Beachte: Den Parameter „Identifier“ braucht es nicht mehr zwingend.
 
 #learning unit#
