@@ -6,12 +6,12 @@
 Ein Task kann von einer synchronen Funktion aus gestartet werden:
 
 ```swift
-let inboxTask = Task { () -> [Message] in
-	let url = URL(string: "https://hws.dev/inbox.json")!
-	return try await URLSession.shared.decode([Message].self, from: url)
+let articleTask = Task { () -> [Article] in
+	let url = URL(string: "https://myservice.ch/news.json")!
+	return try await URLSession.shared.decode([Article].self, from: url)
 }
 
-inbox = try await inboxTask.value
+articles = try await articleTask.value
 ```
 
 =\> Der Task beginnt automatisch zu laufen
@@ -22,8 +22,8 @@ Wenn der Rückgabewert uns nicht interessiert, kann man den Task noch einfacher 
 ```swift
 .task {
     Task {
-        let url = URL(string: "https://hws.dev/inbox.json")!
-        inbox = try await URLSession.shared.decode([Message].self, from: url)
+        let url = URL(string: "https://myservice.ch/news.json")!
+        inbox = try await URLSession.shared.decode([Article].self, from: url)
     }
 
 }

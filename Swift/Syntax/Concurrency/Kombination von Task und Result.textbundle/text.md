@@ -5,15 +5,15 @@
 - Jeder Task hat ein Result-Struct:
 
 ```swift
-let inboxTask = Task { () -> [Message] in
-	let url = URL(string: "https://hws.dev/inbox.json")!
-    return try await URLSession.shared.decode([Message].self, from: url)
+let articleTask = Task { () -> [Article] in
+	let url = URL(string: "https://myservice.ch/news.json")!
+    return try await URLSession.shared.decode([Article].self, from: url)
 }
 
-let inboxResult = await inboxTask.result
+let articlesResult = await articleTask.result
 
 do {
-	inbox = try inboxResult.get()
+	articles = try articlesResult.get()
 } catch {
 	print(error.localizedDescription)
 }

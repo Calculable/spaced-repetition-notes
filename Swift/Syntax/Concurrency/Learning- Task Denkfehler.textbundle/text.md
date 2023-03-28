@@ -6,7 +6,7 @@
 ```swift
 Button("Run with Task (blocks UI)") { 
     Task {
-            countPrimeNumbersInRange(range: 1...numberOfChecks)   
+		countPrimeNumbersInRange(range: 1...numberOfChecks)   
     }
 }
 ```
