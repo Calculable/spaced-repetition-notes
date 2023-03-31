@@ -68,6 +68,7 @@ Text("SwiftUI ")
 ## Quelle
 Quelle: [How to add advanced text styling using AttributedString - a free SwiftUI by Example tutorial (hackingwithswift.com)][1]
 
+Weiterführende Informationen: [https://www.hackingwithswift.com/plus/hacking-with-swift-live-2021/finishing-up][2]
 
 ## Warnung
 
@@ -80,5 +81,6 @@ Quelle: [How to add advanced text styling using AttributedString - a free SwiftU
 
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring
+[2]:	https://www.hackingwithswift.com/plus/hacking-with-swift-live-2021/finishing-up
 
 #learning unit#

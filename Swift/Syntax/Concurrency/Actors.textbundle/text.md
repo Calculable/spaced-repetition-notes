@@ -38,9 +38,14 @@ actor User {
 - Das macht Sinn, weil man ja allenfalls warten muss, bis das Objekt verfügbar ist
 - Beachte im Codebeispiel: Innerhalb der Instanz selbst gibt es diese Einschränkung nicht
 
+##  Wo sollte man Custom Actors nicht einsetzen?
+
+- Als ViewModel - hier sollte man mit `@MainActor` arbeiten, da die Änderungen ja auf dem Main-Thread geschehen sollen.
+
 ##  Zusammenfassung
 - Zweck
 - Code
 - Was ist Actor Isolation?
+- Wo sollte man Custom Actors nicht einsetzen?
 
 #learning unit#

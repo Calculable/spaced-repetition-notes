@@ -24,6 +24,9 @@
 }
 ```
 
+Es gibt auch das Placement `.keyboard`:
+
+![][image-2]
 
 
 
@@ -41,6 +44,9 @@ Man kann die Toolbar auch für den Nutzer anpassbar machen:
 
 
 
+
+
 [image-1]:	assets/Bildschirmfoto%202022-07-23%20um%2009.31.54.png
+[image-2]:	assets/IMG_E9DB2914024A-1.jpeg
 
 #learning unit#

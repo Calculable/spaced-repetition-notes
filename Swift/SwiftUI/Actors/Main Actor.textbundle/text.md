@@ -6,11 +6,12 @@
 - Manchmal ist es aber nötig, den Main-Actor explizit aufzurufen. Zum Beispiel wenn man libraries hat, welche einen Closure entgegennehmen und diesen dann in einem anderen Kontext ausführen: 
 
 ```swift
-MainActor.run {
+await MainActor.run {
     // your work here
 }
 ```
 
+- Man kann auch Werte zurückgeben
 - Man kann auch Funktionen oder Klassen mit `@MainActor` auszeichnen
 
 ## Zusammenfassung

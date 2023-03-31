@@ -9,6 +9,9 @@
 
 - **Variante 3**: `ISO8601DateFormatter()` verwenden. Vor allem für die Fälle, wo man Dates an ein anderes Computersystem weitergeben muss.
 
+=\> Mit iOS 16 kann man auch direkt das Datum formatieren. Siehe Kapitel „Date „Formatter: Details“
+
+
 ## Details
 
 Siehe Zusammenfassung "Date Formatter"

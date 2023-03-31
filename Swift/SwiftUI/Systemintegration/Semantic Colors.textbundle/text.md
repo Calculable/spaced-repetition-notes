@@ -14,12 +14,6 @@ Hier sind einige Beispiele:
 - `.systemRed`
 - `.systemBlue`
 
-##  Beispiele: Materialien
-
-```swift
-.background(.ultraThinMaterial)
-```
-
 ##  Siehe auch
 
 
