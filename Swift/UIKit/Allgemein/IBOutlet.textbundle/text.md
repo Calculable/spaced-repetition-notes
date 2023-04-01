@@ -15,10 +15,12 @@ Mit Control eine Linie ziehen
 @IBOutlet weak var  messageLabel: UILabel!
 ```
 
+(Ob weak oder Strong kommt es eigentlich gar nicht so darauf an)
+
 ## Zusammenfassung
 - Code
 
-[image-1]:	assets/Bildschirmfoto%202021-08-30%20um%2021.31.13.png
-[image-2]:	assets/Bildschirmfoto%202021-08-30%20um%2021.32.03.png
+[image-1]:	assets/DraggedImage.tiff
+[image-2]:	assets/Bildschirm%C2%ADfoto%202023-03-16%20um%2015.09.23.png
 
 #learning unit#

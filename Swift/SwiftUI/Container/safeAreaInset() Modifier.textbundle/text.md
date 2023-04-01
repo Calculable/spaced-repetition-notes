@@ -23,15 +23,12 @@ List(0..<100) { i in
 Ein weiterer Vorteil: Wenn eine Tastatur angezeigt wird, rutscht es nach oben:
 
 ![][image-2]
-##  Zusammenfassung
 
-![][image-3]
 
 ##  Zusammenfassung
 - Wozu ist dieser Modifier gut?
 
 [image-1]:	assets/Bildschirm%C2%ADfoto%202023-03-30%20um%2008.23.36.png
 [image-2]:	assets/DraggedImage.png
-[image-3]:	assets/Bildschirm%C2%ADfoto%202023-03-30%20um%2008.23.44.png
 
 #learning unit#

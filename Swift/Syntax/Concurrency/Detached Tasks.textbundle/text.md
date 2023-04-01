@@ -41,7 +41,7 @@ struct ContentView: View {
 
 ## Lösung: Detached Tasks
 
-Man erstellt den Task mit `Task.detach()`
+Man erstellt den Task mit `Task.detached { ... }`
 
 - So wird die Priorität und der Actor-Context nicht vererbt.
 - Man sollte das aber nur dann verwenden, wenn es nicht anderst geht
