@@ -34,6 +34,8 @@ required init?(coder: NSCoder) {
 }
 ```
 
+=\> Siehe separate Learning Unit: ViewController mit eigenem Initializer
+
 Jetzt kann man die Methode `instantiateViewController` mit einem eigenen "Creator" aufrufen:
 
 ```swift

@@ -16,9 +16,18 @@
 
 ![][image-1]
 
-Beachte: 750 ist de Default Priority
+
+## Default Werte
+- 750 ist de Default Priority für Content Compression
+- 250 ist die Default Priority für Content Hugging
+
+Das heisst: Die Elemente werden standartmässig gerne „gestreched“ aber ungerne „compressed“
 
 ##  Manchmal setzt man die Grösse im Code
+
+```swift
+cluesLabel.setContentHuggingPriority(UILayoutPriority(1), for: .vertical)
+```
 
 Dann kann man in Xcode die Intrinsic Size für den Platzhalter angeben damit es in der Vorschau gut aussieht:
 

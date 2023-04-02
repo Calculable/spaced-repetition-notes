@@ -9,6 +9,7 @@ class ViewController: UITableViewController {
     var pictures: [String] = []
 
 	//loadView() gets called before viewDidLoad()
+	//braucht man nicht, wenn es vom Storyboard geladen wird
 	override func loadView() {
 		//...
 		//Hier könnte man die eigentliche view noch zuweisen
@@ -27,6 +28,6 @@ class ViewController: UITableViewController {
 
 
 ## Zusammenfassung
-- Welche zwei Funktionen spielen eine Rolle
+- Welche zwei Funktionen spielen eine Rolle, wann braucht man es
 
 #learning unit#

@@ -2,9 +2,10 @@
 🥞
 
 ```swift
+//Normalerweise hat man schon direkt zugriff auf das Storyboard, aber zum Beispiel im AppDelegate muss man zuerst eine Referenz auf das Storyboard erhalten:
 let storyboard = UIStoryboard(name: "Main", bundle: nil)
 //allenfalls kann man auch einfach storyboard? schreiben
-let vc = storyboard.instantiateViewController(identifier: "SecondVC")
+let vc = storyboard.instantiateViewController(identifier: "SecondVC") as! MyViewController
 //change the view controller
     vc.selectedImage = pictures[indexPath.row]
 self.navigationController?.pushViewController(vc, animated: true)

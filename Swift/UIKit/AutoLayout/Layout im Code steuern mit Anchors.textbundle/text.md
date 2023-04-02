@@ -31,6 +31,8 @@ label.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant
 
 ## Detail: Constraint to suggested system margin
 
+Der LayoutMarginsGuide ist innerhalb der Safe-Area
+
 ```swift
 child.leadingAnchor.constraint(equalTo: view.layoutMarginsGuide.leadingAnchor).isActive = true
 ```
@@ -40,6 +42,10 @@ child.leadingAnchor.constraint(equalTo: view.layoutMarginsGuide.leadingAnchor).i
 ```swift
 child.trailingAnchor.constraint(equalTo: view.readableContentGuide.trailingAnchor).isActive = true
 ```
+
+## Siehe auch
+
+Kapitel: Constraint Mathematik
 
 
 
