@@ -20,9 +20,28 @@ UserDefaults.standard.integer(forKey: "Tap")
 
 (Es ist kein Optional. Bei Integer bekommt man den Standartwert „0“ zurück. Das kann problematisch sein, zum Beispiel bei Bool wenn man nicht weiss ob man jetzt den Standartwert zurückbekommen hat oder tatsächlich ein Wert des users.)
 
-## Keine Optionals
+## Default Werte
 
-(Es ist kein Optional. Bei Integer bekommt man den Standartwert „0“ zurück. Das kann problematisch sein, zum Beispiel bei Bool wenn man nicht weiss ob man jetzt den Standartwert zurückbekommen hat oder tatsächlich ein Wert des users.)
+- Es gibt kein Optional bei Primitiven Datentypen.
+- Das kann problematisch sein, zum Beispiel bei Bool wenn man nicht weiss ob man jetzt den Standartwert zurückbekommen hat oder tatsächlich ein Wert des users.)
+
+- Integer: 0
+- Bool: False
+- Float: 0.0
+- Double: 0.0
+- Object: Nil (der Datentyp ist Any?)
+
+
+## Eigene Default-Werte speichern
+
+```swift
+let values =
+	"country": "Spain",
+	"capital": "Madrid"
+]
+
+UserDefaults.standard.register(defaults: values)
+```
 
 ##  Daten werden nicht sofort gespeichert
 
@@ -31,6 +50,7 @@ UserDefaults.standard.integer(forKey: "Tap")
 ## Siehe auch
 
 `@AppStorage` wrapper
+
 
 ## Zusammenfassung
 - Mit Property Wrapper
