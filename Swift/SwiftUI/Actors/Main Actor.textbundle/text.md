@@ -9,10 +9,19 @@
 await MainActor.run {
     // your work here
 }
+
+//früher: DispatchQueue.main.async
 ```
 
 - Man kann auch Werte zurückgeben
-- Man kann auch Funktionen oder Klassen mit `@MainActor` auszeichnen
+- Man kann auch Funktionen oder Klassen mit `@MainActor` auszeichnen:
+
+
+```swift
+@MainActor
+func display(scene: Scene)
+```
+
 
 ## Zusammenfassung
 - Zweck / Anwendungsfall

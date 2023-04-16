@@ -21,7 +21,7 @@ Richtige wäre es so:
 await countPrimeNumbersInRange(range: 1...numberOfChecks)
 ```
 
-## Learning Unit
+## Zusammenfassung
 - Warum kann das UI selbst dann blockieren, wenn man eigentlich einen Task verwendet?
 
 #learning unit#

@@ -7,7 +7,7 @@ VStack {
     Text("1000")
         .font(.title)
 }
-.accessibilityElement(children: .ignore) //ignore ist der default parameter
+.accessibilityElement(children: .combine)
 .accessibilityLabel("Your score is 1000")
 ```
 

@@ -50,8 +50,14 @@ let search3 = Regex {
 }
 ```
 
+Man kann es auch automatisch konvertieren
+
+![][image-1]
+
 ## Zusammenfassung
 - 3 Varianten, um Reguläre ausdrücke zu erstellen (nicht auswändig)
 - Wie macht man modifiers
+
+[image-1]:	assets/Bildschirm%C2%ADfoto%202023-04-15%20um%2019.43.23.png
 
 #learning unit#
