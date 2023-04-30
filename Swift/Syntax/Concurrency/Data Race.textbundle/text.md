@@ -29,6 +29,20 @@ class BankAccount {
 - Wenn zwei Threads gleichzeitig Geld abheben kann es sein, dass die Balance negativ wird:
 	- Weil beide Threads am „Guard“ Statement vorbeikommen, weil die Balance noch nicht angepasst ist
 
+## Beispiel 2
+
+Bereits hier kann es zu einem Data Race kommen:
+
+```swift
+class Counter {
+    var count: Int = 0
+
+    func increment() {
+        count = count + 1
+    }
+}
+```
+
 ## Wie kann man dieses Problem verhindern
 - Manuell, zum Beispiel mit Locks
 - Einfachste Lösung: Actor verwenden

@@ -5,11 +5,10 @@
 
 - **Intrinsic Content Size**: "die natürliche Grösse"
 
-> Wenn man eine Intrinsic Content Size hat (wie bei einem Label) dann muss man Height und Width nicht festlegen. Beachte: Text-Länge kann sich ändern und auch die Text-Grösse
-
+> Wenn man eine Intrinsic Content Size hat (wie bei einem Label) dann muss man Height und Width nicht festlegen. Beachte: Text-Länge kann sich ändern und auch die Text-Grösse.
 
 - **Content Compression Resistance**: wir stark will das Objekt nicht kleiner werden
-- **Content Hugging**: wie stark will das Objekt nicht wachsen
+- **Content Hugging**: wie stark will das Objekt nicht wachsen („hält sich zusammen“)
 
 
 ##  Beispiel
@@ -21,24 +20,55 @@
 - 750 ist de Default Priority für Content Compression
 - 250 ist die Default Priority für Content Hugging
 
-Das heisst: Die Elemente werden standartmässig gerne „gestreched“ aber ungerne „compressed“
+- Das heisst: Die Elemente werden standartmässig gerne „gestreched“ aber ungerne „compressed“. 
+- 1000 wäre „Required“
 
-##  Manchmal setzt man die Grösse im Code
+## Wie spielt das beim erstellen des Layouts eine Rolle?
+
+Hier hat das die View weniger Platz zur Verfügung, als das sie eigentlich gemäss intrinsic content size haben möchte:
+
+![][image-2]
+
+Es findet also Compression statt. Entweder muss das Bild oder der Text komprimiert werden. Weil der Text eine geringere Compression Resistance hat, wird er komprimiert
+
+![][image-3]
+
+Die Grösse des Bildes bleibt die gleiche. Merke: Es gibt keine „Teilgewinner“.
+
+## Manchmal setzt man die Grösse im Code
+
+### Beispiel: Label
 
 ```swift
 cluesLabel.setContentHuggingPriority(UILayoutPriority(1), for: .vertical)
 ```
 
+Es gibt auch definierte Konstanten, wie zum Beispiel `. required`
+
 Dann kann man in Xcode die Intrinsic Size für den Platzhalter angeben damit es in der Vorschau gut aussieht:
 
-![][image-2]
+![][image-4]
+
+### Beispiel: Constraint
+
+- Auch Constraints können eine Priority haben
+- Hier allerdings nur ein einziger Wert (nicht separat für Hugging and Compression)
+
+```swift
+let myConstraint = self.heightAnchor.constraint(equalToConstant: 20)
+myConstraint.isActive = true
+myConstraint.priority = .init(500)
+```
 
 ## Zusammenfassung
 - Begriff für "natürliche Grösse"
 - Begriff für "wir stark will es nicht wachsen"
 - Begriff für "wie stark will es nicht schrumpfen"
+- Was sind die Default-Werte
 
 [image-1]:	assets/Bildschirmfoto%202021-09-11%20um%2012.54.21.png
-[image-2]:	assets/Bildschirmfoto%202021-09-11%20um%2012.56.52.png
+[image-2]:	assets/DraggedImage.tiff
+[image-3]:	assets/DraggedImage-1.tiff
+[image-4]:	assets/Bildschirmfoto%202021-09-11%20um%2012.56.52.png
 
 #learning unit#

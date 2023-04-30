@@ -30,6 +30,15 @@ Der Store wird oft als EnvironmentObject an die Views gegeben:
 @EnvironmentObject var store: TodosStore
 ```
 
+## Singletons
+
+Object Stores können Singletons sein:
+
+```swift
+final class ReminderStore {
+    static let shared = ReminderStore()
+}
+```
 ## Store Objects
 - Was sind Store Objects
 - Wie werden Store Objects an die View gegeben?
