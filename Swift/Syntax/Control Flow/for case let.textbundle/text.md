@@ -5,7 +5,7 @@
 
 - Überspringt nil Werte
 
-## Code: Nil-Werte überspringen
+## Beispiel: Nil-Werte überspringen
 
 ```js
 let names = ["Bill", nil, "Ted", nil]
@@ -15,6 +15,7 @@ for case let name? in names {
 }
 ```
 
+##  Weiteres Beispiel
 so kann man über alle views loopen, die UILabels sind:
 
 ```js
@@ -23,14 +24,21 @@ for case let label as UILabel in view.subviews {
 }
 ```
 
-## Code: Wenn man nur auf einen Switch-Type reagieren möchte
+##  Weiteres Beispiel
 
-> The Swift If-Case-Let syntax is a convenient shortcut to avoid a full switch statement when you only want to match a single case
+```js
+for case let score in scores where score > 10 { ... }
+```
 
+##  Weiteres Beispiel mit Enum Case
 
+```js
+for case .text(let x) in hello {
 
+}
+```
 ##  Zusammenfassung
-- Zweck (2)
+- Zweck
 - Syntax
 
 #learning unit#

@@ -35,16 +35,6 @@ self = .off
 ## Konstante Structs / Enums
 > Note that you can’t call a mutating method on a constant of structure type, because its properties can’t be changed, even if they’re variable properties
 
-Es ist auch möglich, dass man sich selbst ein neues `self` zuweist:
-
-```swift
-mutating func moveBy(x deltaX: Double, y deltaY: Double) {
-	self = Point(x: x + deltaX, y: y + deltaY)
-}
-```
-(hat die gleiche Auswirkung)
-
-
 ##  Zusammenfassung
 - Wie funktionieren mutating Methoden auf einem Struct / Enum (syntax)
 

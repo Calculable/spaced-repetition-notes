@@ -15,6 +15,8 @@ var triangle: EquilateralTriangle {
 ```
 
 
+=\> Achtung wird nicht bei der Initialisierung im Konstruktur aufgerufen.
+
 ## Zusammenfassung
 Codebeispiel
 
