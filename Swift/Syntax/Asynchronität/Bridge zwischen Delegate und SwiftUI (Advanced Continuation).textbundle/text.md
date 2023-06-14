@@ -31,7 +31,7 @@ class AsyncFileDownloader: MyNetworkManagerDelegate, ObservableObject {
     }
 
 	//Hier werden die Closures entgegengenommen
-    func start(success: @escaping (Data) -> Void, failure: @escaping (Error) -> Void) {
+    func download(success: @escaping (Data) -> Void, failure: @escaping (Error) -> Void) {
         self.success = success
         self.failure = failure
 

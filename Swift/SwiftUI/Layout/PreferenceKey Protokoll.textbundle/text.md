@@ -7,6 +7,10 @@ Quelle: [https://swiftui-lab.com/communicating-with-the-view-tree-part-1/][1]
 - Man kann von oben in der Hierarchie auf die Werte unten in der Hierarchie zugreifen
 - Mit **anchored preferences** kann man Geometrie-Informationen der Child-Views auslesen
 
+## Zwei Arten um die Keys auszulesen
+- **onPreferenceChange**: Hier kann man die Infos zum Beispiel speichern und so eine UI-Veränderung auslösen (Vorsicht vor Endlosschleife!)
+- **backgroundPreferenceValue**: Hier kann man die Infos direkt zum Zeichnen verwenden)
+
 ## Beispiel Anwendungsfall
 - Die NavigationView bekommt von einer View unterhalb den `navigationBarTitle()`
 
@@ -86,7 +90,8 @@ myCustomView
 - Alternativ würde man jede Child-View in einen Geometry Reader wrappen und die Informationen über die Grösse über ein Binding wieder an die Parent-View geben. Das ist aber relativ unschön.
 
 ##  Zusammenfassung
-- Konzept (kein Code)
+- Was ist die Idee
+- Konzeptionell: Welche zwei Arten gibt es, um die Keys auszulesen (ohne Code)
 
 [1]:	https://swiftui-lab.com/communicating-with-the-view-tree-part-1/
 

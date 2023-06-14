@@ -1,18 +1,6 @@
 # Programatic Navigation
 🧭
 
-## Hinweis
-
-- Ab iOS 16
-
-## Der Navigationspfad wird in einem Array gespeichert
-
-Beachte: Path ist ein Array!!
-
-Warum ist es ein Array: =\> Weil jede Zahl einen Wert tiefer in der Hierarchie markiert.
-
-So kann man auch den Navigation Path serialisieren und wiederherstellen. 
-
 
 ## Codebeispiel
 
@@ -31,12 +19,26 @@ NavigationStack(path: $path) {
 
 Beachte: navigationDestination ist nicht an den NavigationStack gebunden sondern an die Liste
 
+## Der Navigationspfad wird in einem Array gespeichert
+
+Beachte: Path ist ein Array!!
+
+Warum ist es ein Array: =\> Weil jede Zahl einen Wert tiefer in der Hierarchie markiert.
+
+So kann man auch den Navigation Path serialisieren und wiederherstellen. 
+
+
 ## Wrapper
 
 Hinweis: Es gibt auch einen Wrapper `NavigationPath` wenn man im NavigationArray unterschiedliche Datentypen benötigt. Details siehe hier: [How to use programmatic navigation in SwiftUI - a free SwiftUI by Example tutorial (hackingwithswift.com)]()(https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui)
 
+## Verfügbarkeit
+
+- Ab iOS 16
+
 ## Zusammenfassung
-- Codebeispiel, Zweck
+In einem NavigationStack eine Liste anzeigen. Mit einem Klick soll sich eine neue View öffnen. Es wird ein Pfad mit der Navigation gespeichert.
+
 
 
 

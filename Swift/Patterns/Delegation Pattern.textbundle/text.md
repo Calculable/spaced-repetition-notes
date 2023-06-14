@@ -9,6 +9,7 @@ protocol DiceGameDelegate: AnyObject {
 }
 ```
 
+Beachte: AnyObject wird verwendet. So kann man später wo das Delegate benötigt wird `weak` verwenden:
 
 ```swift
 class DiceGame {

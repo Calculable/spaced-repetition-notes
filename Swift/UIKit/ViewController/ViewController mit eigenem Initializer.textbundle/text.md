@@ -5,7 +5,7 @@
 - So kann man zum Beispiel Dependency Injection implementieren
 
 
-##  Codebeispiel 
+##  Codebeispiel
 ```swift
 init?(coder: NSCoder, title: String) {
     self.title = title
@@ -14,6 +14,15 @@ init?(coder: NSCoder, title: String) {
 
 required init?(coder: NSCoder) {
     fatalError("You must create this view controller with a product.")
+}
+```
+
+oder man kann auch ganz auf den Coder verzichten:
+
+```swift
+init(with foo: Foo) {
+	self.foo = foo
+	super.init(nibName: nil, bundle: nil)
 }
 ```
 

@@ -9,6 +9,6 @@
 ##  Zusammenfassung
 
 - Wer enthält die strong und wer die weak Reference?
-- Was für eine Rolle spielt die Reihenfolge, in der die Objekte zerstört werden?
+
 
 #learning unit#

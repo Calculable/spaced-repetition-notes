@@ -6,13 +6,65 @@
  - Das Problem ist dass es keine Generics für Protokolle gibt
 - Stattdessen verwendet man Protocol Associated Types
 - Ist dies der Fall, dann kann das Protokoll nicht mehr als Existential Typ verwendet werden. (Weil man könnte das Protokoll ja gar nicht richtig verwenden, wenn man nicht weiss, welche Typen darin gespeichert sind.
-- (Beachte: Seit Swift 5.7 ist dieses Problem nicht mehr so schlimm, teilweise ist die Verwendung als existential Type möglich. Zudem gibt es neu die Primary Associated Types)
-					 
+
+
+Dieser Code wäre nicht möglich:
+
+```swift
+protocol {
+    associatedtype Fuel
+    func drive(fuel: Fuel)
+}
+
+struct Electricity {}
+struct Petrol {}
+
+struct SportsCar: Car {
+    func drive(fuel: Petrol) { print("🏎️") }
+}
+
+struct FamilyCar: Car {
+    func drive(fuel: Electricity) { print("🚗") }
+}
+
+struct WorkCar: Car {
+    func drive(fuel: Electricity) { print("🚙") }
+}
+
+let electricCars: [Car] = [FamilyCar(), WorkCar()] //Use of protocol 'Car' as a type must be written 'any Car'
+```
+
+- Beachte: Seit Swift 5.7 ist dieses Problem nicht mehr so schlimm, teilweise ist die Verwendung als existential Type möglich:
+
+```swift
+let electronicCars: [any Car] = [FamilyCar(), WorkCar()] //Use of protocol 'Car' as a type must be written 'any Car'
+```
+
+Hier hat man aber noch nicht die Info Typ-Info im Array dass man wirklich nur Elektronische Autos speichern kann. Seit Swift 5.7 gibt es nun deshalb die Primary Associated Types:
+
+```swift
+protocol Car<Fuel> {
+    associatedtype Fuel
+    func drive(fuel: Fuel)
+}
+
+let electricCars: [any Car<Electricity>] = [FamilyCar(), WorkCar()]
+```
+
+
+Mit Type Erasure hingegen würde man das Problem so lösen:
+
+```swift
+struct AnyCar<Fuel>: Car {
+   //Implementation
+}
+
+let electricCars: = [AnyCar(FamilyCar()), AnyCar(WorkCar())]
+```
+
+Ein Vorteil von Type Erasure ist dabei, dass man sehr komplizierte und verschachtelte Typen hinter einem „Any“ Type verstecken kann.
 
 - Hier ist eine sehr gute Erklärung: [https://robnapier.net/erasure][1]
-- Siehe auch: Protocol Associated Type.
-
-- Wir können eine `AnyXY<T>`-Klasse bauen, um das Problem zu beheben. Diese ist ein wie ein Wrapper.
 
 
 
