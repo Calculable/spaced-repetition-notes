@@ -1,4 +1,4 @@
-# Xcode shortcut: Next Tag
+# Xcode shortcut: Nächster Tab
 🚀
 
 `⌘ - ⇧ - à`

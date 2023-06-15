@@ -3,7 +3,7 @@
 
 `⌘ - ⇧ - A`
 
-
+(In Xcode selbst wäre das die Quick Action )
 
 
 

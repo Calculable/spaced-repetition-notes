@@ -1,5 +1,7 @@
 # Table
 🗒️
+
+## Code
 ```swift
 Table(smoothies, selection: Selection) {
 	TableColumn("Name", value: \.title).width (200)
@@ -10,7 +12,12 @@ Table(smoothies, selection: Selection) {
 }
 ```
 
+
+##  Einschränkung
+Achtung, unter iOS zeigen die Tabellen nur die erste Spalte!
+
 ## Zusammenfassung
- -Wie macht man eine Tabelle in SwiftUI?
+- Wie macht man eine Tabelle in SwiftUI?
+- Was ist eine Einschränkung auf dem iPhone?
 
 #learning unit#

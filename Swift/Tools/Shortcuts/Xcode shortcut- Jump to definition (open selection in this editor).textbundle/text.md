@@ -3,4 +3,8 @@
 
 `Ctrl - ⌘ - J`
 
+oder
+
+`Ctrl - ⌘ - (Klick)`
+
 #learning unit#

@@ -1,8 +1,8 @@
 # Shortcut: Paletro
 🚀
 
-`⌘ - ⇧ - P
-`
+`⌘ - ⇧ - P`
+
 
 
 #learning unit#

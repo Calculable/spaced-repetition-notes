@@ -1,4 +1,4 @@
-# Xcode shortcut: Previous Tab
+# Xcode shortcut: Vorheriger Tab
 🚀
 
 `⌘ - ⇧ - é`
