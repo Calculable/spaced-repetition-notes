@@ -19,6 +19,9 @@ view
 - Inactive:  Es kann immer noch sichtbar sein aber nicht zugänglich. Zum Beispiel wenn man das App offen hat und auf das Control Center zugreift.
 - Background: Nicht sichtbar für den Nutzer. Kann durch das System abgeschossen werden.
 
+
+Beachte: Mit iOS 17 wird onChange im Closure keinen Parameter mehr entgegennehmen.
+
 ## Zusammenfassung
  - Zweck / Beispiel
 
