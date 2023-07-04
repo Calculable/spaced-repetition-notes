@@ -40,9 +40,8 @@ func fetchInbox() async throws -> [Message] {
 ```
 
 ## Zusammenfassung
-- Zweck
-- Codebeispiel
-- Regeln
-- Was machen die Unsafe Varianten?
+- Beispiel: Eine geprüfte Continuation, welche eine Callback-Funktion in eine async Funktion umwandelt (Rückgabewert: [Message]())
+
+
 
 #learning unit#

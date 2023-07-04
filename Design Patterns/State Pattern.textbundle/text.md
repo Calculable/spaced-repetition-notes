@@ -1,5 +1,4 @@
-
-# State
+# State Pattern
 🎛️
 
 Sieht genau gleich aus wie das Strategy Pattern! Hat aber einen anderen Sinn: Das Strategy Pattern ist eine Alternative zum Vererben, Das State Pattern ist eine Alternative bei zu vielen Kontrollstrukturen
@@ -8,6 +7,7 @@ Sieht genau gleich aus wie das Strategy Pattern! Hat aber einen anderen Sinn: Da
 
 ## Zusammenfassung
 - Zweck
+- Unterschied zum Strategy Pattern
 
 [image-1]:	assets/DraggedImage.png
 

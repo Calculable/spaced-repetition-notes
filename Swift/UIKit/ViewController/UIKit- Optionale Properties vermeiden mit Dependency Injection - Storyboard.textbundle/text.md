@@ -46,4 +46,8 @@ var myViewController = storyboard?.instantiateViewController(identifier: "MyView
 
 =\> Beachte: Den Parameter „Identifier“ braucht es nicht mehr zwingend.
 
+
+## Zusammenfassung
+instantiateViewController: Controller mit eigenem Initializer erstellen
+
 #learning unit#

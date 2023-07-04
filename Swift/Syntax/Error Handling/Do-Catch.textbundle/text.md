@@ -30,8 +30,8 @@ catch VendingMachineError.insufficientFunds(let coinsNeeded) {
 ```
 
 ## Zusammenfassung
-Mehrere Errors
-Errors mit Parameter
-Auf Error-Inhalt zugreifen
+- Mehrere Errors
+- Errors mit Parameter
+- Auf Error-Inhalt zugreifen
 
 #learning unit#

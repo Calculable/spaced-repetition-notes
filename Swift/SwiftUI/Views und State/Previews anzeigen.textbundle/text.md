@@ -55,7 +55,7 @@ Man kann die Previews auch mit `ForEach` erzeugen.
 ## Zusammenfassung
 
 - Ein oder mehrere Previews anzeigen
-- Wie konfiguriert man das Preview (nur Konzept)
+- Previews mit Titel
 
 [image-1]:	assets/Bildschirmfoto%202023-06-08%20um%2021.25.40.png
 

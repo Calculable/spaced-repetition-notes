@@ -1,4 +1,4 @@
-# Assert Makro
+# Power Assert Makro
 🧐
 
 ## Beispiel

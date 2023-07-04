@@ -32,7 +32,6 @@ struct B {
 =\> `fileprivate` ist also weniger restriktiv.
  
 ## Zusammenfassung
-- Was ist der Unterschied?
-- Wie funktioniert Fileprivate?
+- Verhalten bei Extension im gleichen File, Extension in anderem File, andere Klasse im gleichen File
 
 #learning unit#

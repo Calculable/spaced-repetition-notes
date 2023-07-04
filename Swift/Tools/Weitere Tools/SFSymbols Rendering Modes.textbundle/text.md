@@ -58,7 +58,8 @@ Image(systemName: "cloud.sun.rain.fill")
 ![][image-5]
 
 ## Zusammenfassung
-- Welche 4 Rendering Modes für SFSymbole gibt es und wie verwendet man sie?
+- Welche 4 Rendering Modes für SFSymbole gibt es
+- (Kein Code)
 
 [image-1]:	assets/Bildschirm%C2%ADfoto%202023-03-17%20um%2016.59.35.png
 [image-2]:	assets/Bildschirm%C2%ADfoto%202023-03-28%20um%2015.34.20.png

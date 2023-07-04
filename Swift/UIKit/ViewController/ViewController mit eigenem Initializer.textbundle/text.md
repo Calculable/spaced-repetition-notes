@@ -27,6 +27,6 @@ init(with foo: Foo) {
 ```
 
 ##  Zusammenfassung
-- Code, wie sehen die zwei Initializer aus?
+- Beispiel: Initializer mit Parameter, zweiter Initializer soll nicht aufgerufen werden können
 
 #learning unit#

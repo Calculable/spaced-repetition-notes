@@ -49,6 +49,6 @@ Mit `any` kann sich die Implementation jedoch zur Laufzeit verändern
 
 ## Zusammenfassung
 Anwendung / wie hätte man es früher gemacht?
-Unterschiede zu Any?
+
 
 #learning unit#

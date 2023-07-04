@@ -15,6 +15,6 @@ class AClass {
 
 ##  Zusammenfassung
 - Syntax
-- Zweck
+- Wann wird es aufgerufen?
 
 #learning unit#

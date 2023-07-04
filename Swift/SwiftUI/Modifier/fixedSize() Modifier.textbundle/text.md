@@ -1,7 +1,7 @@
 # .fixedSize() Modifier
 ↕️
 
-`fixedSize()`  tells views they should stick to their preferred size rather than let their parent resize them (also in der Regel die Grösse des Inhalts).
+Mit `fixedSize()` ignoriert eine View die vorgeschlagene Grösse das Parents  
 
 Man kann es auch noch einschränken:
 

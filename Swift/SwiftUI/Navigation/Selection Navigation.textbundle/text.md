@@ -20,6 +20,6 @@ var body: some View {
 ```
 
 ## Zusammenfassung
-- Codebeispiel
+- Codebeispiel mit einer Navigation Split View
 
 #learning unit#

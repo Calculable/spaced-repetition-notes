@@ -15,9 +15,9 @@ Damit kann man zum Beispiel dann wieder auf das Konkrete Property zugreifen:
 print(voyager[keyPath: nameKeyPath])
 ```
 
-##  Zweck
-- Wozu sind Keypaths da
-- Wie wird ein Keypath gespeichert
+##  Zusammenfassung
+- Wozu sind Keypaths da?
+- Wie wird ein Keypath gespeichert?
 - Wie wird mit einem Keypath ein Property ausgelesen?
 
 #learning unit#

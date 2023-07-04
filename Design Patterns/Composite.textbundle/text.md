@@ -14,7 +14,7 @@
 - Operationen im Composite werden gleich für ale Kinder ausgeführt
 
 ## Zusammenfassung
-- Zweck
+- Zweck (einfach)
 
 [image-1]:	assets/DraggedImage.png
 

@@ -15,7 +15,7 @@ for case let name? in names {
 }
 ```
 
-##  Weiteres Beispiel
+##  Optional Casts
 so kann man über alle views loopen, die UILabels sind:
 
 ```js
@@ -24,13 +24,13 @@ for case let label as UILabel in view.subviews {
 }
 ```
 
-##  Weiteres Beispiel
+##  Where
 
 ```js
 for case let score in scores where score > 10 { ... }
 ```
 
-##  Weiteres Beispiel mit Enum Case
+##  Bestimmter Enum Case
 
 ```js
 for case .text(let x) in hello {
@@ -38,7 +38,9 @@ for case .text(let x) in hello {
 }
 ```
 ##  Zusammenfassung
-- Zweck
-- Syntax
+- Nil Werte Überspringen
+- Optional Casts
+- Where
+- Bestimmter Enum Case
 
 #learning unit#

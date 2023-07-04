@@ -4,7 +4,11 @@
 ![][image-1]
 
 ## Zusammenfassung
-- Wie sieht eine Komponente aus?
+- Beispiel: Die Company C hat ein Department D2 mit dem Namen R&D
+
+
+
+
 
 [image-1]:	assets/DraggedImage.tiff
 
