@@ -1,6 +1,9 @@
 # Theorie: Document-Based App
 📄
 
+## Screenshot
+
+![][image-1]
 ## Definition
 
 > apps that let users create, edit, and share documents such as text files
@@ -28,5 +31,7 @@ https://www.hackingwithswift.com/img/books/quick-start/swiftui/how-to-create-a-d
 - Was muss die App dem System zur Verfügung stellen?
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-a-document-based-app-using-filedocument-and-documentgroup
+
+[image-1]:	assets/Bildschirmfoto%202023-07-05%20um%2007.38.33.png
 
 #learning unit#
