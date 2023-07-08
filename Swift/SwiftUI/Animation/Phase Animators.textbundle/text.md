@@ -82,6 +82,10 @@ Mann kann sogar für jede Phase einen eigenen Animationstyp definieren:
 }
 ```
 
+## Unterschied zu Keyframe Animation
+
+- Im Gegensatz zu Keyframe Animations laufen die Animationen nacheinander und nicht paralell
+
 ## Zusammenfassung
 - Grundlagen: Animation mit verschiedenen Phasen (nur ersten Abschnitt, ohne Trigger, Enum Best Practice, Phase Animator View…)
 

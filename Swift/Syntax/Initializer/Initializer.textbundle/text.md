@@ -22,6 +22,8 @@ convenience init(parameters) {
 }
 ```
 
+Achtung: Bei Structs gibt es keine Convenience Initializers
+
 ##  Required Initializers
 
 - Müssen von jeder Subklasse implementiert werden
@@ -37,9 +39,9 @@ class SomeClass {
 `required` wird dann auch bei der Implementation in der Subklasse geschrieben, dafür braucht man das `override` nicht mehr
 
 ## Zusammenfassung
-Designated
-Convenience
-Required
+- Designated
+- Convenience
+- Required
 
 
 #learning unit#
