@@ -55,7 +55,6 @@ Siehe:
 
 ## Zusammenfassung
 - Nur Konzept, keinen Code
-- Vorteil gegenüber PreferenceKey
 
 [1]:	https://swiftui-lab.com/communicating-with-the-view-tree-part-2/
 

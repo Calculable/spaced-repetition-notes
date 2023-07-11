@@ -42,13 +42,9 @@ myCar = Bus() // 🔴 Compile error
 
 Mit `any` kann sich die Implementation jedoch zur Laufzeit verändern
 
-##  Siehe auch
-
-- Any / Existential Type (Unterschiede)
-- Es ist performanter als „any“, weil Swift beim Kompilieren mehrere Versionen dieser Funktion erstellen kann
-
 ## Zusammenfassung
-Anwendung / wie hätte man es früher gemacht?
+- Zweck
+- Wie hätte man es früher gemacht (some parameter declaration sind eigentlich nur syntactic sugar)
 
 
 #learning unit#

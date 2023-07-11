@@ -37,7 +37,9 @@ class  MusicPlayer {
 ```
 
 ## Zusammenfassung
-Wozu ist das gut?
-Codebeispiel
+- Zweck: (Beispiel: Playlist als Collection von Tracks)
+- Wie würde man das mit Generics lösen
+- Wie würde man das mit Primary Associated Types lösen
+
 
 #learning unit#

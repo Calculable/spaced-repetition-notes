@@ -21,7 +21,7 @@ protocol Product {
 	var productCode: Code {get}
 }
 
-struct Laptop : Product {
+struct Laptop: Product {
 	typealias Code = Int
 	var productCode = 6 
 }
@@ -44,7 +44,7 @@ Die Lösung für dieses Problem ist Type Erasure
 
 Mit Swift 5.7 wurde dieser Verhalten gelockert und es tauchen weniger Fehlermeldungen auf
 
-## Associated Type auf Protokoll einschränken 
+## Associated Type auf Protokoll einschränken
 
 ```swift
 protocol Identifiable2 {
@@ -56,7 +56,7 @@ protocol Identifiable2 {
 
 
 ## Zusammenfassung
-Anwendung
-Problem
+- Anwendung
+- Problem
 
 #learning unit#

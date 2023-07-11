@@ -36,7 +36,7 @@ Es gibt: `.equalTo`, `.lessThanOrEqualTo`, `.greaterThanOrEqualTo `
 
 
 ##  Zusammenfassung
-- Grundgerüst
+- Beispiel: Top soll 20 vom Parent entfernt sein
 - Was wird nicht mehr benötigt?
 
 [image-1]:	assets/simulator_screenshot_0B5CCB0C-06A8-4A35-A9D9-0C52DCD36143.png

@@ -1,15 +1,22 @@
 # String Indexes
 📍
 
-## String Indexe
+##  Einen bestimmten String-Index erhalten
+
 ```swift
 let startIndex = name.startIndex
 
 //beachte: Die Indexe sind nicht einfach Integer. Das heisst, man muss sie so verschieben:
 let lastNameIndex = name.index(startIndex, offsetBy: +6)
-let endIndex = name.endIndex
+```
 
+
+## Zeichen innerhalb des Ranges extrahieren
+```swift
 let firstName = name[lastNameIndex..<name.endIndex]
+
+//oder einzelner Buchstabe
+let character = name[index]
 ```
 
 ## Index finden
@@ -18,11 +25,6 @@ let firstName = name[lastNameIndex..<name.endIndex]
 let firstSpace = name.firstIndex(of: " ")
 ```
 
-##  Einzelner Buchstabe
-
-```swift
-let character = name[index]
-```
 
 ##  Alternative
 Alternativ kann an den String auch in ein Character Array umwandeln:
@@ -33,8 +35,9 @@ Array(string)
 
 
 ## Zusammenfassung
-- Wir wird ein Index ausgelesen und verschoben
-- Wie kann man über einen Index-Range auf einen Teil des Strings zugreifen
+
+- Beispiel: Der 6te Index eines Strings auslesen
+- Substring für einen String-Range erhalten
 - Was wäre eine Alternative dazu?
 
 #learning unit#

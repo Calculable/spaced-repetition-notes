@@ -6,25 +6,10 @@ Man sollte den Code im `viewDidLoad` nicht überfrachten so wie hier:
 
 ```swift
   override func viewDidLoad() {
-      super.viewDidLoad()
-      
-	backgroundColor = UIColor(white: 0.9, alpha: 1)
-
-	let stackView = UIStackView()
-	stackView.translatesAutoresizingMaskIntoConstraints = false
-	stackView.spacing = 10
-	view.addSubview(stackView)
-
-	stackView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor).isActive = true
-	stackView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor).isActive = true
-	stackView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor).isActive = true
-	stackView.axis = .vertical
-
-	let notice = UILabel()
-	notice.numberOfLines = 0
-	notice.text = "Your child has attempted to share the following photo from the camera:"
-	stackView.addArrangedSubview(notice)
-
+    super.viewDidLoad()
+	//background color
+	//subviews hinzufügen
+	//subview constraints festlegen....
   }
 ```
 
@@ -34,6 +19,23 @@ Man sollte den Code im `viewDidLoad` nicht überfrachten so wie hier:
 - Das ist alles View Code und nicht Controller Code (auch nicht ViewController code)
 
 ## Lösung
+
+Jetzt sieht der ViewController schön aufgeräumt aus.
+
+```swift
+class ViewController: UIViewController {
+    var shareView = SharePromptView()
+
+    override func loadView() {
+        view = shareView
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+}
+```
+
 
 Man kann diese Dinge in eine UI View auslagern:
 
@@ -55,27 +57,14 @@ class SharePromptView: UIView {
 }
 ```
 
-Jetzt sieht der ViewController schön aufgeräumt aus.
-
-```swift
-class ViewController: UIViewController {
-    var shareView = SharePromptView()
-
-    override func loadView() {
-        view = shareView
-    }
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
-}
-```
 
 Beachte, wie die neue `shareView` dem bereits vorhandenen Property `shareView` zugewiesen wird.
 
 
 ## Zusammenfassung
-Wie kann man den View Code innerhalb von `viewDidLoad` auslagern?
+- Wie kann man den View Code innerhalb von `viewDidLoad` auslagern?
+- In welcher Methode?
+- 
 
 
 #learning unit#
