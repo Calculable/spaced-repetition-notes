@@ -2,21 +2,12 @@
 🪆
 
 Innerhalb eines View Controllers: 
-```swift
-//1. In die View Hierarchie hinzufügen
-addChild(anotherViewController)
 
-//2. View hinzufügen
-view.addSubview(anotherViewController.view)
-
-//3. View positionieren
-anotherViewController.view.leadingAchor = ... //etc.
-
-//4. Did Move
-anotherViewController.didMove(toParent: self)
-```
+![][image-1]
 
 ##  Zusammenfassung
 - Welche 4 Schritte werden benötigt?
+
+[image-1]:	assets/DraggedImage.png
 
 #learning unit#

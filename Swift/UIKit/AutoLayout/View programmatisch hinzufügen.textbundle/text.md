@@ -17,6 +17,6 @@ override func viewDidLoad() {
 ```
 
 ## Zusammenfassung
-- Benötigter Befehl
+- Benötigter Befehl (nicht verwechseln mit View Controller)
 
 #learning unit#

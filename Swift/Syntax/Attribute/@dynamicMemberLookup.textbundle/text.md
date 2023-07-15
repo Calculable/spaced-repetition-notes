@@ -21,7 +21,7 @@ JSON().hello
 ```
 
 ## Zusammenfassung
-- Was ist DynamicMemberLookup?
+- Was ist DynamicMemberLookup? (Konzept, Caller-Side)
 
 
 #learning unit#
