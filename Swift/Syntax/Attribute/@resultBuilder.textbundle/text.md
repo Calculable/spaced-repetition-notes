@@ -24,7 +24,7 @@ Beachte: Es handelt sich um ein Trailing Closure, aber darin muss man nicht ein 
 
 ## Implementation (nicht auswendig)
 
-Man braucht ein separates Struct, welches mit `@functionBuilder` annotiert ist:
+Man braucht ein separates Struct, welches mit `@resultBuilder` annotiert ist:
 
 ```swift
 @resultBuilder

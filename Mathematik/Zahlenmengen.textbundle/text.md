@@ -3,8 +3,8 @@
 
 ![][image-1]
 
-- In Q sind auch periodische Dezimalzahlen
-- 0 ist eine natürliche Zahl und in `N+` sowie `N-` enthalten
+- In Q sind die Zahlen, die sich mit einem Bruch darstellen lassen
+- 0 ist eine natürliche Zahl. Manchmal unterscheidet man von `N` und `(N0)`, wo zusätzlich noch 0 enthalten ist
 
 ## Zusammenfassung
 - Welche Zahlen sind in N, Q, R und Z enthalten?

@@ -4,6 +4,9 @@
 ## Aufrufer
 - Der Aufrufer des Delegates gibt sich immer selbst als erstes Argument mit.
 
+## Begriffe
+- In der Regel `will`, `did`, `should`
+
 ## Nur ein Argument
 
 ### Beispiele: Ohne Rückgabewert

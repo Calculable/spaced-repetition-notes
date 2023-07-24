@@ -3,7 +3,7 @@
 
 ## Code
 ```swift
-Table(smoothies, selection: Selection) {
+Table(smoothies) {
 	TableColumn("Name", value: \.title).width (200)
 	TableColumn("Ingredients", value: \.ingredientsList)
 	TableColumn("Calories") { smoothie in

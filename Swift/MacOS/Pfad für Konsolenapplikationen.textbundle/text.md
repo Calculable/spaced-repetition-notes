@@ -5,6 +5,7 @@ Wenn Applikationen hier abgelegt werden, können sie direkt von der Konsole gest
 
 - `/user/local/bin/myapplication`
 
+![][image-1]
 
 ## Zusammenfassung
 
@@ -12,5 +13,6 @@ Wenn Applikationen hier abgelegt werden, können sie direkt von der Konsole gest
 
 
 
+[image-1]:	assets/Bildschirmfoto%202023-07-23%20um%2008.43.21.png
 
 #learning unit#

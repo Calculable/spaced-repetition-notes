@@ -14,7 +14,6 @@
 - Oftmals wird hier einfach ein `fatalError` geworfen
 
 ##  Zusammenfassung
-- Wie kann man init(frame: ) implementieren
-- Warum braucht man init?(coder:)?
+- Wann verwendet man welchen der beiden Initializer?
 
 #learning unit#

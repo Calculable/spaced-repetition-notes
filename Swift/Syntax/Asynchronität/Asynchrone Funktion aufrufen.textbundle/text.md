@@ -10,7 +10,7 @@ await loadData()
 ## …innerhalb einer synchronen Funktion
 
 ```swift
-Task.init {
+Task {
 	do {
 		 self.images = try await fetchImages()
     } catch {
@@ -22,7 +22,7 @@ Task.init {
 Der folgende Code gibt zum Beispiel zuerst 1 und erst dann 2 aus:
 
 ```swift
-Task.init {
+Task {
 	await printTwo()
 }
 print(1)
@@ -44,7 +44,7 @@ Add this modifier to the List now:
 
 
 ## Zusammenfassung
-- Aufruf: von async Code, von sync code, von SwiftUI
+- Aufruf: von async Code, von sync code, von SwiftUI View
 
 
 #learning unit#

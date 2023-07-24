@@ -17,7 +17,7 @@ Man teilt die View einfach so auf, dass die Sub-Views mit einer nicht-Optionalen
 
 ```swift
 struct MainView: View {
-	var myObject: MyObservableObject?
+	@State var myObject: MyObservableObject? = ...
 
 	var body: some View {
 		if let myObject {

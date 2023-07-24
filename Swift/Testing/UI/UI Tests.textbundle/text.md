@@ -1,7 +1,13 @@
 # UI Tests
 👆
 
-## Queries
+
+## Beispiel
+```swift
+app.buttons["Open"].tap()
+```
+
+## Wie funktionieren Queries
 
 - Hier sind zwei Beispiele:
 
@@ -19,16 +25,7 @@ app.tabBars.buttons
 - Im Hintergrund funktioniert das UI-Testing über das Accessibility System. Das heisst zum Beispiel: Wenn man einen `+` Button hat, der im Accessibility-System jedoch "Add" heisst, kann man ihn so finden: `app.buttons["add"]`
 
 
-## UI Aktionen
-
-Beispiel:
-
-```swift
-app.buttons["Open"].tap()
-```
-
-
-## Beispiel-Test
+## Beispiel: Details
 
 ```swift
 func testEditingProjectUpdatesCorrectly() {
@@ -50,8 +47,7 @@ func testEditingProjectUpdatesCorrectly() {
 
 
 ## Zusammenfassung
+- Beispiel: Den Button („Open“) klicken
 
-- We schreibt man eine Query?
-- Wie macht man eine UI-Aktion (z.B. Button-Klick?)
 
 #learning unit#
