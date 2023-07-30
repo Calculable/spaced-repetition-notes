@@ -3,9 +3,11 @@
 
 Wenn Applikationen hier abgelegt werden, können sie direkt von der Konsole gestartet werden:
 
-- `/user/local/bin/myapplication`
+- `/usr/local/bin/myapplication`
 
 ![][image-1]
+
+- Viele Programme vom System liegen hingegen unter `/usr/bin/...` - dieser Ordner soll vom User nicht angepasst werden
 
 ## Zusammenfassung
 
