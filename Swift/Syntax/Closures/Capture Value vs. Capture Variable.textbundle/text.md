@@ -9,7 +9,7 @@ Dieser Code gibt „2“ aus:
 var myVariable = 1
 
 let closure = {
-    print(someInteger)
+    print(myVariable)
 }
 
 myVariable = 2
@@ -26,7 +26,7 @@ Dieser Code gibt „1“ aus:
 var myVariable = 1
 
 let closure = { [myVariable] in
-    print(someInteger)
+    print(myVariable)
 }
 
 myVariable = 2
