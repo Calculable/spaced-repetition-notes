@@ -1,4 +1,4 @@
-# ViewController initialisieren
+# ViewController: View Laden
 🏁
 
 ## Codebeispiel
@@ -28,6 +28,7 @@ class ViewController: UITableViewController {
 
 
 ## Zusammenfassung
-- Welche zwei Funktionen spielen eine Rolle, wann braucht man es
+- Funktion um die View zu laden
+- Funktion, um die View mit Inhalt zu befüllen
 
 #learning unit#

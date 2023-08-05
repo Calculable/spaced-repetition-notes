@@ -9,15 +9,14 @@ let bonusMultiplier2 = if customerRating > 3 { 1.5 } else { 1.0 }
 
 ## Beispiel mit switch
 
-`
-````swift
+```swift
 func rating(for score: Int) -> String {
-    switch score {
-    case 0...300: "Fail"
-    case 301...500: "Pass"
-    case 501...800: "Merit"
-    default: "Distinction"
-    }
+	switch score {
+	case 0...300: "Fail"
+	case 301...500: "Pass"
+	case 501...800: "Merit"
+	default: "Distinction"
+	}
 }
 ```
 

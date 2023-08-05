@@ -32,6 +32,8 @@ So kann man auch den Navigation Path serialisieren und wiederherstellen.
 
 Hinweis: Es gibt auch einen Wrapper `NavigationPath` wenn man im NavigationArray unterschiedliche Datentypen benötigt. Details siehe hier: [How to use programmatic navigation in SwiftUI - a free SwiftUI by Example tutorial (hackingwithswift.com)]()(https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-programmatic-navigation-in-swiftui)
 
+Man kann es auch serialisieren: [https://www.hackingwithswift.com/quick-start/swiftui/how-to-save-and-load-navigationstack-paths-using-codable][2]
+
 ## Verfügbarkeit
 
 - Ab iOS 16
@@ -46,5 +48,6 @@ In einem NavigationStack eine Liste anzeigen. Mit einem Klick soll sich eine neu
 
 
 
+[2]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-save-and-load-navigationstack-paths-using-codable
 
 #learning unit#

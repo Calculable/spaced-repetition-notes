@@ -11,7 +11,7 @@ required init?(coder aDecoder: NSCoder) {
 }
 ```
 
-## Frame initializer
+## Nib Initializer
 
 ```swift
 convenience init() {
@@ -23,8 +23,12 @@ override init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: Bundle?) {
 }
 ```
 
+Beachte: Es gibt keinen Frame initializer, das ist bei der UIView der Fall! ([ulysses://x-callback-url/open?id=X4JD4oVg-Jl8eatoXKCOqg][1])
+
 ##  Zusammenfassung
 - Welcher Initializer muss zwingend angeboten werden?
 - Wie kann man einen Initializer ohne Parameter anbieten?
+
+[1]:	ulysses://x-callback-url/open?id=X4JD4oVg-Jl8eatoXKCOqg
 
 #learning unit#

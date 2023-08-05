@@ -1,6 +1,7 @@
 # .fixedSize() Modifier
 ↕️
 
+## Verhalten
 Mit `fixedSize()` ignoriert eine View die vorgeschlagene Grösse das Parents  
 
 Man kann es auch noch einschränken:
@@ -33,6 +34,7 @@ Wenn man jetzt allerdings `fixedSize()` auf dem VStack anwendet, dann orientiert
 
 ![][image-4]
 
+Was geschieht: Man hat die Elemente in einem Container mit der kleinsmöglichen Grösser. Die Elemente selbst nehmen im Container dann die maximale Verfügbare grösse ein
 
 ## Zusammenfassung
 - Wozu braucht man den `fixedSize()` modifier?

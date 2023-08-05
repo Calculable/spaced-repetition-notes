@@ -14,7 +14,7 @@ await MainActor.run {
 ```
 
 - Man kann auch Werte zurückgeben
-- Man kann auch Funktionen oder Klassen mit `@MainActor` auszeichnen:
+- Man kann auch Funktionen oder Klassen oder Properties oder Closures mit `@MainActor` auszeichnen. So wird sichergestellt, dass es nur auf dem Main-Thread aufgerufen werden darf:
 
 
 ```swift
@@ -22,6 +22,15 @@ await MainActor.run {
 func display(scene: Scene)
 ```
 
+```swift
+@MainActor var images: [UIImage] = []
+```
+
+```swift
+func updateData(completion: @MainActor @escaping () -> ()) 
+	//...
+}
+```
 
 ## Zusammenfassung
 - Zweck / Anwendungsfall

@@ -9,7 +9,7 @@
 extension MyStruct: Equatable { }
 ```
 
-Das gleiche funktioniert auch mit `Hashable` und \`Codable\`\`
+Das gleiche funktioniert auch mit `Hashable` und `Codable`
 
 Wenn man generische Typen hat, weiss man ja nicht im voraus, ob der generische Typ dem Protokoll entspricht. Hier kann man einfach Conditional Conformance verwenden:
 
