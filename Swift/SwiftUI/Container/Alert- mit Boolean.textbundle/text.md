@@ -20,6 +20,8 @@ struct ContentView: View {
 }
 ```
 
+![][image-1]
+
 ## Hinweis
 
 - Es gibt mehrere Button Roles: `.default`, `.cancel`, `.destructive`
@@ -30,5 +32,7 @@ struct ContentView: View {
 ## Zusammenfassung
 - Wie macht man einen Alert mit Bool?
 - Wie ist ein Alert mit Buttons und Inhalt aufgebaut?
+
+[image-1]:	assets/Bildschirmfoto%202023-08-09%20um%2008.08.57.png
 
 #learning unit#

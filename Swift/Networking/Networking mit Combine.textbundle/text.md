@@ -1,4 +1,4 @@
-# Combine
+# Networking mit Combine
 👭
 
 ## Was ist Combine?
@@ -30,6 +30,12 @@ URLSession.shared.dataTaskPublisher(for: url)
 - `map` dient hier dazu, nur die Response zu lesen und nicht den Response-Status.
 - Falls ein Error auftritt, wird einfach ein Default-Objekt zurückgegeben
 - Mit dem `sink` kann man beliebigen Code ausführen, wenn die Pipeline zu ende ist
+
+## Warum hat man das Set mit Requests gespeichert?
+
+> If you didn't store the `AnyCancellable` somewhere, the network request would be cancelled immediately, because the `AnyCancellable` returned by `sink(receiveValue:)` would be deallocated at the end of the function scope.
+
+> So, in summary, the `@State private var requests = Set<AnyCancellable>()` is needed to keep the network requests alive for the duration of the view's lifetime.
 
 ## Zusammenfassung
 - Was ist Combine

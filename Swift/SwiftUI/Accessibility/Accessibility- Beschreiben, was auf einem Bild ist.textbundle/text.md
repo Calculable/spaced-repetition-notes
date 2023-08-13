@@ -13,6 +13,10 @@ Das soll ein Kurzer Text sein, der direkt vorgelesen wird.  Ansonsten wird einfa
 ```
 Der Hint wird nach einem kurzen Delay vorgelesen und kann ausführlicher sein („Delete Email from Mailbox“)
 
+## Unterscheidung AccessibilityLabel und AccessibilityValue
+
+> Beachte: Der Value ist zum Beispiel für einen Wert einer Progressbar während das Label für den Titel der Progressbar steht
+
 ## Zusammenfassung
 - Beschreiben was auf einem Bild ist (2 Möglichkeiten)
 

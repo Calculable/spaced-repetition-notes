@@ -1,6 +1,8 @@
 # Accessibility Value
 🦮 
 
+Beachte: Der Value ist zum Beispiel für einen Wert einer Progressbar während das Label für den Titel der Progressbar steht
+
 ![][image-1]
 
 ```swift

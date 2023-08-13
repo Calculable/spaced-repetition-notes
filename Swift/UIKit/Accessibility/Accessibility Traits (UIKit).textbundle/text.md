@@ -1,4 +1,4 @@
-# Accessibility Traits
+# Accessibility Traits (UIKit)
 🦮 
 
 ##  Einzelner Trait setzen
@@ -8,11 +8,13 @@
 accessibilityTraits = .button
 ```
 
-## Einen Trait hinzufügen
+## Einen Trait hinzufügen / enfernen
+
+Es handelt sich um eine Mitmask
 
 ```swift
-accessibilityTraits.update(with: .heading)
-accessibilityTraits.update(with: .updatesFrequently)
+optionView.accessibilityTraits.insert(.header)
+optionView.accessibilityTraits.remove(.header)
 ```
 
 ##  Zusammenfassung

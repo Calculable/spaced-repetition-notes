@@ -1,4 +1,4 @@
-# UIButton: Target Action hinzufügen
+# UIButton: Action hinzufügen
 👆
 
 ## Neu mit iOS 14

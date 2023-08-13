@@ -43,6 +43,9 @@ let values =
 UserDefaults.standard.register(defaults: values)
 ```
 
+- Das wird niemals gespeicherte Werte überschreiben. 
+- Man muss das jedes mal aufrufen, wenn die App gestartet wird!
+
 ##  Daten werden nicht sofort gespeichert
 
 `set` speichert die Daten nicht sofort sondern es kann eine zeit dauern. Wenn man in dieser Zeit die App „kill“ dann werden keine Werte gespeichert.
@@ -53,7 +56,7 @@ UserDefaults.standard.register(defaults: values)
 
 
 ## Zusammenfassung
-- Mit Property Wrapper
-- Ohne Property Wrapper
+- Mit Property Wrapper für SwiftUI
+- Ohne Property Wrapper: Wert lesen und schreiben
 
 #learning unit#
