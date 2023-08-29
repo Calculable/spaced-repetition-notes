@@ -19,6 +19,15 @@ NavigationStack(path: $path) {
 
 Beachte: navigationDestination ist nicht an den NavigationStack gebunden sondern an die Liste
 
+## Programmatic Navigation mit einem einfachen Boolean
+
+
+```swift
+.navigationDestination(isPresented: $isShowingXY) {
+	//...
+}
+```
+
 ## Der Navigationspfad wird in einem Array gespeichert
 
 Beachte: Path ist ein Array!!

@@ -3,7 +3,7 @@
 
 ## Problem
 
-Eine View, welche eine Content View beinhaltet, hatte keine Intrinsic Content Size mehr
+Eine View, welche eine Stack View beinhaltet, hatte keine Intrinsic Content Size mehr
 
 ![][image-1]
 

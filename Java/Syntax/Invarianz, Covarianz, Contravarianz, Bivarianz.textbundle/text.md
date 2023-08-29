@@ -25,6 +25,8 @@ Stack<? super Graphic> stack
 
 Hier ist nur Schreiben erlaubt aber nicht lesen, weil man ja nicht weiss, welchen Typ man zurückbekommen würde (man bekommt `Object` oder tiefer…)
 
+> So, Stack\<? super Graphic\> stack is a declaration for a stack that can hold objects of any type that is a superclass of Graphic. This could be Graphic objects, or objects of any class that Graphic extends.
+
 ## Bivarianz
 
 ```swift
