@@ -1,9 +1,13 @@
 # Modaler Dialog ohne Segue
 🗒️
 
-## Code
+## Modaler Dialog anzeigen
 
-Hier muss man den anzuzeigenden ViewController zuerst instanzieren:
+```swift
+present(selectionVC, animated: true, completion: nil)
+```
+
+## (ViewController instanzieren)
 
 ```swift
 let storyboard = UIStoryboard(name: "Main", bundle: nil)
@@ -11,9 +15,9 @@ let storyboard = UIStoryboard(name: "Main", bundle: nil)
 
 let selectionVC = storyboard.instantiateViewController(identifier: "SelectionScreen") as! SelectionViewController
 //allenfalls: selectionVS.delegate = self
-present(selectionVC, animated: true, completion: nil)
 ```
 
+## Modaler Dialog schliessen
 So kann der Modale Dialog wieder geschlossen werden:
 
 ```swift

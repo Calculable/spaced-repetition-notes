@@ -1,12 +1,12 @@
-# String Handling: Swift vs. Objective-C (UIKit)
+# String Handling: Swift vs. Objective-C
 💬
 
-## Swift / SwiftUI
+## Swift
 - Internationale Zeichen werden als individuelle Zeichen gespeichert. Das heisst: “é” ist als ein Zeichen gespeichert
 - Auch Emojis zählen als einzelne Zeichen
 - Ruft man `count` auf, werden Emojis oder internationale Zeichen als einzelne Zeichen gezählt
 
-## Objective-C / UIKit
+## Objective-C
 
 - Verwendet UTF-16
 - Hier wird der „Accent“ und das „e“ separat gespeichert
@@ -15,7 +15,7 @@
 
 ## Zusammenfassung
 
-- Was ist der Unterschied im String handling zwischen Swift/SwiftUI und Objective C / UIKit?
+- Was ist der Unterschied im String handling zwischen Swift und Objective-C
 - Lösung für UIKit - Länge eines Strings zählen?
 
 #learning unit#

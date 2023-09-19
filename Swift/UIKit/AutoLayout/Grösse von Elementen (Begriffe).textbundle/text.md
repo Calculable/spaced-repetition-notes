@@ -17,8 +17,8 @@
 
 
 ## Default Werte
-- 750 ist de Default Priority für Content Compression
-- 250 ist die Default Priority für Content Hugging
+- 750 ist de Default Priority für **Content Compression Resistance**
+- 250 ist die Default Priority für **Content Hugging**
 
 - Das heisst: Die Elemente werden standartmässig gerne „gestreched“ aber ungerne „compressed“. 
 - 1000 wäre „Required“

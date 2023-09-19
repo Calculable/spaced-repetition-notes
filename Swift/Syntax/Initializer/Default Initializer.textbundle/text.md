@@ -3,7 +3,7 @@
 
 ##  Bei Klassen
 
-Wenn man keinen Initializer schreibt wird automatisch ein default initializer erzeugt.
+Wenn man keinen Initializer schreibt und alle Paramter einen Default-Wert haben wird automatisch ein Default Initializer ohne Parameter erzeugt.
 
 ##  Bei Structs (Memberwise Initializer)
 

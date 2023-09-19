@@ -5,20 +5,20 @@
 
 (Ersetzt bereits vorhandene Trait)
 ```swift
-accessibilityTraits = .button
+myView.accessibilityTraits = .button
 ```
 
 ## Einen Trait hinzufügen / enfernen
 
-Es handelt sich um eine Mitmask
+Es handelt sich um eine Bitmask
 
 ```swift
-optionView.accessibilityTraits.insert(.header)
-optionView.accessibilityTraits.remove(.header)
+myView.accessibilityTraits.insert(.header)
+myView.accessibilityTraits.remove(.header)
 ```
 
 ##  Zusammenfassung
-- Trait setzen
-- Trait hinzufügen
+- Trait setzen: Ein Element soll ein Button sein
+- Trait hinzufügen: Ein Element soll zusätzlich ein header sein
 
 #learning unit#

@@ -1,5 +1,5 @@
 # View programmatisch hinzufügen
-
+🌁
 Mit `view.addSubview(label)`
 
 Beispiel:
@@ -18,5 +18,6 @@ override func viewDidLoad() {
 
 ## Zusammenfassung
 - Benötigter Befehl (nicht verwechseln mit View Controller)
+- Welche Option setzt man in der Regel zuvor noch?
 
 #learning unit#

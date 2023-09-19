@@ -2,7 +2,7 @@
 📅
 
 ## Year
-- **yy**  – two-digit year from 0-99: `1`
+- **y**  – two-digit year from 0-99: `1`
 - **yy**  – two-digit year from 00-00: `01`
 - **yyyy**  – four-digit year: `2001`
 

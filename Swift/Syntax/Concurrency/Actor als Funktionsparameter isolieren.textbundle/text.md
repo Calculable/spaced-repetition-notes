@@ -1,4 +1,4 @@
-# Funktionsparameter isolieren
+# Actor als Funktionsparameter isolieren
 📦
 
 ## Beispiel
@@ -32,8 +32,8 @@ Beachte: Das `isolated` Schlüsselwort
 
 
 ##  Zusammenfassung
-- Code
-- Zweck
+- Syntax
+- Was bringt das?
 - Auswirkung
 
 

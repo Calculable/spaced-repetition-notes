@@ -17,7 +17,7 @@ myAsyncSequence.filter({ $0 % 2 == 0 })
 ```
 
 ```swift
-await myAsyncSequencecontains(3)
+await myAsyncSequence.contains(3)
 ```
 
 

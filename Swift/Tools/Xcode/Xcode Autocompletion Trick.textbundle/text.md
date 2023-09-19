@@ -5,7 +5,7 @@ Standartmässig werden beim Autocomplete nur die erforderlichen Parameter eingef
 
 ![][image-1]![][image-2]
 
-Mit `Opt-Enter` werden jedoch alle Parameter ausgefüllt:
+Mit `Alt-Enter` werden jedoch alle Parameter ausgefüllt:
 
 ![][image-3]
 

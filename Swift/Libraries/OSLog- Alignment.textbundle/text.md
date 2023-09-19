@@ -1,4 +1,4 @@
-# String Interpolation Alignment
+# OSLog: Alignment
 ⬅️
 
 (Existiert nicht?)

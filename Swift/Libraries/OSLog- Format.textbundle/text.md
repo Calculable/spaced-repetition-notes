@@ -1,4 +1,4 @@
-# String Interpolation: Format
+# OSLog: Format
 🖨️
 
 ## Beispiel

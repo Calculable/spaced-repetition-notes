@@ -1,6 +1,6 @@
 # Hinweis: Observed Properties und Initializer
 🛫
-`didSet und willSet` wird bei der Initialisierung nicht aufgerufen
+`didSet` und `willSet` wird bei der Initialisierung nicht aufgerufen
 
 Falls man das doch braucht, kann man einen Closure machen, der sofort ausgeführt wird
 ![][image-1]

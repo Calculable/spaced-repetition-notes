@@ -1,4 +1,4 @@
-# Naming Convention: Filename für Protokolle
+# Naming Convention: Filename für Extensions
 💬
 
 ## Filename: Protocol Extension
