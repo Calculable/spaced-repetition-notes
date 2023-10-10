@@ -1,4 +1,4 @@
-# Kurzsyntax: Thread auf dem Main Actor
+# Kurzsyntax: Task auf dem Main Actor
 🤴
 ## Code
 

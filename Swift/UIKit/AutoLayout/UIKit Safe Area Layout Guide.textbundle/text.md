@@ -6,6 +6,9 @@ view.safeAreaLayoutGuide //wenn man mit Autolayout arbeitet
 view.safeAreaInsets //wenn man nicht mit Autolayout arbeitet
 ```
 
+> a given view’s safeAreaInsets property represents how much of that view is obscured by content from superviews/containers/the status bar
+
+
 ### 3
 
 ```swift

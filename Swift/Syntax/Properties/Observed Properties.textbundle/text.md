@@ -8,8 +8,8 @@ var triangle: EquilateralTriangle {
         willSet { //beachte: newValue
             square.sideLength = newValue.sideLength
         }
-		didSet { //hier wird old-value verwendet
-			
+		didSet {
+			//hier kann man auf oldValue zugreifen
 		}
 }
 ```

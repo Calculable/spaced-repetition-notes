@@ -15,6 +15,7 @@ task.cancel()
 - Das heisst innerhalb des Tasks muss man explizit prüfen, ob es abgebrochen wurde und darauf reagieren
 - Wenn man zum Beispiel in einem Loop Primzahlen überprüft, kann man entweder ein leeres Array zurückgeben, oder die bereits gefundenen Primzahlen:
 
+## Variante 1: Check
 ```swift
 for check in 1...number {   
 	if number.isMultiple(of: check) {
@@ -30,9 +31,25 @@ for check in 1...number {
 
 So kann man einen Fehler werfen, wenn eine Cancellation vorliegt:
 
+## Variante 2: Throw on Cancel
 ```swift
 Thread.checkCancellation() //Throws error if cancelled 
 ```
+
+## Variante 3: Cancellation Handler
+
+
+```swift
+ await withTaskCancellationHandler(operation: { [weak self] in
+	await myTask
+}, onCancel: { [weak self] in
+	//do something
+})
+```
+
+Wird auch dann aufgerufen, wenn der Task gerade nicht aktiv am Laufen ist
+
+
 
 ##  Vorsicht bei Verwendung APIs
 
@@ -51,8 +68,7 @@ Thread.checkCancellation() //Throws error if cancelled
 
 ##  Zusammenfassung
 - Wie bricht man einen Task ab?
-- Was bedeutet Cooperative Cancellation? Auf welche zwei Arten kann man es implementieren
-- Was gibt es bei der Verwendung von APIs zu beachten?
+- Was bedeutet Cooperative Cancellation? Auf welche drei Arten kann man es implementieren
 - Was gilt für den SwiftUI task() modifier?
 
 #learning unit#

@@ -5,22 +5,22 @@
 
 Der Text erscheint in der Mitte der View statt an der „leading“ Kante. 
 
-\`VStack(alignment: .leading) {
-\`\`\`\`
+```swift
+VStack(alignment: .leading) {
 	Text("Hello")
 }
-	
-	![][image-1]
-	## Ursache
-	
-	Der VStack selbst ist zwar korrekt ausgerichtet, nimmt aber selbst nicht den ganzen verfügbaren Platz ein:
-	
-	## Lösung
-	
-	```swift
-	VStack(alignment: .leading) {
-	    Text("Hello")
-	}.frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+```
+
+## Ursache
+
+Der VStack selbst ist zwar korrekt ausgerichtet, nimmt aber selbst nicht den ganzen verfügbaren Platz ein:
+
+## Lösung
+```swift
+VStack(alignment: .leading) {
+    Text("Hello")
+}.frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+```
 
 ![][image-1]
 

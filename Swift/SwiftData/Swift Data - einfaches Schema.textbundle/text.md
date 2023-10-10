@@ -5,10 +5,12 @@
 import SwiftData
 
 @Model
-class Trip {
+final class Trip {
     var name: String
     var bucketList: [BucketListItem]? = []
     var livingAccommodation: LivingAccommodation?
+
+	//initializer
 }
 ```
 

@@ -6,6 +6,7 @@ Beachte: Es braucht den Boolean noch immer
 
 ```swift
 @State private var showingAlert = false
+@State private var selectedUser: User? = nil
 ```
 
 ```swift

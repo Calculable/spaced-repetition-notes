@@ -1,4 +1,4 @@
-# SwiftUI Implicit Padding
+# SwiftUI Implicit Padding beim VStack
 
 Ein VStack in SwiftUI had ein implizites Padding. Das kann zu unerwartetem Verhalten führen:
 

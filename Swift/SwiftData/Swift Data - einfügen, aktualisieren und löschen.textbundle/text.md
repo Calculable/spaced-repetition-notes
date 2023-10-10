@@ -11,10 +11,30 @@ context.insert(myTrip)
 
 ## Löschen
 
+###  Einzelnes Objekt
 ```swift
 context.delete(myTrip)
 ```
 
+### Alle Objekte
+Wenn man alle Objekte eines bestimmten Typs löschen möchte:
+
+```swift
+try modelContext.delete(model: Trip.self)
+```
+
+### Mit Predicate
+
+```swift
+try modelContext.delete(model: Trip.self, where: #Predicate { trip in
+    trip.locations.isEmpty
+})
+```
+
+### Hinweis
+- Es wird erst beim nächsten Speichern effektiv gelöscht
+- Bis dann hat man noch darauf zugriff über `deletedModelsArray`
+- Man kann noch ein Rollback machen.
 ## Aktualisieren
 
 ```swift

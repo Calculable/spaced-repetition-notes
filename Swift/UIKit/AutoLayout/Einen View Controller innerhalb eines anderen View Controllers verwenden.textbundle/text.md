@@ -6,7 +6,7 @@ Innerhalb eines View Controllers:
 ![][image-1]
 
 ##  Zusammenfassung
-- Welche 4 Schritte werden benötigt?
+- Welche 4 Schritte werden benötigt (Inklusive View positionieren mit Constraints)?
 
 [image-1]:	assets/DraggedImage.png
 

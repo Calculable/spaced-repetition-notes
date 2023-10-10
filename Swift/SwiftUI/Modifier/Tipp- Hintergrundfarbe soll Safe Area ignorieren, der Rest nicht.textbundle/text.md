@@ -2,7 +2,7 @@
 📱
 
 ```swift
-.background(Color.systemGroupedBackground.ignoresSafeArea()
+.background(Color.systemGroupedBackground.ignoresSafeArea())
 ```
 
 ## Zusammenfassung

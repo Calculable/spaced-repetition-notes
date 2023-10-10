@@ -5,12 +5,11 @@ Im .xcodeproj steht alles was Xcode wissen muss, um das Projekt zu erstellen. Es
 
 | Inhalt       | Bedeutung                                                                                                                    |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| xcuserdata   | Persönliche XCode Einstellungen (Breakpoints etc.)                                                                           |
+| xcuserdata   | Persönliche Xcode Einstellungen (Breakpoints etc.)                                                                           |
 | xcshareddata | Schemas (wird eingecheckt)                                                                                                   |
 | xcworkspace  | Eine xcworkspace-Datei enthält Metadaten über die von Ihnen verwendeten Projekte und Bibliotheken und wie sie zusammenhängen |
 
 ## Zusammenfassung
-- Was beinhaltet .xcodeproj?
 - Was ist xcuserdata?
 - Was ist xcshareddata?
 - Was ist xcworkspace?

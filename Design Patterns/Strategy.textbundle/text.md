@@ -13,8 +13,14 @@
 	- **Stategy**: Das Interface / Abstrakte Klasse
 	- **Concrete Strategy**: die Konkreten Klassen
 
+
+## Unterschied zum State Pattern
+
+Das Strategy Pattern ist eine Alternative zum Vererben, Das State Pattern ist eine Alternative bei zu vielen Kontrollstrukturen.
+
 ## Zusammenfassung
 - Zweck
+- Unterschied zum State Pattern
 
 
 #learning unit#

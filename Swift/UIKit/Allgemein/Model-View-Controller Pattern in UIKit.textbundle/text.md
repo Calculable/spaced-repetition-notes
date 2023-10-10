@@ -13,7 +13,8 @@ Je nach Interpretation kann das Model auch selbst Daten nachladen
 
 
 ## Zusammenfassung
-- Einordnung Model und ViewController
+- Welche Verantwortung hat das Model
+- Welche zwei Konzepte gibt es, um View und ViewController zu implementieren
 
 
 #learning unit#

@@ -1,5 +1,5 @@
 # Environment Modifier
-🌳
+
 - Einige Modifier können auf Container angewannt werden. Das heisst - sie werden auf mehrere Views gleichzeitig angewant:
 
 ```swift
