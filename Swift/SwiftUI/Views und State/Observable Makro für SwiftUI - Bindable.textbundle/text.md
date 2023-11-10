@@ -1,17 +1,19 @@
 # Observable Makro für SwiftUI - Bindable
 🖇️
 
-## Klassen: @Bindable
+## Wozu wird es benötigt?
 
-###  View 1
+- Das wird verwenet, wenn man aus den Properties bindings machen möchte
+- Es ändert nichts an der Observation
+
+##  View 1
 ```swift
 @State private var donut = Donut()
 //....
 View2(donut) //beachte: Kein $
 ```
 
-
-###  View 2
+##  View 2
 
 ```swift
 @Bindable var donut: Donut
@@ -19,26 +21,7 @@ View2(donut) //beachte: Kein $
 Textfield($donut.name) //Beachte: Mit $!
 ```
 
-## Structs: @Binding
-👀
-
-### View 1
-
-```swift
-@State var donutCount = Donut()
-//....
-View2($donutCount)
-```
-
-### View 2
-
-```swift
-@Binding var donutCount: Int //wird von aussen in die View gegeben
-```
-
 ## Zusammenfassung
-- Wann braucht man State und wann Binding
-- Was ist der Unterschied zwischen @Bindable und @Binding
-
+- Syntax, Wozu wird es verwendet
 
 #learning unit#

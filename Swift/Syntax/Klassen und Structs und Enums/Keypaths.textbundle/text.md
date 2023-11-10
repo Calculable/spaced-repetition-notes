@@ -17,7 +17,6 @@ print(voyager[keyPath: nameKeyPath])
 
 ##  Zusammenfassung
 - Wozu sind Keypaths da?
-- Wie wird ein Keypath gespeichert?
 - Wie wird mit einem Keypath ein Property ausgelesen?
 
 #learning unit#

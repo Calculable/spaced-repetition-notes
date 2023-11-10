@@ -1,6 +1,23 @@
 # Fighter Jet Problem
 🛩️
 
+## Kurzzusammenfassung in Pseudocode
+
+```swift
+protocol A {
+	func test()
+}
+
+extension A {
+	func test() {...}
+}
+
+//Die Klasse kann die Extension nur überschreiben, weil test im Protokoll definiert ist.
+struct A: B {
+	func test() {...}
+}
+```
+
 ## Beispiel
 Es geht um die Kombination von Protocol und Protocol Extension:
 

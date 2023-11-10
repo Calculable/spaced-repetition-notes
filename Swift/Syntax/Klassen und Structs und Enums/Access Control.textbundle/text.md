@@ -25,6 +25,6 @@ private func somePrivateFunction() {}
 - Private: Zugriff innerhalb der gleichen Enclosing Declaration
 
 ## Zusammenfassung
-Welche Arten gibt es?
+Welche 5 Arten gibt es?
 
 #learning unit#

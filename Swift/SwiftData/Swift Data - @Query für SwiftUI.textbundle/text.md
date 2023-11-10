@@ -13,13 +13,13 @@
 
 //Mit natürlicher Sortierung (Finder-Style sorting): Test 1, Test 2, Test 3, Test 11 statt Test 1, Test 11, Test 2, Test 3
 @Query(sort: [SortDescriptor(\User.name, comparator: .localizedStandard)]) var users: [User]
+
+
 ```
-
-
 
 
 ## Zusammenfassung
 - Code: Ein Array von Trips, sortiert mit startDate, in umgekehrter Reihenfolge
 - Was ist natürliche Sortierung?
 
-#learning unit#
+#learning unit# #Daten

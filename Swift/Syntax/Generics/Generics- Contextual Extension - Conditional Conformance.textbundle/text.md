@@ -18,7 +18,7 @@ extension Container {
 ```
 
 ## Zusammenfassung
-- Extension mit Condition
+- Beispiel: Man macht eine Extension für ein Container von Int werten
 - Funktion mit Condition
 
 #learning unit#

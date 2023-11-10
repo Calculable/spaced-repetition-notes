@@ -3,7 +3,7 @@
 
 ```swift
 Picker("Select your student", selection: $selectedStudent){
-	ForEach(students, id: \.self) {
+	ForEach(students, id: \.self) { //ID ist wichtig
 		Text($0)
     }
 }            

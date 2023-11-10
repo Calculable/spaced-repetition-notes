@@ -67,7 +67,7 @@ Achtung wichtig - beachte: Der Client ruft hier nicht die factoryMethod auf, son
 
 ## Naming Convention in Swift
 
-> Ergänzung Iterator: Begin names of factory methods with “make”, e.g. x.makeIterator().
+> Begin names of factory methods with “make”, e.g. x.makeIterator().
 
 ## Zusammenfassung
 - Zweck

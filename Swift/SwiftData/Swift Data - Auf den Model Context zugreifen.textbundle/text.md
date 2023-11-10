@@ -22,9 +22,7 @@ Wenn man durch die Änderung das UI aktualisieren möchte, kann man dies mit ein
 container.mainContext
 ```
 
-> Autosave is disabled for model contexts created by hand.
-
 ## Zusammenfassung
 - Code (nur SwiftUI)
 
-#learning unit#
+#learning unit# #Container und Context#

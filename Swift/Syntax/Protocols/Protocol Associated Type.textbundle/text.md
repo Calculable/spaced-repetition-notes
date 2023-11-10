@@ -22,7 +22,7 @@ protocol Product {
 }
 
 struct Laptop: Product {
-	typealias Code = Int
+	typealias Code = Int //braucht es oft nicht wegen Type Inference
 	var productCode = 6 
 }
 ```

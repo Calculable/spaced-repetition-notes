@@ -23,6 +23,6 @@ return weight.formatted()
 
 ## Zusammenfassung
 
-- Mit welcher Funktion kann man verschiedene Typen formatiert ausgeben? (nicht den genauen Code auswändig)
+- Mit welcher Funktion kann man verschiedene Typen (Array, Date, Float, ...) formatiert ausgeben? (nicht den genauen Code auswändig)
 
 #learning unit#

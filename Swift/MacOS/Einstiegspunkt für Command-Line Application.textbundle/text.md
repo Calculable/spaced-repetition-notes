@@ -6,8 +6,8 @@
 
 ```swift
 @main
-struct App {
-    func run() {
+struct Demo {
+    static func main() {
         print("Hello World")
     }
 }

@@ -2,7 +2,7 @@
 🔨
 
 - **Swift Compiler**: swiftc
-- ** C, C\+\+, ObjC compiler**: clang
+- ** C, C\+\+, ObjC compiler**: clang (merke: C-Language)
 - ** Linker**: ld
 
 ## Zusammenfassung

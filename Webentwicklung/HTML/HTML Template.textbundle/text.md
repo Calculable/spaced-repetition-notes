@@ -3,10 +3,10 @@
 
 ```java
 <!doctype html>
-	<html>
-		<head>
-			<title>Meine Website</title>
-		</head>
+<html>
+	<head>
+		<title>Meine Website</title>
+	</head>
 	<body>
 		<h1>Hallo Welt!</h1>
 		<ul>

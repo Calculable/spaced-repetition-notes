@@ -10,8 +10,8 @@ import OSLog
 let logger = Logger(subsystem: "BackyardBirdsData", category: "Account")
 ```
 
-Subsystem: Oft Bundle identifier
-Kategorie: Oft Klassenname oder Komponentenname
+- Subsystem: Oft Bundle identifier
+- Kategorie: Oft Klassenname oder Komponentenname
 
 ```swift
 logger.info("Logging in user '\(username)')

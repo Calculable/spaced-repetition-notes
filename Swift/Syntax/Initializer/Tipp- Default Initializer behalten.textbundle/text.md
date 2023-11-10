@@ -21,6 +21,6 @@ extension Person {
 ```
 
 ##  Zusammenfassung
-- Wie kann man den Default-Initializer behalten?
+- Wie kann man den Default-Initializer behalten, wenn man in einem Struct einen eigenen Initializer hinzufügt?
 
 #learning unit#

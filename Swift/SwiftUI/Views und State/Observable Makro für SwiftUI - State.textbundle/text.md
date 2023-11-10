@@ -24,7 +24,7 @@ public class FoodTruckModel: ObservableObject {
 ```
 
 
-##  Keine Annotation: Lesender Zugriff
+##  Keine Annotation: Lesender Zugriff (Struct), Schreibender Zugriff (Klasse)
 
 Zum Beispiel für Structs oder Klassen die von der Parent View verändert werden
 
@@ -36,10 +36,7 @@ Früher: `@StateObject/@ObservedObject`
 
 > If a view owns a property or gets it from a parent but doesn’t need to change it, use let.
 
-Achtung: In der Praxis funktioniert of auch der Schreibende Zugriff, das sollte man aber nicht verwenden!
-
-
-## @State: Schreibender Zugriff
+## @State: Schreibender Zugriff, in der View erstellt
 
 Wenn es Teil der View ist:
 

@@ -3,11 +3,11 @@
 
 ```swift
  init(sideLength: Double, name: String) {
-        self.sideLength = sideLength //set subclass-properties
-        super.init(name: name) //superclass initializer
-        numberOfSides = 3 //change superclass
-		//additional setup with methods, getters, setters...
-    }
+	self.sideLength = sideLength //set subclass-properties
+	super.init(name: name) //superclass initializer
+	numberOfSides = 3 //change superclass
+	//additional setup with methods, getters, setters...
+}
 ```
 
 ## Zusammenfassung

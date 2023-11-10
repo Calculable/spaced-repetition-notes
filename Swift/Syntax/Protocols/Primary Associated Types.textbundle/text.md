@@ -36,6 +36,15 @@ class  MusicPlayer {
 }
 ```
 
+Ohne Primary Associated Types würde man folgendes schreiben:
+
+```swift
+class MusicPlayer {
+    func play<T: Collection>(_ playlist: T) where T.Element == Track {
+        /* ... */
+    }
+}
+```
 ## Zusammenfassung
 - Zweck: (Beispiel: Playlist als Collection von Tracks)
 - Wie würde man das mit Generics lösen

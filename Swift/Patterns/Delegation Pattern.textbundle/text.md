@@ -27,6 +27,7 @@ class DiceGame {
 Beachte: Das Delegate ist optional
 
 ## Zusammenfassung
-Beispiel (z.B Dice Game)
+- Beispiel (z.B Dice Game)
+- Zu was sollte das Protokoll konform sein?
 
 #learning unit#

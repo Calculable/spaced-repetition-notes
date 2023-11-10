@@ -10,5 +10,7 @@ func anyCommonElements<T: Sequence, U: Sequence>(_ lhs: T, _ rhs: U) -> Bool
 
 > Writing `<T: Equatable>` is the same as writing `<T> ... where T: Equatable`.
 
+## Zusammenfassung
+- Beispiel: In einer Funktion
 
 #learning unit#

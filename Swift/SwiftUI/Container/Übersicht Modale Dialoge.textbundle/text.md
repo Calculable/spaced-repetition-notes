@@ -7,7 +7,7 @@ Unterschiedliche Darstellung auf iPhone und iPad
 
 ![][image-1]![][image-2]
 
-## ContextMenu
+## Menu
 
 ![][image-3]
 
