@@ -20,6 +20,10 @@ Hier geht es darum, wie das Bild dargestellt wird, wenn die UIImageView grösser
 
 Siehe [https://sarunw.com/posts/how-to-resize-and-position-image-in-uiimageview-using-contentmode/][1]
 
+## Zusammenfassung
+- Was bewirken scaleToFill, scaleAspectFit, scaleAspectFill
+- Welche weiteren Modis gibt es?
+
 [1]:	https://sarunw.com/posts/how-to-resize-and-position-image-in-uiimageview-using-contentmode/
 
 [image-1]:	assets/DraggedImage.png

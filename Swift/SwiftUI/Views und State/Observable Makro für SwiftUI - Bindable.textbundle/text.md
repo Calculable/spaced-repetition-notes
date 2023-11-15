@@ -3,8 +3,10 @@
 
 ## Wozu wird es benötigt?
 
+- Funktioniert nur für @Observable Klassen
 - Das wird verwenet, wenn man aus den Properties bindings machen möchte
 - Es ändert nichts an der Observation
+- Wenn man keine Bindings benötigt, kann man auch einfach `var` verwenden.
 
 ##  View 1
 ```swift

@@ -2,7 +2,7 @@
 ➡️
 
 ```swift
-performSegue (withIdentifier: "showDetail", sender: nil)
+performSegue(withIdentifier: "showDetail", sender: nil)
 ```
 
 

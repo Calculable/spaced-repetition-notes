@@ -20,14 +20,9 @@ import XCTest
 
 class Singleton {
 
-    static var shared: Singleton = {
-        let instance = Singleton()
-        // ... configure the instance
-        // ...
-        return instance
-    }() //beachte - das ist nicht ein generated getter sondern das Property wird genau einmal zugewiesen
+    static var shared = Singleton()
 
-    private init() {} //private initializer
+    private init() {...} //private initializer
 
     func someBusinessLogic() -> String {
         //...

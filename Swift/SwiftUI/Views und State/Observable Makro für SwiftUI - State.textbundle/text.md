@@ -1,69 +1,18 @@
 # Observable Makro für SwiftUI - State
-👀
+🖇️
 
-## Import
+## Wozu wird es benötigt?
 
-```swift
-import Observation
-```
-
-##  Vorher
-
-```swift
-public class FoodTruckModel: ObservableObject {
-	@Published public var truck = Truck ()
-}
-```
-
-##  Nachher
+- Wenn eine View das model "owned" und verändern will
+- Funktioniert für Structs und @Observable Klassen
+- Früher wurde zwischen @State (für Structs) und @StateObjects (für Klassen) unterschieden
+- Man kann damit auch Bindings für die Properties erstellen
 
 ```swift
-@Observable class FoodTruckModel {    
-  var donuts = truck = Truck ()
-}
+@State private var donut = Donut()
 ```
 
-
-##  Keine Annotation: Lesender Zugriff (Struct), Schreibender Zugriff (Klasse)
-
-Zum Beispiel für Structs oder Klassen die von der Parent View verändert werden
-
-```swift
-let donutToAdd: Donut
-```
-
-Früher: `@StateObject/@ObservedObject`
-
-> If a view owns a property or gets it from a parent but doesn’t need to change it, use let.
-
-## @State: Schreibender Zugriff, in der View erstellt
-
-Wenn es Teil der View ist:
-
-```swift
-@State private var donutToAdd: Donut = Donut()
-```
-
-Funktioniert für Structs und Klassen
-
-Früher: `@StateObject/@ObservedObject`
-
-## Property Ignorieren
-
-> In case anyone else runs across this… Using @Observable on a class that has a property that is a closure causes the Xcode beta 3 compiler to flip out. Using @ObservationIgnored on the said property will get the compiler to calm down.
-
-
-## Welche Properties werden beobachtet?
-
-- Diejenigen die im view body verwendet werden
-- Funktioniert auch mit Computed Property
-
-## Zusammenhang mit @Model (Swift Data)
-
-- Eine Klasse mit @Model hat gleichzeitig auch alle Eigenschaften von @Observable
-
-##  Zusammenfassung
-- Wie sieht ein Model aus: Vorher / Nachher
-- Wann braucht man @State?
+## Zusammenfassung
+- Syntax, Wozu wird es verwendet
 
 #learning unit#

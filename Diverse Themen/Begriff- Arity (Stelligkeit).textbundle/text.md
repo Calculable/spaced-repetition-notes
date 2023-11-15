@@ -1,4 +1,4 @@
-# Begriff: Arity
+# Begriff: Arity (Stelligkeit)
 🔢
 
 > Arity is a fancy way of saying „number of arguments a function takes“

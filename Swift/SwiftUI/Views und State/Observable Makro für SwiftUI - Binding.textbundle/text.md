@@ -1,23 +1,27 @@
 # Observable Makro für SwiftUI - Binding
 🖇️
 
-## Wozu wird es benötigt?
+## Um was geht es?
 
-- Das wird verwenet, wenn man aus den Properties bindings machen möchte
-- Es ändert nichts an der Observation selbst
+- Es ist nur für Structs wenn man das Model bekommt und verändern will.
+- Man kann damit auch Bindings auf properties erstellen
 
 ## View 1
 
 ```swift
-@State var donutCount = Donut()
+@State var donutModel = Donut()
 //....
-View2($donutCount)
+View2($donutModel)
 ```
 
 ## View 2
 
 ```swift
-@Binding var donutCount: Int //wird von aussen in die View gegeben
+@Binding var donutModel: Donut //wird von aussen in die View gegeben
+
+//...
+donutModel = Donut() //möglich
+Textfield("Example", text: $donutModel.name) //möglich
 ```
 
 

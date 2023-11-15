@@ -3,7 +3,7 @@
 
 ## Zweck
 
-- Hier aktualisiert man die Views mit den Frames, welche zuvor mit `updateConstraints` berechnet wurden.
+- Hier aktualisiert man die Views mit den Frames, welche zuvor mit `updateConstraints` berechnet wurden. (`updateConstraints` selbst muss man nur selten überschreiben...)
 - Dies geschieht **Top-Down ** (zuerst Superview und dann subview)
 - Hier kann man Konfigurationen definieren, welche von der Grösse der View abhängen.
 

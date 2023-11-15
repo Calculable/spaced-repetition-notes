@@ -2,9 +2,10 @@
 🖇️
 
 ...ist Möglich:
+
 ```swift
 //....
-@Bindable var myLocalBindableVar = myLocalVar
+@Bindable var myLocalBindableVar = myLocalVar //für Klassen
 SomeView(var: $myLocalBindableVar.example)
 ```
 
