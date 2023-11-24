@@ -1,4 +1,4 @@
-# Swift Data - Verlinkte Models in der richtigen Reihenfolge einfügen
+# Swift Data - Verlinkte Models einfügen
 ⤵️
 ##  Falsch
 
@@ -22,6 +22,6 @@ modelContext.insert(cruise)
 ```
 
 ## Zusammenfassung
-- Wie fügt man zwei verlinkte Objekte in der Datenbank ein? (Movie mit einem Array an Actors)
+- Wie fügt man zwei verlinkte Objekte in der Datenbank ein? (Actor mit einem Array an Movies)
 
 #Daten #learning unit#

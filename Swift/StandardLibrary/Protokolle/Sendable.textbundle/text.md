@@ -46,7 +46,7 @@ final class MutableUser: @unchecked Sendable {/*...*/}
 
 ## Verwendung @Sendable
 
-Ein Closure erwarten, dass Thread-Safe ist:
+Ein Closure erwarten, nur Thread-Safe Parameter hat
 
 ```swift
 func filteredArticles(_ isIncluded: @Sendable (Article) -> Bool) async -> [Article] {

@@ -3,7 +3,7 @@
 
 - Mit App Groups kann man Daten zwischen Apps des gleichen Entwicklers teilen
 - Das gilt auch, wenn man Daten zwischen mehrern Teilen der App wie der Main App, Siri Integration, Widget etc. teilen will!
-- App Groups funktionieren können konfiguriert werden mit
+- App Groups funktionieren mit
 	- User Defaults: [ulysses://x-callback-url/open?id=FHLudPdlb7FO4IQRzAj0qQ][1]
 	- Core Data: [ulysses://x-callback-url/open?id=-1zE7GRzqx5L6ljyghSSiA][2]
 	- Mehr....

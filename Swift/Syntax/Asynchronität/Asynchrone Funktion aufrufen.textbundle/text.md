@@ -12,9 +12,9 @@ await loadData()
 ```swift
 Task {
 	do {
-		 self.images = try await fetchImages()
+		self.images = try await fetchImages()
     } catch {
-    	// .. handle error
+		// .. handle error
     }
 }
 ```

@@ -5,6 +5,7 @@
 - Swift ist eine kompilierte Sprache
 - Skripts benötigten jedoch eine Interpretierte Sprache
 - Deshalb gibt es Swift REPL, um Swift Code zu interpretieren. 
+- "Hashbang"
 
 ## Einfaches Skript (ohne Package)
 

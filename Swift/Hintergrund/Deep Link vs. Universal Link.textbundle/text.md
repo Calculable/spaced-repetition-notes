@@ -8,11 +8,10 @@
 - Benötigt Domains Entitlement
 - Auf dem Webserver muss ein bestimmtes JSON-File liegen
 
-## Deep Links / Custom URL Scheme
+## Deep Links
 
 - „Traditionell“
 - hier hat man ein Custom URL Scheme, also nicht eine klassische Webseiten-URL
-- Bustom URL Schemes?
 
 ## Zusammenfassung
 - Was ist der Unterschied?
