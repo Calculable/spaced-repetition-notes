@@ -121,8 +121,7 @@ Quelle: [https://www.hackingwithswift.com/quick-start/swiftdata/how-to-create-ma
 
 ## Zusammenfassung
 - Wo hat man das @Relationship-Attribut bei Zweiseitigen Beziehungen
-- Was ist der Fehler, wenn eine School ein Property `var students: [Student]` hat und der Student ein Property `var school: School`?
-- Muss man beim `insert` für beide Objekte aufrufen?
+- Was ist der Fehler, wenn eine School ein Property `var students: [Student]` hat und der Student ein Property `var school: School`
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftdata/common-swiftdata-errors-and-their-solutions
 [2]:	https://www.hackingwithswift.com/quick-start/swiftdata/how-to-create-many-to-many-relationships

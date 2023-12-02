@@ -1,5 +1,5 @@
 # Lösung: Vektorgrafiken erscheinen unscharf
-
+👨‍🎨
 Damit Vektorgrafiken beim Build nicht zu Pixel-Grafiken umgerechnet werden, muss man folgende Einstellung machen:
 
 ![][image-1]

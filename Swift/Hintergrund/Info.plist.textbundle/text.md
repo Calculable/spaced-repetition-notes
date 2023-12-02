@@ -2,7 +2,7 @@
 📄
 
 ## Wo liegt das File?
-- Definiert in `Build Settings -> Info.plist File` 
+- Definiert in `Build Settings -> Info.plist File`
 
 ##  Zweck
 
@@ -10,7 +10,7 @@
 - Enthält Infos wie:
 	- App Identifier, Versionsnummer, App Name
 	- Capabilities
-	- App Icons and Lounch Images
+	- App Icons and Launch Images
 	- Privacy Settings
 ## Info.plist bearbeiten
 

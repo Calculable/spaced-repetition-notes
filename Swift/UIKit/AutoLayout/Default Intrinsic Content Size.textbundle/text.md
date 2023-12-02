@@ -6,7 +6,7 @@
 
 ## Zusammenfassung
 - Was ist die Default Intrinsic Content Size einer View?
-- Wie wird es abgebildet, wenn es keine Intrinsic Content Size gibt?
+- Wie wird es im Code abgebildet, wenn es keine Intrinsic Content Size gibt?
 
 
 #learning unit#

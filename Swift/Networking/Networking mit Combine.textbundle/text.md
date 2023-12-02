@@ -18,7 +18,7 @@ URLSession.shared.dataTaskPublisher(for: url)
     .map(\.data)
     .decode(type: User.self, decoder: decoder)
     .replaceError(with: User.default)
-    .sink(receiveValue: { print($0.name) })
+    .sink({ /*$0*/  })
     .store(in: &requests)
 ```
 

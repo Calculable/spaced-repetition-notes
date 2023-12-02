@@ -64,10 +64,9 @@ class Presenter {
 
 
 ##  Zusammenfassung
-- Rollen
-- Zusammenspiel
+- Rollen / Zusammenspiel: Was geschieht bei einem Klick=
 - Unterschied zu MVVM
 
-[image-1]:	https://miro.medium.com/max/640/1*Yf9H3RWc9pdcnxxco_dTqQ.webp
+[image-1]:	assets/MVP.drawio.png
 
 #learning unit#
