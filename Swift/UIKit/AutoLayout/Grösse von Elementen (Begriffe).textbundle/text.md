@@ -11,9 +11,36 @@
 - **Content Hugging**: wie stark will das Objekt nicht wachsen („hält sich zusammen“)
 
 
-##  Beispiel
+## Gröse im Code setzen
+
+### Beispiel: Label
+
+```swift
+cluesLabel.setContentHuggingPriority(UILayoutPriority(1), for: .vertical)
+```
+
+Es gibt auch definierte Konstanten, wie zum Beispiel `. required`
+
+Dann kann man in Xcode die Intrinsic Size für den Platzhalter angeben damit es in der Vorschau gut aussieht:
 
 ![][image-1]
+
+### Beispiel: Constraint
+
+- Auch Constraints können eine Priority haben
+- Hier allerdings nur ein einziger Wert (nicht separat für Hugging and Compression)
+
+```swift
+let myConstraint = self.heightAnchor.constraint(equalToConstant: 20)
+myConstraint.isActive = true
+myConstraint.priority = .init(500)
+```
+
+
+
+##  Gröse im Storyboard setzen
+
+![][image-2]
 
 
 ## Default Werte
@@ -27,48 +54,23 @@
 
 Hier hat das die View weniger Platz zur Verfügung, als das sie eigentlich gemäss intrinsic content size haben möchte:
 
-![][image-2]
+![][image-3]
 
 Es findet also Compression statt. Entweder muss das Bild oder der Text komprimiert werden. Weil der Text eine geringere Compression Resistance hat, wird er komprimiert
 
-![][image-3]
-
-Die Grösse des Bildes bleibt die gleiche. Merke: Es gibt keine „Teilgewinner“.
-
-## Manchmal setzt man die Grösse im Code
-
-### Beispiel: Label
-
-```swift
-cluesLabel.setContentHuggingPriority(UILayoutPriority(1), for: .vertical)
-```
-
-Es gibt auch definierte Konstanten, wie zum Beispiel `. required`
-
-Dann kann man in Xcode die Intrinsic Size für den Platzhalter angeben damit es in der Vorschau gut aussieht:
-
 ![][image-4]
 
-### Beispiel: Constraint
-
-- Auch Constraints können eine Priority haben
-- Hier allerdings nur ein einziger Wert (nicht separat für Hugging and Compression)
-
-```swift
-let myConstraint = self.heightAnchor.constraint(equalToConstant: 20)
-myConstraint.isActive = true
-myConstraint.priority = .init(500)
-```
+Die Grösse des Bildes bleibt die gleiche. Merke: Es gibt keine „Teilgewinner“.
 
 ## Zusammenfassung
 - Begriff für "natürliche Grösse"
 - Begriff für "wir stark will es nicht wachsen"
 - Begriff für "wie stark will es nicht schrumpfen"
-- Was sind die Default-Werte
+- Was sind die Default-Werte?
 
-[image-1]:	assets/Bildschirmfoto%202021-09-11%20um%2012.54.21.png
-[image-2]:	assets/DraggedImage.tiff
-[image-3]:	assets/DraggedImage-1.tiff
-[image-4]:	assets/Bildschirmfoto%202021-09-11%20um%2012.56.52.png
+[image-1]:	assets/Bildschirmfoto%202021-09-11%20um%2012.56.52.png
+[image-2]:	assets/Bildschirmfoto%202021-09-11%20um%2012.54.21.png
+[image-3]:	assets/DraggedImage.tiff
+[image-4]:	assets/DraggedImage-1.tiff
 
 #learning unit#

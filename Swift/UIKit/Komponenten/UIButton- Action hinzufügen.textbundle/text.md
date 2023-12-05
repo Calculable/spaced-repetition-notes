@@ -8,6 +8,8 @@ button.addAction(UIAction { [weak self] _ in
 }, for: .touchUpInside)
 ```
 
+(Beachte: Es hat noch einen Parameter)
+
 ## Alt
 ```swift
 myButton.addTarget(self, action: #selector(viewTapped(_:)), for: .touchUpInside)

@@ -3,10 +3,25 @@
 
 ## Traits auslesen
 
-In diesem Beispiel wurde der Code innerhalb von `viewDidLayoutSubivews` ausgeführt.
+```swift
+raitCollection.verticalSizeClass == .Compact
+```
+
+
+##  Wo werden Traits ausgelesen?
+
+###  Heute
+
+- Heute Empfohlen: `viewIsAppearing`
+- Das ist, nachdem die View bereits zur Hierarchie hinzugefügt wurde und die trait Collection unf View Geometrie aktuell ist
+
+###  traitCollectionDidChange
+
+### Früher
 
 ```swift
 //im View Controller
+//nachdem die Subviews ge-layoutet wuden. Ab diesem Moment jat die View aktualisierte "bounds"
 override func viewDidLayoutSubviews() {
 	let isCompact = traitCollection.verticalSizeClass == .Compact
 	//...
@@ -15,12 +30,13 @@ override func viewDidLayoutSubviews() {
 
 ```swift
 //in View
+//Das wird immer aufgerufen, wenn sich das Frame ändert (zum Beispiel wechsel von Portrait in Landscape)
 override func layoutSubviews() {
 	//...
 }
 ```
 
-(layoutSubviews and viewDidLayoutSubviews) are the best places to use traits
+Die zwei gezeiten Lifecycle-Methoden sind in der Regel der beste Ort, um auf die Traits zuzugreifen. Man kann sie aber auch direkt beobachten mit `traitCollectionDidChange` - sowohl im ViewController auch in der View (siehe unten)
 
 
 ## Welche Traits sind verfügbar?
@@ -48,6 +64,17 @@ oder wen man es animieren möchte:
 willTransitionToTraitCollection(_:withTransitionCoordinator:)
 ```
 
+
+## Prüfen, ob sich etwas verändert hat
+
+```swift
+if traitCollection.hasDifferentColorAppearance(comparedTo: previousTraitCollection) {
+            guard let circlePath = positionView.layer.sublayers?.first as? CAShapeLayer else {
+                return
+            }
+            circlePath.fillColor = SBBColorSemantic.ConnectionPearlsView.positionTint.cgColor
+        }
+```
 
 ## Wer hat Zugriff auf die Traits
 
@@ -77,7 +104,7 @@ Mit iOS 17:
 
 ##  Zusammenfassung
 - Beispiel: In einem View Controller herausfinden, ob man sich in der "Compact" Size Class befindet
-- In welcher Callback-Methode greift man normalerweise auf die Traits zu?
+- Wo greift man in der Regel auf die Traits zu? (zwei Lifecycle-Methoden und eine zusätzliche Funktion)
 
 [image-1]:	assets/Bildschirmfoto%202023-10-02%20um%2010.40.28.png
 [image-2]:	assets/Bildschirmfoto%202023-10-02%20um%2010.43.03.png

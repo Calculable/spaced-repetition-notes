@@ -13,6 +13,6 @@ myTextView.resignFirstResponder()
 - Damit verschwindet auch die Tastatur
 
 ##  Zusammenfassung
-- Was macht diese Funktion
+- Was macht diese Funktion?
 
 #learning unit#

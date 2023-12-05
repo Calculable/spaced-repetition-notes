@@ -28,7 +28,6 @@ class ViewController: UITableViewController {
 
 
 ## Zusammenfassung
-- Funktion um die View zu laden
-- Funktion, um die View mit Inhalt zu befüllen
+- Beispiel: Ein View-Controller mit zwei override-Funktionen: Einmal um eine View zu setzen und einmal um die View zu konfigurieren
 
 #learning unit#

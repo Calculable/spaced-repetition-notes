@@ -6,10 +6,13 @@
 ```swift
 //Wird verwendet wenn Storyboards oder Nib Files eingesetzt werden. Manchmal wird hier auch einfach ein `fatalError()` geworfen.
 required init?(coder aDecoder: NSCoder) {
-    super.init(coder: aDecoder)
+    //super.init(coder: aDecoder)
 	//....
+	fatalError("not supported")
 }
 ```
+
+
 
 ## Frame initializer
 
@@ -23,6 +26,8 @@ override init(frame: CGRect) {
     super.init(frame: frame)
 }
 ```
+
+- Relativ zur Superview
 
 ##  Zusammenfassung
 - Welcher Initializer muss zwingend angeboten werden?
