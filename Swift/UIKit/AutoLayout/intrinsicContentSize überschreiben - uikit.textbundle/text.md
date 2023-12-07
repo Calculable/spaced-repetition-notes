@@ -28,6 +28,7 @@ Die Intrinsic Content Size bezieht sich jeweils auf das Alignment Frame
 - In diesem Fall kann man mit `invalidateIntrinsicContentSize()` das System informieren, dass sich die Intrinsic Content Size verändert hat.
 
 ##  Zusammenfassung
+- Code
 - Was tut man, wenn man nur eine Dimension hat?
 
 #learning unit#

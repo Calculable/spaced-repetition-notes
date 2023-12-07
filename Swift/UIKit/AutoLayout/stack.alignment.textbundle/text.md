@@ -1,4 +1,5 @@
 # stack.alignment
+🥞
 
 ## stack.alignment = .leading
 ![][image-1]

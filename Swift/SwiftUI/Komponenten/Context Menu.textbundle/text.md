@@ -1,5 +1,5 @@
 # Context Menu
-
+💬
 
 ## Bild
 
@@ -39,7 +39,7 @@ Button(role: .destructive) {
 
 
 ##  Zusammenfassung
-- Was ist ein Context Menu, wie sieht es aus?
+- Was ist ein Context Menu, wie sieht es aus? (Nicht verwechseln mit Menu)
 - Wie macht man ein Context Menu?
 
 [image-1]:	assets/Bildschirmfoto%202022-08-11%20um%2017.31.58.png

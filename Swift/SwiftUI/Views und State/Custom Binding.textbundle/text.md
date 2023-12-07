@@ -14,6 +14,8 @@ let agreedToAll = Binding<Bool>(
 )
 ```
 
+Beachte: Es ist ein normaler Initializer mit zwei Closures als Parameter
+
 ## Zusammenfassung
 
 Wie macht man ein Custom Binding?

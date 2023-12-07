@@ -1,4 +1,5 @@
 # Menu
+💬
 
 ```swift
 Menu("Actions") {
@@ -11,7 +12,7 @@ Menu("Actions") {
 
 ![][image-1]
 ##  Zusammenfassung
-- Code
+- Code (Nicht verwechseln mit Context Menu)
 
 [image-1]:	assets/Bildschirmfoto%202023-08-04%20um%2013.35.35.png
 

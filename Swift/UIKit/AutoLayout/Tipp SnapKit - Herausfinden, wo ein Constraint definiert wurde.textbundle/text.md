@@ -1,4 +1,4 @@
-# Tippp SnapKit - Herausfinden, wo ein Constraint definiert wurde
+# Tipp SnapKit - Herausfinden, wo ein Constraint definiert wurde
 
 ![][image-1]
 

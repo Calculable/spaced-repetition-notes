@@ -1,9 +1,9 @@
 # Einstiegspunkt für Command-Line Application
 ⬇️
 
-- Früher hat man den Code direkt in `main.swift` geschrieben
+- Früher hat man den Code direkt in `main.swift` geschrieben (so ist auch die Vorlage aus Xcode)
 - Heute verwendet man eher die `@main` Annotation.
-- ZUdem muss die Funktion ebenfalls `main` heissen
+- Zudem muss die Funktion ebenfalls `main` heissen
 
 ```swift
 @main

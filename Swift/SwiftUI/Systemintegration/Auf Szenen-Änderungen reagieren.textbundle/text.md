@@ -9,11 +9,9 @@
 ```swift
 view
 	.onChange(of: scenePhase) { newPhase in
-		//..., zum Beispiel .inactive, .active, .background...
-	
+		//.inactive, .active, oder .background...
 	}
 ```
-
 
 - Active: Wenn es sichtbar ist
 - Inactive:  Es kann immer noch sichtbar sein aber nicht zugänglich. Zum Beispiel wenn man das App offen hat und auf das Control Center zugreift.

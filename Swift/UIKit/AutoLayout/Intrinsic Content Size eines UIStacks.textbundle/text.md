@@ -1,4 +1,5 @@
 # Intrinsic Content Size eines UIStacks
+🥞
 
 ## Verhalten
 - Standartmässig verwendet ein Stack immer die minimal nötige Grösse, in der alle Constraints erfüllt werden
