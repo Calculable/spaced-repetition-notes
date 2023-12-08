@@ -1,11 +1,12 @@
-# View Lifecycle: layoutSubviews()
+# UIView: layoutSubviews()
 🧩
 
 ## Zweck
 
-- Hier aktualisiert man die Views mit den Frames, welche zuvor mit `updateConstraints` berechnet wurden. (`updateConstraints` selbst muss man nur selten überschreiben...)
+- Wird aufgerufen, wenn die Child-Views neu positioniert werden müssen (idr. weil sich das Frame verändert hat oder weil child-views hinzugefügt oder entfernt wurden)
 - Dies geschieht **Top-Down ** (zuerst Superview und dann subview)
 - Hier kann man Konfigurationen definieren, welche von der Grösse der View abhängen.
+- Für UIController gibt es hingegen `viewWillLayoutSubviews` und `viewDidLayoutSubviews`
 
 
 ## Beispiel
@@ -20,10 +21,7 @@ override func layoutSubviews() {
 }
 ```
 
-
-##  Überschreiben
-
-- Wird häufig überschrieben ::!::
+- Wird häufig überschrieben
 - z.B. Wenn Constraints alleine nicht ausreichen für das Layout
 - `super.layoutSubviews()` nicht vergessen!
 
@@ -33,23 +31,13 @@ override func layoutSubviews() {
 	- Dies ist nicht der Ort, wo man generell Constraints definieren sollte. =\> Dies kann im `init` geschehen
 	- Vorsicht, wenn man hier Constraints in der aktuellen Hierarchie bearbeitet. =\> Dadurch wird ein Update-Step aufgerufen und anschliessend wieder ein Layout-Step (es braucht also eine Abbruch-Bedingung)
 
-## Wann wird es aufgerufen?
-- nach `updateConstraints`
-- Die Methode wird auch aufgerufen, wenn sich die View-Grösse verändert
+##  Manuell aufrufen
 
-
-##  Wie wird es aufgerufen?
-
-- Wird durch `setNeedsLayout` und anschliessend mit `layoutIfNeeded` aufgerufen.
-
-## Für View Controller
-
-- Das ist für Views
-- Für UIController gibt es hingegen `viewWillLayoutSubviews` und `viewDidLayoutSubviews`
+- Wird durch `setNeedsLayout()` und anschliessend mit `layoutIfNeeded()` aufgerufen.
 
 ##  Zusammenfassung
-- Zweck dieser Methode?
 - Wann ruft das System die Methode auf?
+- Wozu kann man es nutzen?
 
 
 #learning unit#

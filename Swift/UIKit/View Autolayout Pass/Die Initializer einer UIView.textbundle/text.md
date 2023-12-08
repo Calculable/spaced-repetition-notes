@@ -4,15 +4,13 @@
 ## Required: NSCoder Initializer
 
 ```swift
-//Wird verwendet wenn Storyboards oder Nib Files eingesetzt werden. Manchmal wird hier auch einfach ein `fatalError()` geworfen.
+//Wird verwendet wenn Storyboards oder Nib Files eingesetzt werden. Ansonsten wird einfach ein Fehler geworfen
 required init?(coder aDecoder: NSCoder) {
     //super.init(coder: aDecoder)
 	//....
 	fatalError("not supported")
 }
 ```
-
-
 
 ## Frame initializer
 

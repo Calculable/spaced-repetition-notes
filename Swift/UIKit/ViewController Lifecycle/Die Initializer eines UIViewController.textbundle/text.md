@@ -25,6 +25,14 @@ override init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: Bundle?) {
 
 Beachte: Es gibt keinen Frame initializer, das ist bei der UIView der Fall! ([ulysses://x-callback-url/open?id=X4JD4oVg-Jl8eatoXKCOqg][1])
 
+## Was macht man im Init?
+
+=\> Hier ist die View noch nicht verfügbar!
+
+- Properties initialisieren
+- Data source initialisieren
+- Notification abonnieren
+
 ##  Zusammenfassung
 - Welcher Initializer muss zwingend angeboten werden?
 - Wie kann man einen Initializer ohne Parameter anbieten?

@@ -6,6 +6,7 @@
 - Inhalt der Views aktualisieren
 - Auf Events im UI reagieren
 - Häufig ist das gleich ein ganzer Screen mit mehreren UIElementen
+- View Controller haben ein `view`-Property
 
 ##  Der ViewController ist nicht zuständig für:
 - Business Logik
