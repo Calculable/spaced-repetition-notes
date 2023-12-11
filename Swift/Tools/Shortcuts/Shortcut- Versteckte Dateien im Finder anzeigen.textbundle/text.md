@@ -1,4 +1,4 @@
-# Xcode shortcut: Versteckte Dateien im Finder anzeigen
+# Shortcut: Versteckte Dateien im Finder anzeigen
 🎩
 
 `⌘ - ⇧ - .`

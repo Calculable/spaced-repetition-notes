@@ -15,8 +15,6 @@ raitCollection.verticalSizeClass == .Compact
 - Heute Empfohlen: `viewIsAppearing`
 - Das ist, nachdem die View bereits zur Hierarchie hinzugefügt wurde und die trait Collection unf View Geometrie aktuell ist
 
-###  traitCollectionDidChange
-
 ### Früher
 
 ```swift
@@ -36,7 +34,20 @@ override func layoutSubviews() {
 }
 ```
 
-Die zwei gezeiten Lifecycle-Methoden sind in der Regel der beste Ort, um auf die Traits zuzugreifen. Man kann sie aber auch direkt beobachten mit `traitCollectionDidChange` - sowohl im ViewController auch in der View (siehe unten)
+###  traitCollectionDidChange
+- Gibt es sowohl im ViewController als auch in der View
+- So wird man informiert, wenn sich die Trait-Collection verändert
+
+```swift
+traitCollectionDidChange(previousTraitCollection:)
+```
+
+oder wen man es animieren möchte:
+
+```swift
+willTransitionToTraitCollection(_:withTransitionCoordinator:)
+```
+
 
 
 ## Welche Traits sind verfügbar?
@@ -49,21 +60,6 @@ Die zwei gezeiten Lifecycle-Methoden sind in der Regel der beste Ort, um auf die
 
 ## Traits überschreiben
 - Das betrifft dann alle Views, ViewControllers etc. unterhalb der aktuellen Hierarchiestufe
-
-## traitCollectionDidChange
-
-Darüber wird man informiert, wen sich die Trait Collection Verändert:
-
-```swift
-traitCollectionDidChange(previousTraitCollection:)
-```
-
-oder wen man es animieren möchte:
-
-```swift
-willTransitionToTraitCollection(_:withTransitionCoordinator:)
-```
-
 
 ## Prüfen, ob sich etwas verändert hat
 
@@ -104,7 +100,7 @@ Mit iOS 17:
 
 ##  Zusammenfassung
 - Beispiel: In einem View Controller herausfinden, ob man sich in der "Compact" Size Class befindet
-- Wo greift man in der Regel auf die Traits zu? (zwei Lifecycle-Methoden und eine zusätzliche Funktion)
+- Wo greift man in der Regel auf die Traits zu? (eine Lifecycle-Methode und eine zusätzliche Funktion)
 
 [image-1]:	assets/Bildschirmfoto%202023-10-02%20um%2010.40.28.png
 [image-2]:	assets/Bildschirmfoto%202023-10-02%20um%2010.43.03.png

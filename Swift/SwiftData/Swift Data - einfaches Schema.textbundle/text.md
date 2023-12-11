@@ -19,7 +19,6 @@ Mit `@Attribute` und `@Relationship` kann man es weiter konfigurieren
 ## ObservedObject
 
 - Es wird automatisch zu Observable Object, @Published braucht es nicht mehr
-- Wer das Model verwendet kann statt `@ObservedObject` neu `@Bindable` schreiben
 
 ## Zusammenfassung
 - Welches Makro wird verwendet?

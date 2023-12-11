@@ -23,6 +23,8 @@ static var sensitive: OSLogPrivacy //The option to always redact interpolated va
 
 Der Unterschied zwischen `private` und `sensitive` ist rein semantisch für die Entwickler als Dokumentation.
 
+Was die Option `auto` macht, habe ich nirgens herausgefunden.
+
 ## Zusammenfassung
 - Wie kann man mit einem OSLogger die privaten Userdaten schützen (Codebeispiel)
 

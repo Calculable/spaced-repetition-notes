@@ -46,7 +46,7 @@ Häufig ist das schöner, als stattdessen `viewDidLoad` zu überfrachten:
 (Eigentlich ist das ja alles View-Code und nicht ViewController-Code)
 
 ## Zusammenfassung
-- Wie kann man den View Code innerhalb von `viewDidLoad` auslagern?
+- Was kann man in dieser Lifecycle Methode machen?
 
 
 #learning unit#

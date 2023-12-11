@@ -4,7 +4,7 @@
 Wirf einen Fehler wenn es Nil ist
 
 ```swift
-    let token = try XCTUnwrap(user.getAuthenticationToken())
+let token = XCTUnwrap(user.getAuthenticationToken())
 ```
 
 
