@@ -9,8 +9,8 @@
 ```swift
 Text("Test")
     .font(.largeTitle)
-    .phaseAnimator([0, 1, 5]) { view, phase in
-        view
+    .phaseAnimator([0, 1, 5]) { proxy, phase in
+        proxy
             .scaleEffect(phase)
     }
 ```

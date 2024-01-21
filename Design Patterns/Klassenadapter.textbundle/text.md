@@ -18,11 +18,17 @@
 
 	![][image-2]
 
+
+## Alternative
+Objektadapter: [ulysses://x-callback-url/open?id=ZtEJ\_W73JtqwE19wDXpbbw][1]
+
 ## Zusammenfassung
 - Zweck
 - Welche zwei Arten von Adapter gibt es?
 - Wie wird es implementiert?
 - Vorteile / Nachteile
+
+[1]:	ulysses://x-callback-url/open?id=ZtEJ_W73JtqwE19wDXpbbw
 
 [image-1]:	assets/DraggedImage-1.tiff
 [image-2]:	assets/DraggedImage-2.tiff

@@ -22,7 +22,6 @@ class BaseButton: UIButton {
 
 Die Intrinsic Content Size bezieht sich jeweils auf das Alignment Frame
 
-
 ## Dynamische Intrinsic Content Size
 
 - In diesem Fall kann man mit `invalidateIntrinsicContentSize()` das System informieren, dass sich die Intrinsic Content Size verändert hat.

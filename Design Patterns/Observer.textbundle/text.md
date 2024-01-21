@@ -55,6 +55,9 @@ class ObserverConceptual: XCTestCase {
 }
 ```
 
+## Einordnung
+- Wird oft auch mit Delegates oder Combine gelöst
+
 ## Zusammenfassung
 - Beispiel-Implementation
 

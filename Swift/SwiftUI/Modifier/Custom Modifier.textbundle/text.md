@@ -39,9 +39,6 @@ Text("Hello World")
 ```
 
 ## Zusammenfassung
-- Wie schreibt man einen Custom Modifier?
-- CustomModifier auf die View anwenden
-- Wie schreibt man die Extension um den Custom modifier einfacher zu verwenden?
-
+- Wie schreibt man einen Custom Modifier? (Nur konzeptionell, nicht den genauen code)
 
 #learning unit#

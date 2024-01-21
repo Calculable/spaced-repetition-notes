@@ -27,8 +27,6 @@ for i in name.count {
 ```
 
 ## Zusammenfassung
-
-- Wie sind Strings gespeichert (z.B. ein Emoji)?
-- Was ist die Implikation davon?
+- Warum kann man nicht einfach mit einem Index auf einzelne Buchstaben in einem String zugreifen?
 
 #learning unit#

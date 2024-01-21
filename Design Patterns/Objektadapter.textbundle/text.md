@@ -22,11 +22,15 @@
 - **Vorteil**: Wenn man schon einen Adapter für eine Klasse hat, dann kann man diese Klasse auch gerade als Adapter für Unterklassen verwenden (z.B: mit Konfigurationsfile)
 - **Nachteil**: Auch wenn man eine Methode 1:1 weitergibt muss man ein paar Zeilen Code schreiben
 
+## Alternative
+Klassenadapter: [ulysses://x-callback-url/open?id=cN9T6fm1xsnv5o9Ed3NapA][1]
 
 ## Zusammenfassung
 - Zweck
 - Wie wird es implementiert?
 - Vorteile / Nachteile
+
+[1]:	ulysses://x-callback-url/open?id=cN9T6fm1xsnv5o9Ed3NapA
 
 [image-1]:	assets/DraggedImage.tiff
 

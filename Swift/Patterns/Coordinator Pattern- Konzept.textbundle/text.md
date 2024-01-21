@@ -41,6 +41,6 @@ class Coordinator {
 [2]:	https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios
 [3]:	ulysses://x-callback-url/open?id=hUsnlwGMzjbBDabk7JO25w
 
-[image-1]:	assets/DraggedImage.tiff
+[image-1]:	assets/DraggedImage.png
 
 #learning unit#

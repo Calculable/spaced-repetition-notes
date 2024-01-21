@@ -22,6 +22,6 @@ modelContext.insert(cruise)
 ```
 
 ## Zusammenfassung
-- Wie fügt man zwei verlinkte Objekte in der Datenbank ein? (Actor mit einem Array an Movies)
+- Wie fügt man zwei verlinkte Objekte in der Datenbank ein? (Actor und Movies in einer Many-to-Many Beziehung)
 
 #Daten #learning unit#

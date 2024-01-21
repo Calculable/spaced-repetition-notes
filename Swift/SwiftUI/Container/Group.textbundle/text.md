@@ -14,10 +14,4 @@ Group {
 ##  Zusammenfassung
 - Was ist ein Anwendungsfall für Group?
 
-
-init
-updateConstraints
-layout
-rener
-
 #learning unit#

@@ -4,8 +4,7 @@
 ## Beispiel
 
 ```swift
-"Beispiel: \(value, format: .fixed(precision: 2))"
-
+logger.info("Beispiel: \(value, format: .fixed(precision: 2))")
 ```
 
 ## Ausgabe

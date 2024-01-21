@@ -5,6 +5,8 @@
 ## Codebeispiel
 
 ```swift
+@State private var path: [Color] = []
+
 NavigationStack(path: $path) {
     List {
         NavigationLink("Purple", value: Color.purple)

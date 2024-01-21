@@ -1,25 +1,28 @@
 # Override Properties
 🖋️
 
-- Man kann nur Computed Properties overriden, keine Stored Properties!
-
+- Das Property der Subklasse muss natürlich ein Computed Property sein, sonst macht es keinen Sinn es zu überschreiben
 
 ```swift
-class Vehicle {
-	var speed: Int {
-		return 500
-	}
+class BaseClass {
+    var storedProperty: Int = 0
 }
 
-class Car: Vehicle {
-	override var speed: Int {
-		return 1000
-	}
+class SubClass: BaseClass {
+    override var storedProperty: Int {
+        get {
+            // Return some computed value here.
+            return super.storedProperty * 2
+        }
+        set {
+            // Optionally, you can also intercept the setting of the property.
+            super.storedProperty = newValue / 2
+        }
+    }
 }
 ```
 
 ## Zusammenfassung
-- Welche Properties können überschrieben werden?
 - Wie überschreibt man eine Property aus der Oberklasse?
 
 

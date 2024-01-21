@@ -19,7 +19,7 @@ Wenn man einfach nur das Protokoll zurückgeben würde, dann wäre zum Beispiel 
 
 
 ## Zusammenfassung
-Anwendung
-Zweck
+- Syntax
+- Was ist jetzt nicht mehr erlaubt?
 
 #learning unit#

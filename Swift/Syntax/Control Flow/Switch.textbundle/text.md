@@ -30,7 +30,7 @@ case 5..<12:
 
 
 ## Zusammenfassung
-Bestimmer Wert, Typ oder Muster matchen
+Bestimmer Wert, Typ oder Bedingung matchen
 
 
 
