@@ -12,18 +12,17 @@
 - **Mit Zwei Finger klicken**: Vorlesen anhalten / fortsetzen
 - **Mit drei Finger klicken**: Vorlesen, wo man sich in der Hierarchie befindet
 - **"Z"-Geste mit zwei Finger (Escape)**: Zurück navigieren
-- **Mit zwei Fingern dreifach klicken**: Item Chooser List
 - **Dreifach-Tippen**: Wie ein Long-Press oder Bildbeschreibung vorlesen
+- **Mit zwei Fingern dreifach klicken**: Item Chooser List (siehe Bild)
 
 ![][image-1]
 
 Siehe auch AccessibilityHandbook:
-![][image-2]
+
 
 ## Zusammenfassung
 - Wie navigiert man mit Voice Over? - Hervorheben, Auswählen, Scrollen, Aktion auswählen, Escape-Geste
 
 [image-1]:	assets/IMG_2636.PNG
-[image-2]:	assets/Bildschirmfoto%202024-01-30%20um%2021.45.46.jpeg
 
 #learning unit#

@@ -17,7 +17,7 @@ Jetzt kann man einfach nach unten oder oben Swipen um zu Adiditional Content zu 
 
 ## Custom Content in den User-Einstellungen aktivieren
 
-![][image-4]
+Voice Over -\> Verbosity -\> More Content
 
 ## UIKit
 
@@ -25,12 +25,12 @@ Accessibility Label enthält nur noch die minimalen Informationen:
 
 Zusätzlich implementiert man dieses Protokoll:
 
+![][image-4]
 ![][image-5]
-![][image-6]
 
 Man kann auch importance auf High setzen. Dann wird es immer vorgelesen (nicht im More Content sondern automatisch nach dem accessibility Label)
+![][image-6]
 ![][image-7]
-![][image-8]
 
 
 ## SwiftUI
@@ -168,10 +168,9 @@ Siehe: [https://a11y-guidelines.orange.com/en/mobile/ios/wwdc/2021/121/][1]
 [image-1]:	assets/Bildschirmfoto%202024-02-03%20um%2012.50.54.png
 [image-2]:	https://a11y-guidelines.orange.com/en/mobile/images/iOSdev/wwdc21-121-Using1.png
 [image-3]:	assets/Bildschirmfoto%202024-02-03%20um%2012.52.24.png
-[image-4]:	https://a11y-guidelines.orange.com/en/mobile/images/iOSdev/wwdc21-121-Using3.png
-[image-5]:	assets/Bildschirmfoto%202024-02-03%20um%2012.56.28.png
-[image-6]:	assets/Bildschirmfoto%202024-02-03%20um%2012.55.42.png
-[image-7]:	assets/Bildschirmfoto%202024-02-03%20um%2012.58.50.png
-[image-8]:	assets/Bildschirmfoto%202024-02-03%20um%2012.59.04.png
+[image-4]:	assets/Bildschirmfoto%202024-02-03%20um%2012.56.28.png
+[image-5]:	assets/Bildschirmfoto%202024-02-03%20um%2012.55.42.png
+[image-6]:	assets/Bildschirmfoto%202024-02-03%20um%2012.58.50.png
+[image-7]:	assets/Bildschirmfoto%202024-02-03%20um%2012.59.04.png
 
 #learning unit#
