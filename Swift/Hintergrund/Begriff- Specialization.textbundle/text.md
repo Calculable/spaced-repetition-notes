@@ -21,7 +21,7 @@ count([1, 2, 3])
 count([1.5, 2.5, 3.5])
 ```
 
-Wenn man statt Generics mit Existantial Types arbeitet ist das nicht möglich (dynamic dispatch statt static dispatch) - deshalb sind existantial types zur Laufzeit weniger schnell als Generics.
+Wenn man statt Generics mit Existantial Types (any) arbeitet ist das nicht möglich (dynamic dispatch statt static dispatch) - deshalb sind existantial types zur Laufzeit weniger schnell als Generics.
 
 ## Zusammenfassung
 - Was bedeutet der Begriff?

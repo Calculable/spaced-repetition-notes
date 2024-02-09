@@ -4,7 +4,7 @@
 ## Traits auslesen
 
 ```swift
-raitCollection.verticalSizeClass == .Compact
+traitCollection.verticalSizeClass == .Compact
 ```
 
 

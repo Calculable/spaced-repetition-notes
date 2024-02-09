@@ -15,9 +15,9 @@ struct Response: Codable {
 func loadData() async throws {
 	let url = URL(string: "https://itunes.apple.com/search?term=taylor+swift&entity=song")! //beachte: force unwrap
 
-	let (data, _) = try await URLSession.shared.data(from: url)
+	let (data, response) = try await URLSession.shared.data(from: url)
 
-	//jetzt kann man die Daten decodieren
+	//jetzt kann man die Daten decodieren. Die Response enthält headers, status code etc.
 }
 ```
 
@@ -25,7 +25,6 @@ func loadData() async throws {
 ## Zusammenfassung
 - Api-Zugrif: Die Funktion ist… ?
 - Protokoll für die Modelklassen
-- URL erzeugen
 - Daten empfangen
 
 

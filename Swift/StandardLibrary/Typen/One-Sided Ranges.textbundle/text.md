@@ -7,9 +7,12 @@ Erste drei Items eines Arrays auslesen:
 
 ```swift
 let bigParts = characters[..<3]
+
+//alternativ
+let bigParts = characters[...2]
 ```
 
-Letzte drei Items eines Arrays auslesen:
+Alles nach den ersten drei Elementen in einem Array lesen
 
 ```swift
 let smallParts = characters[3...]

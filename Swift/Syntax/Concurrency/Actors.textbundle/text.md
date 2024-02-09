@@ -46,6 +46,6 @@ actor User {
 - Zweck
 - Code
 - Was ist Actor Isolation?
-- Wo sollte man Custom Actors nicht einsetzen?
+
 
 #learning unit#

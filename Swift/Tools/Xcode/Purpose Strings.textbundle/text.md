@@ -15,5 +15,8 @@ Hier zum Beispiel für Schreibrechte in die Fotolibrary:
 - „Privacy - Photo Library Additions Usage Description“
 - Beispiel Purpose String “We need to save photos you like.”
 
+## Zusammenfassung
+- Weshalb braucht man Purpose Strings?
+- Wie erfasst man einen Purpose String?
 
 #learning unit#

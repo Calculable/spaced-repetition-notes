@@ -2,9 +2,11 @@
 ↔️
 
 - Das wird auf einer View aufgerufen
-- Damit benötigt die View genau den minimalen Platz, den es für seinen Inhalt braucht
+- Damit benötigt die View genau den minimalen Platz, den es für seinen Inhalt braucht damit alles dargestellt werden kann
 - Das ist vor allem dann sinnvoll, wenn man nicht weiss, wie gross das Element sein soll weil es zum Beispiel Text enthält
 - Tipp: Nicht verwechseln mit dem `.fixedSize()` Modifier von SwiftUI
+- Es passt nur das Frame in der Hähe und Breite an, es verändert nicht die position
+- `sizeToFit` respektiert die Constraits die man gesetzt hat. Falls es einen Konflikt gibt, dann gewinnen die Constraints
 
 
 ## Beispiel
@@ -38,6 +40,8 @@ class ViewController: UIViewController {
 =\> Hier weiss man nicht im Vorfeld, wie gross das Label sein soll. Mit `sizeToFit` wird die Höhe dann automatisch gesetzt. 
 
 - Man muss es auch nicht bei jeder Screenänderung mehr aufrufen (zum Beispiel wenn der Screen rotiert wird)
+
+## Weitere erklärung
 
 ##  Zusammenfassung
 - Was macht die Funktion?

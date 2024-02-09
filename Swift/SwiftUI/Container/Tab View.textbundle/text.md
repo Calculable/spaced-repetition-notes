@@ -52,6 +52,6 @@ Jetzt kann man einfach `selectedTab` ändern.
 
 ##  Zusammenfassung
 - Wie macht man eine Tab View?
-- Wie schaltet man Programmatisch zwischen den Tabs um?
+
 
 #learning unit#

@@ -20,12 +20,9 @@ Wenn der Rückgabewert uns nicht interessiert, kann man den Task noch einfacher 
 
 
 ```swift
-.task {
-    Task {
-        let url = URL(string: "https://myservice.ch/news.json")!
-        inbox = try await URLSession.shared.decode([Article].self, from: url)
-    }
-
+Task {
+    let url = URL(string: "https://myservice.ch/news.json")!
+    inbox = try await URLSession.shared.decode([Article].self, from: url)
 }
 ```
 

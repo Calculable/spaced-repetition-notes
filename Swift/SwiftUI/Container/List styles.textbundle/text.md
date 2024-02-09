@@ -16,7 +16,7 @@ Ich sehe keinen visuellen Unterschied zwischen diesen beiden
 ![][image-1]
 
 ## grouped / insetGrouped
-![][image-2] ![][image-3]
+![][image-2]![][image-3]
 
 ## sidebar
 
@@ -25,7 +25,7 @@ Hier kann man einzelne Sections ein- und ausblenden
 
 ## Zusammenfassung
 - Wie wird der List-Style festgelegt?
-- Wie sehen die folgenden Styles aus: insetGrouped, grouped, inset, plain, sidebar
+- Wie sehen die folgenden Styles aus: plain=inset, grouped + insetGrouped, Sidebar
 
 [image-1]:	assets/swiftui-list-style-inset.png
 [image-2]:	assets/swiftui-list-style-grouped.png

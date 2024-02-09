@@ -27,7 +27,7 @@ var title: String {
 
 
 ## Zusammenfassung
-- Wie kann man MVVM pragmatisch einsetzen?
+- (Lesen)
 - Wie ist der offizielle Support für MVVM?
 - Was sollte man tun, wenn man MVVM nicht einsetzt?
 

@@ -6,7 +6,7 @@
 4. **draw()** 
 
 ## Zusammenfassung
-- Welche 4 Autolayout Phasen gibt es für eine View?
+- Welche 3 Autolayout Phasen gibt es für eine View?
 
 [1]:	ulysses://x-callback-url/open?id=HEFKxTk2AqNO3jGP623L7w
 [2]:	ulysses://x-callback-url/open?id=lQ7zlDjdvlqxW-fLg63Xhg

@@ -9,7 +9,7 @@ imageView.layer.borderWidth = 2
 imageView.layer.cornerRadius = 3
 ```
 
-Beachte: Man verwendet `cgColors`, weil der `CYLayer` eine Abstraktionsschicht tiefer ist.
+Beachte: Man verwendet `cgColors`, weil der `CALayer` eine Abstraktionsschicht tiefer ist.
 
 ##  Zusammenfassung
 - Wozu ist der CALayer gut? (keine Details)
