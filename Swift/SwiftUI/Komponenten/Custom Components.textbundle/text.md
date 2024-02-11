@@ -12,7 +12,7 @@ struct CapsuleText: View {
         Text(text)
             .font(.largeTitle)
             .padding()
-            .foregroundColor(.white)
+            .foregroundColor(.white) //neu: foregroundStyle
             .background(.blue)
             .clipShape(Capsule())
     }

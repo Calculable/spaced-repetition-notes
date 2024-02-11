@@ -23,7 +23,7 @@ var body: some View {
             Circle()
                 .matchedGeometryEffect(id: "shape", in: namespace)
                 .frame(maxWidth: .infinity, maxHeight: 300)
-                .foregroundColor(.yellow)
+                .foregroundColor(.yellow) //neu: foregroundStyle
         }
     }
     .onTapGesture {

@@ -14,7 +14,7 @@
 
 ## Details
 
-Siehe Zusammenfassung "Date Formatter"
+Siehe Zusammenfassung "Date Formatter Details"
 
 ## Zusammenfassung
 

@@ -9,16 +9,16 @@ struct ContentView: View {
     var message1: AttributedString {
         var result = AttributedString("Hello")
         result.font = .largeTitle
-        result.foregroundColor = .white
-        result.backgroundColor = .red
+        result.foregroundColor = .white //neu: foregroundStyle
+        result.backgroundColor = .red //neu: backgroundStyle
         return result
     }
 
     var message2: AttributedString {
         var result = AttributedString("World!")
         result.font = .largeTitle
-        result.foregroundColor = .white
-        result.backgroundColor = .blue
+        result.foregroundColor = .white //neu: foregroundStyle
+        result.backgroundColor = .blue //neu: backgroundStyle
         return result
     }
 

@@ -57,7 +57,7 @@ struct DogCell: View {
                     Text(dog.description)
                         .fixedSize(horizontal: false, vertical: true)
                         .font(.subheadline)
-                        .foregroundColor(Color(uiColor: UIColor.brown))
+                        .foregroundColor(Color(uiColor: UIColor.brown)) //neu: foregroundStyle
                         .accessibilityHidden(true)
                 }
                 Spacer()
@@ -74,7 +74,7 @@ struct DogCell: View {
                         Spacer()
                         Text(dog.height)
                     }
-                    .foregroundColor(Color(uiColor: UIColor.darkGray))
+                    .foregroundColor(Color(uiColor: UIColor.darkGray)) //neu: foregroundStyle
                     .accessibilityHidden(true)
                 }
                 Spacer()
@@ -121,7 +121,7 @@ struct DogCell: View {
                     Text(dog.description)
                         .fixedSize(horizontal: false, vertical: true)
                         .font(.subheadline)
-                        .foregroundColor(Color(uiColor: UIColor.brown))
+                        .foregroundColor(Color(uiColor: UIColor.brown)) //neu: foregroundStyle
                         .accessibilityHidden(true)
                 }
                 Spacer()
@@ -138,7 +138,7 @@ struct DogCell: View {
                         Spacer()
                         Text(dog.height)
                     }
-                    .foregroundColor(Color(uiColor: UIColor.darkGray))
+                    .foregroundColor(Color(uiColor: UIColor.darkGray)) //neu: foregroundStyle
                     .accessibilityHidden(true)
                 }
                 Spacer()

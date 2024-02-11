@@ -21,7 +21,7 @@ Siehe auch AccessibilityHandbook:
 
 
 ## Zusammenfassung
-- Wie navigiert man mit Voice Over? - Hervorheben, Auswählen, Scrollen, Aktion auswählen, Escape-Geste
+- Wie navigiert man mit Voice Over? - Hervorheben, Auswählen, Scrollen, Custom Action auswählen, Escape-Geste
 
 [image-1]:	assets/IMG_2636.PNG
 

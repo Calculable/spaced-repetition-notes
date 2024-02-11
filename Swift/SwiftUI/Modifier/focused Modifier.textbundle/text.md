@@ -14,9 +14,11 @@ TextField("Enter your phone number", text: $phoneNumber)
 
 Hinweis: In UIKit macht man dies mit `resignFirstResponder()`
 
-Details (zum Beispiel Fokus mit mehreren Feldern managen - siehe hier: 
-[https://www.hackingwithswift.com/plus/hacking-with-swift-live-2021/swipe-actions-markdown-and-focus][1])
+Details (zum Beispiel Fokus mit mehreren Feldern managen): 
+- [https://www.hackingwithswift.com/plus/hacking-with-swift-live-2021/swipe-actions-markdown-and-focus][1]
+- [https://www.hackingwithswift.com/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield][2]
 
 [1]:	https://www.hackingwithswift.com/plus/hacking-with-swift-live-2021/swipe-actions-markdown-and-focus
+[2]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield
 
 #learning unit#

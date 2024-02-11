@@ -6,7 +6,7 @@
 - Wenn nicht, bleibt es `nil`
 
 ```swift
-.foregroundColor(viewModel.color.map { Color($0) } ?? .clear)
+.foregroundColor(viewModel.color.map  //neu: foregroundStyle{ Color($0) } ?? .clear)
 ```
 
 ## Zusammenfassung

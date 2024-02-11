@@ -19,7 +19,7 @@ Jetzt kann man die Farbe der Symbols selbst anpassen:
 ```swift
 Image("dot_green")
     .renderingMode(.template)
-	.foregroundColor(.ubw_orange)
+	.foregroundColor(.ubw_orange) //neu: foregroundStyle
 ```
 
 Man kann es auch direkt in XCode definieren:

@@ -8,7 +8,7 @@ struct Title: ViewModifier {
     func body(content: Content) -> some View {
         content
             .font(.largeTitle)
-            .foregroundColor(.white)
+            .foregroundColor(.white) //neu: foregroundStyle
             .padding()
             .background(.blue)
             .clipShape(RoundedRectangle(cornerRadius: 10))
