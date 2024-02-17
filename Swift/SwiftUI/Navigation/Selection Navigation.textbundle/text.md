@@ -1,7 +1,28 @@
 # Selection Navigation
 🧭
 
-## Codebeispiel
+
+## Vorlage
+
+
+```swift
+struct ContentView: View {
+    let colors: [Color] = [.red, .green, .blue, .orange, .purple, .yellow]
+
+    @State private var selection: Color?
+
+    var body: some View {
+        NavigationSplitView {
+			//....
+        }
+	}
+}
+```
+
+
+![][image-1]
+
+## Lösung
 
 ```swift
 struct ContentView: View {
@@ -25,7 +46,6 @@ struct ContentView: View {
 }
 ```
 
-![][image-1]
 
 ## Zusammenfassung
 - Codebeispiel mit einer Navigation Split View

@@ -7,7 +7,7 @@
 - Dies geschieht **Top-Down ** (zuerst Superview und dann subview)
 - Hier kann man Konfigurationen definieren, welche von der Grösse der View abhängen.
 - Für UIController gibt es hingegen `viewWillLayoutSubviews` und `viewDidLayoutSubviews`
-
+- Meistens muss man das nicht anpassen, ausser man hat sehr komplexe UI's so dass Standart Constraints nicht mehr ausreichen
 
 ## Beispiel
 
@@ -32,9 +32,12 @@ override func layoutSubviews() {
 	- Vorsicht, wenn man hier Constraints in der aktuellen Hierarchie bearbeitet. =\> Dadurch wird ein Update-Step aufgerufen und anschliessend wieder ein Layout-Step (es braucht also eine Abbruch-Bedingung)
 
 ##  Manuell aufrufen
-
-- Wird durch `setNeedsLayout()` und anschliessend mit `layoutIfNeeded()` aufgerufen.
-
+- `layoutSubviews()` sollte man nicht manuell aufrufen.
+- Das Layout wird automatisch invalidiert wenn man constraints hinzufügt oder entfernt oder views zur Hierarchie hinzufügt oder entfernt
+- Beim nächsten Layout Pass wird es dan neu berechnet
+- Wenn man es aber trotzdem manuell auslösen muss:
+	- Zuerst `setNeedsLayout()` zum invalidieren und anschliessend `layoutIfNeeded()` aufgerufen.
+	- Meistens möchte man dass, wenn man sofort ein Resultat benötigt, z.B. weil man sofort das neue Frame der View kennen muss
 ##  Zusammenfassung
 - Wann ruft das System die Methode auf?
 - Wozu kann man es nutzen?

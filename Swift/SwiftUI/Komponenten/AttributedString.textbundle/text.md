@@ -1,6 +1,7 @@
 # AttributedString
 💬
 
+## Beispiel
 So kann man mehrere Strings miteinander kombinieren mit unterschiedlichen Styling:
 
 ```swift
@@ -9,16 +10,16 @@ struct ContentView: View {
     var message1: AttributedString {
         var result = AttributedString("Hello")
         result.font = .largeTitle
-        result.foregroundColor = .white //neu: foregroundStyle
-        result.backgroundColor = .red //neu: backgroundStyle
+        result.foregroundColor = .white 
+        result.backgroundColor = .red 
         return result
     }
 
     var message2: AttributedString {
         var result = AttributedString("World!")
         result.font = .largeTitle
-        result.foregroundColor = .white //neu: foregroundStyle
-        result.backgroundColor = .blue //neu: backgroundStyle
+        result.foregroundColor = .white
+        result.backgroundColor = .blue
         return result
     }
 
@@ -28,11 +29,35 @@ struct ContentView: View {
 }
 ```
 
+![][image-1]
+
+## Markdown
+
+```swift
+var message1: AttributedString {
+    try! AttributedString(markdown:"**Thank you!** Please visit our
+[website](https://example.com)")
+}
+```
+
+![][image-2]
+
+##  Hinweise
 Hinweis: Wahrscheinlich wird in diesem Codebeispiel das Computed Property verwendet, weil ansonsten der Rückgabewert eine Background Color ist und nicht ein Attributed String...
 
 Beachte: Die Syntax ist nicht deklarativ!
 
-## Wo kann es besonders sinnvoll sein?
+
+## Was kann man sonst noch machen?
+- Einzelne Buchstaben indivisuell anpassen (z.B. rotation etc.)
+- Links machen
+- Es gibt unzählige weitere Möglichkeiten
+![][image-3]
+
+> **Aber Vorsicht**  If you explore the API using Xcode’s autocomplete, you’ll see all sorts of options that look like they ought to work but in fact do nothing at all.
+
+
+## Einsatz in Accessibility
 
 Zum Beispiel für Accessibility, damit man nicht immer die gleiche Information wiederholen muss
 
@@ -47,10 +72,6 @@ Zum Beispiel für Accessibility, damit man nicht immer die gleiche Information w
         Text(message)
     }
 ```
-
-## Was kann man sonst noch machen?
-- Einzelne Buchstaben indivisuell anpassen (z.B. rotation etc.)
-- Links machen
 
 ## Alternative
 
@@ -70,9 +91,12 @@ Quelle: [How to add advanced text styling using AttributedString - a free SwiftU
 
 Weiterführende Informationen: [https://www.hackingwithswift.com/plus/hacking-with-swift-live-2021/finishing-up][2]
 
-## Warnung
 
-> **Warning:**  If you explore the API using Xcode’s autocomplete, you’ll see all sorts of options that look like they ought to work but in fact do nothing at all.
+## Siehe auch
+
+NSAttributedString für UIKit: 
+[ulysses://x-callback-url/open?id=gisvDKbD3jslOvmFiTCkbw][3]
+
 
 ## Zusammenfassung
 - (kein Code)
@@ -83,5 +107,10 @@ Weiterführende Informationen: [https://www.hackingwithswift.com/plus/hacking-wi
 
 [1]:	https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring
 [2]:	https://www.hackingwithswift.com/plus/hacking-with-swift-live-2021/finishing-up
+[3]:	ulysses://x-callback-url/open?id=gisvDKbD3jslOvmFiTCkbw
+
+[image-1]:	assets/Bildschirmfoto%202024-02-12%20um%2007.35.05.png
+[image-2]:	assets/Bildschirmfoto%202024-02-12%20um%2007.37.47.png
+[image-3]:	assets/Bildschirmfoto%202024-02-12%20um%2007.41.25.png
 
 #learning unit#

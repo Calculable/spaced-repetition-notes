@@ -38,6 +38,10 @@ Es gibt noch weitere, zum Beispiel: `.isSelected`
 ### Button
 - Element kann über Doppelklick aktiviert werden
 
+### isToggle
+Wird so vorgelesen:
+"Switch Button, Double Tab to toggle setting"
+
 ### Header
 - Damit kann man über den Rotor direkt die Header-Elemente anspringen
 

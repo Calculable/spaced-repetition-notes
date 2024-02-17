@@ -1,12 +1,9 @@
-# Grösse von Elementen (Begriffe)
+# Content Hugging und Compression Resistance
 ↕️
 
 ## Theorie
 
-- **Intrinsic Content Size**: "die natürliche Grösse"
-
-> Wenn man eine Intrinsic Content Size hat (wie bei einem Label) dann muss man Height und Width nicht festlegen. Beachte: Text-Länge kann sich ändern und auch die Text-Grösse.
-
+- **Intrinsic Content Size**: "die natürliche Grösse". Details: [ulysses://x-callback-url/open?id=QI0hpMFrXUpqEpjZRzsK1Q][1]
 - **Content Compression Resistance**: wir stark will das Objekt nicht kleiner werden
 - **Content Hugging**: wie stark will das Objekt nicht wachsen („hält sich zusammen“)
 
@@ -62,11 +59,16 @@ Es findet also Compression statt. Entweder muss das Bild oder der Text komprimie
 
 Die Grösse des Bildes bleibt die gleiche. Merke: Es gibt keine „Teilgewinner“.
 
+## Quelle
+- Empfehlenswerter Blogpost: [https://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/][2]
 ## Zusammenfassung
 - Begriff für "natürliche Grösse"
 - Begriff für "wir stark will es nicht wachsen"
 - Begriff für "wie stark will es nicht schrumpfen"
 - Was sind die Default-Werte?
+
+[1]:	ulysses://x-callback-url/open?id=QI0hpMFrXUpqEpjZRzsK1Q
+[2]:	https://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/
 
 [image-1]:	assets/Bildschirmfoto%202021-09-11%20um%2012.56.52.png
 [image-2]:	assets/Bildschirmfoto%202021-09-11%20um%2012.54.21.png
