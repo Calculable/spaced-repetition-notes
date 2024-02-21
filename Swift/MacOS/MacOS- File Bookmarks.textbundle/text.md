@@ -58,7 +58,7 @@ catch let error {
 ```
 
 
-## Zusamenfassung
+## Zusammenfassung
 - Wozu sind Bookmarks sinvoll
 - Bleiben Bookmarks bei App-Neustart oder System-Neustart gültig?
 

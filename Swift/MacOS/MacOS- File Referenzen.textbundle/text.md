@@ -25,9 +25,9 @@ let url = URL(string: "file:///.file/id=6571367.4836566")
 print(url!.absoluteString) //Gibt den Orginal-Pfad aus
 ```
 
-## Zusamenfassung
-- Wozu sind Bookmarks sinvoll (nur Konzept)
-- Bleiben Bookmarks bei App-Neustart oder System-Neustart gültig?
+## Zusammenfassung
+- Wozu sind File-Referenzen sinvoll (nur Konzept)
+- Bleiben File-Referenzen bei App-Neustart oder System-Neustart gültig?
 
 [1]:	ulysses://x-callback-url/open?id=zr-47PCr9lYP_cfVv70QDw
 

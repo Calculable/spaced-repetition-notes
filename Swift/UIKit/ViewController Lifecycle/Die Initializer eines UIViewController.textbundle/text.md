@@ -17,10 +17,6 @@ required init?(coder aDecoder: NSCoder) {
 convenience init() {
     self.init(nibName: nil, bundle: nil)
 }
-
-override init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: Bundle?) {
-    super.init(nibName: nibNameOrNil, bundle: nibBundleOrNil)
-}
 ```
 
 Beachte: Es gibt keinen Frame initializer, das ist bei der UIView der Fall! ([ulysses://x-callback-url/open?id=X4JD4oVg-Jl8eatoXKCOqg][1])
