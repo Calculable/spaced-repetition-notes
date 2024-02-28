@@ -26,7 +26,7 @@ Man verwendet die folgende Formel
 ```
 
 ## Zusammenfassung
-- Wie funktioniert der SVERWEIS in Excel?
+- Wie funktioniert der SVERWEIS in Excel? (Nur Konzept)
 
 [image-1]:	assets/Bildschirm%C2%ADfoto%202023-03-14%20um%2009.52.33.png
 [image-2]:	assets/Bildschirm%C2%ADfoto%202023-03-14%20um%2009.54.48.png

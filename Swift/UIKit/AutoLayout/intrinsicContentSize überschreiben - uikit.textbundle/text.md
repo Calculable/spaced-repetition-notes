@@ -16,7 +16,7 @@ class BaseButton: UIButton {
 
 ## Tipp: Wenn man nur eine Dimension hat
 
-- Wenn man nur eine intrinsicContentSize für eine Dimension hat, dann kann man für die andere Dimension `UIViewNoIntrinsicMetric` zurückgeben.
+- Wenn man nur eine intrinsicContentSize für eine Dimension hat, dann kann man für die andere Dimension `UIView.noIntrinsicMetric` zurückgeben.
 
 ##  Intrinsic Content Size
 

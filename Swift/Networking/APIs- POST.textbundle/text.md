@@ -22,7 +22,7 @@ func placeOrder() async throws {
 	request.httpMethod = "POST"
 
 	
-	let (data, _) = try await URLSession.shared.upload(for: request, from: jsonString)
+	let (data, _) = try await URLSession.shared.uploadTask(for: request, from: jsonData)
 }
 ```
 

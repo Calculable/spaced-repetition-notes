@@ -1,4 +1,4 @@
-# Combine: Pipeline
+# Combine: Pipeline mit Operators
 🔀
 
 ## Eine Pipeline aufsetzen
@@ -20,7 +20,7 @@ let publisher2 = publisher1
 
 - Wenn man jetzt Werte in den `Publisher1` gibt, kommen sie bei `Publisher2` transformiert heraus.
 
-## Flat Map
+## Beispiel: Flat Map
 - Wenn ein Publisher einen einen Wert transformiert und das Resultat ein anderer Publisher ist, kann man `flatMap` verwenden damit man nur die Daten empfängt und nicht publisher Instanzen:
 
 ```swift
@@ -31,25 +31,20 @@ let xy = URLPublisher.flatMap { requestURL in
 }
 ```
 
-## Completion
-
-### Mit letztem Wert terminieren
+## Beispiel: Mit einem Property weiterarbeiten
 
 ```swift
-subject.send("Hello!")
-subject.send("Hello again!")
-subject.send("Hello for the last time!")
-subject.send(completion: .finished)
-subject.send("Hello?? :(") //wird nicht mehr gesendet
+publisher //publisher of MyClass
+	.publisher(for: \.title) //publisher of String
 ```
 
-### Mit einem Fehler abschliessen
+##  Weitere Operators
 
-```swift
-subject.send(completion: .failure(.somethingWentWrong))
-```
+![][image-1]
 
 ## Zusammenfassung
 - Wie kann man mit Combine Pipelines bauen? (ohne Details)
+
+[image-1]:	assets/Bildschirmfoto%202024-02-21%20um%2015.49.20.png
 
 #learning unit#

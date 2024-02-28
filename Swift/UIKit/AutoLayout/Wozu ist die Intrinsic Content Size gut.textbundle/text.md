@@ -4,14 +4,14 @@
 - Autolayout muss von einer View X, Y, Höhe und Breite kennen
 - Durch die Intrinsic Content Size braucht man weniger Constraints
 	- Beispiel: \> „place this button 20 points from the top and center it horizontally” and that’s enough“
-- Das System erzeugt automatisch einen optionalen Constraint für die intrinsic content Size
+- Das System erzeugt automatisch einen optionalen Constraint für die intrinsic content Size - **Das ist ein sehr hilfreiches mentales Model **
 	- Das bedeutet auch: Wenn man einen eigene Constraints setzt kann die Intrinsic Content Size ignoriert werden, wenn man das möchte
 	- Genau genommen sind es zwei Constraints
 
 ![][image-1]
 (Quelle: [https://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/][1])
 
-- Die  Priorität dieser System-Constraints kann mit Content Hugging und Compression Resistance gesteuert werden
+**- Die  Priorität dieser System-Constraints kann mit Content Hugging und Compression Resistance gesteuert werden**
 ## Beispiele
 
 |                  |              | Intrinsic Content Size?                                                 |

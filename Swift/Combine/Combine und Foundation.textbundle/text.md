@@ -17,6 +17,9 @@ NotificationCenter.default.publisher(
 )
 ```
 
+- Output: Notification
+- Failure: Never
+
 ##  Timer
 
 ```swift

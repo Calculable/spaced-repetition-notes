@@ -7,6 +7,8 @@
 - **Content Compression Resistance**: wir stark will das Objekt nicht kleiner werden
 - **Content Hugging**: wie stark will das Objekt nicht wachsen („hält sich zusammen“)
 
+=\> Man kann es sich wie Constraints für die Intrinsic Content Size vorstellen (siehe [ulysses://x-callback-url/open?id=QI0hpMFrXUpqEpjZRzsK1Q][2])
+
 
 ## Gröse im Code setzen
 
@@ -60,7 +62,7 @@ Es findet also Compression statt. Entweder muss das Bild oder der Text komprimie
 Die Grösse des Bildes bleibt die gleiche. Merke: Es gibt keine „Teilgewinner“.
 
 ## Quelle
-- Empfehlenswerter Blogpost: [https://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/][2]
+- Empfehlenswerter Blogpost: [https://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/][3]
 ## Zusammenfassung
 - Begriff für "natürliche Grösse"
 - Begriff für "wir stark will es nicht wachsen"
@@ -68,7 +70,8 @@ Die Grösse des Bildes bleibt die gleiche. Merke: Es gibt keine „Teilgewinner�
 - Was sind die Default-Werte?
 
 [1]:	ulysses://x-callback-url/open?id=QI0hpMFrXUpqEpjZRzsK1Q
-[2]:	https://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/
+[2]:	ulysses://x-callback-url/open?id=QI0hpMFrXUpqEpjZRzsK1Q
+[3]:	https://mischa-hildebrand.de/en/2017/11/the-auto-layout-comprehendium/
 
 [image-1]:	assets/Bildschirmfoto%202021-09-11%20um%2012.56.52.png
 [image-2]:	assets/Bildschirmfoto%202021-09-11%20um%2012.54.21.png

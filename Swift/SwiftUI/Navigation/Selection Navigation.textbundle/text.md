@@ -14,8 +14,10 @@ struct ContentView: View {
     var body: some View {
         NavigationSplitView {
 			//....
+        } detail: {
+            //....
         }
-	}
+    }
 }
 ```
 

@@ -3,7 +3,7 @@
 
 ## Dokumentation generieren
 
-`⌘ - ⌥ - 7` (⌘ - |)
+`⌘ - ⌥ - 7` (⌘ - Gerader-Strich)
 
 (Direkt vor dem Funktionskopf drücken)
 
