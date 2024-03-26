@@ -10,6 +10,9 @@ Image("Example")
     .frame(width: 300, height: 300) //funktioniert nicht wie gewünscht
 ```
 
+![][image-1]
+
+
 ## Clip
 Man kann das ganze „clippen“, dann wird es aber beschnitten:
 
@@ -19,7 +22,7 @@ Image("Example")
     .clipped()
 ```
 
-![][image-1]
+![][image-2]
 
 ##  Resize
 
@@ -31,7 +34,7 @@ Image("Example")
     .frame(width: 300, height: 300)
 ```
 
-![][image-2]
+![][image-3]
 
 Es gibt aber diverse Modifiiers, die man anwenden kann: 
 
@@ -45,7 +48,8 @@ Es gibt aber diverse Modifiiers, die man anwenden kann:
 - Wie geht man sicher dass ein Bild nicht gequetscht wird und nicht über das Frame herausragt?
 
 
-[image-1]:	assets/Bildschirmfoto%202022-07-26%20um%2012.51.37.png
-[image-2]:	assets/Bildschirmfoto%202022-07-26%20um%2012.52.03.png
+[image-1]:	assets/2024-03-23%2013.14.48.gif
+[image-2]:	assets/Bildschirmfoto%202022-07-26%20um%2012.51.37.png
+[image-3]:	assets/Bildschirmfoto%202022-07-26%20um%2012.52.03.png
 
 #learning unit#

@@ -1,4 +1,4 @@
-# UITableView: Minimales Beispiel 
+# UITableView: Minimales Beispiel
 🍽️
 
 ![][image-1]
@@ -43,7 +43,7 @@ Beachte: Man gibt auch einen Index mit (das wird intern benötigt)
 	- Data Soruce etc.
 
 ##  Zusammenfassung
-- Welche drei Dinge muss eine Table View machen (ohne separate Data Source)
+- Welche drei Dinge muss eine Table View machen (ohne Code, ohne separate Data Source)
 
 [image-1]:	assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-12-06%20at%2008.43.05.png
 [image-2]:	assets/Bildschirmfoto%202021-09-03%20um%2014.47.45.png

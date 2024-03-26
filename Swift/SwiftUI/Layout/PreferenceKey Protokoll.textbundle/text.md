@@ -51,7 +51,17 @@ Rectangle()
 ```
 
 ## Werte vom Geometry Reader auslesen
-Meistens gibt man hier die Werte eines Geometry readers zurück. Damit der Geometry Reader aber nicht den gesamten Platz einnimmt, wird häufig ein Geometry Reader innerhalb einer `.background`-Property verwendet.
+Meistens gibt man hier die Werte eines Geometry readers zurück. Damit der Geometry Reader aber nicht den gesamten Platz einnimmt, wird häufig ein Geometry Reader innerhalb einer `.background`-Property verwendet:
+
+```
+myView
+    .background(GeometryReader { geometry in
+    Color.clear.preference(
+        key: ButtonWidthPreferenceKey.self,
+        value: geometry.size.width
+    )
+})
+```
 
 =\> Eine Elegantere Lösung: `Anchor Preferences` (siehe separates Kapitel)
 

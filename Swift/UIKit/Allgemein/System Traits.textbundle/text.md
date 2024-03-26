@@ -48,6 +48,9 @@ oder wen man es animieren möchte:
 willTransitionToTraitCollection(_:withTransitionCoordinator:)
 ```
 
+###  Vergleich mit vorheriger Trait Collection
+
+Häufig verwendet man z.B. `previousTraitCollection?.hasDifferentColorAppearance(comparedTo: traitCollection)` =\> Zum Beispiel wenn man entscheiden muss, ob man neue Farben für darkmode / lightmode setzen will....
 
 
 ## Welche Traits sind verfügbar?

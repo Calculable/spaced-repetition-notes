@@ -18,9 +18,7 @@ await withTaskGroup(of: Int.self) { group -> Int in
         }
     }
     
-    return await group.reduce(0) {
-        $0 + $1
-    }
+    return await group.reduce(0, (+))
 }
 ```
 

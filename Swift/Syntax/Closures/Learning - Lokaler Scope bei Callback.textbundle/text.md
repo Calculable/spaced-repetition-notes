@@ -10,7 +10,7 @@ class SomeClass {
 
 ```swift
 class MyHelper {
-	private func doSomething() {
+	private func doANetworkingTask() {
 		doSomeNetworking(callback: { [weak self] result in
 			//self will be nil here
 		})

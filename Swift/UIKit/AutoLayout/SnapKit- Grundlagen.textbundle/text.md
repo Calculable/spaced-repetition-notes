@@ -12,13 +12,16 @@ let box = UIView()
 superview.addSubview(box)
 
 box.snp.makeConstraints { (make) -> Void in
+	make.edges.equalToSuperview().inset(20)
+	
+	// Alternative
+	make.edges.equalTo(superview).inset(UIEdgeInsets(top: 20, left: 20, bottom: 20, right: 20))
+
+	//Alternative
     make.top.equalTo(superview).offset(20)
     make.left.equalTo(superview).offset(20)
     make.bottom.equalTo(superview).offset(-20)
     make.right.equalTo(superview).offset(-20)
-
-	//kürzere Alternative
-	make.edges.equalTo(superview).inset(UIEdgeInsets(top: 20, left: 20, bottom: 20, right: 20))
 }
 ```
 

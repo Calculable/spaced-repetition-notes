@@ -53,9 +53,7 @@ MyCustomRow(namespace: namespace)
 ```
 
 ##  Zusammenfassung
-- Wozu ist das gut?
-- wie kommt man zum Namespace
-- Anwendung
+- Wozu ist das gut? (Nur Konzept, kein Code)
 
 [image-1]:	assets/2023-03-30%2008.45.31.gif
 
