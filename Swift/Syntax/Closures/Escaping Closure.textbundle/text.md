@@ -22,7 +22,7 @@ func onComplete(_ closure: @escaping () -> Void) {
 - Wenn eine Funktion eine andere Funktion zurückgibt (Higher Order Functions)
 
 
-- Man muss das angeen für das Memory Management des Systems
+- Man muss das angeben für das Memory Management des Systems
 
 ## Diese Regeln werden durch den Compiler "entforced":
 

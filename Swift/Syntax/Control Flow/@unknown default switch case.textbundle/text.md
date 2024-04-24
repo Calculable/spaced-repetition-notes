@@ -14,7 +14,7 @@ case .second:
 ```
 
 
-Der Vorteil davon: Wenn neue Enums dazu kommen, dann gibt es keine Fehlermeldung im Code.
+Der Vorteil davon: Wenn neue Enums dazu kommen, dann gibt es eine Fehlermeldung im Code.
 
 
 ## Zusammenfassung

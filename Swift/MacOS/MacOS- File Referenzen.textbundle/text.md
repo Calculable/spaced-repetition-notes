@@ -9,7 +9,7 @@
 
 ## URL zu Referenz URL
 
-Funktioniret bis jetzt nur mit NSURL:
+Funktioniert bis jetzt nur mit NSURL:
 
 ```swift
 if let fileRefURL = (url as NSURL).fileReferenceURL() as NSURL? { 

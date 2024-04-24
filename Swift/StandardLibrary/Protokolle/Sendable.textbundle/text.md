@@ -73,6 +73,8 @@ Task { /*Inhalt*/ }  //funktioniert also nur wenn der Inhalt @Sendable ist
 
 > This build setting controls the compiler enforcement level of Sendable and actor-isolation checking.
 
+=\> Mit Swift 6 wird "Complete" verpflichtend
+
 ## Zusammenfassung
 - Wozu wird `Sendable` und `@Sendable` verwendet (nur Konzept)
 

@@ -4,7 +4,7 @@
 Innerhalb eines View Controllers: 
 
 ![][image-1]
-(addChild, addSubview, didMove)
+(addChild, addSubview, didMove, ViewController verschachteln, View Controller verschachteln)
 
 ##  Zusammenfassung
 - Welche 4 Schritte werden benötigt (Inklusive View positionieren mit Constraints)?

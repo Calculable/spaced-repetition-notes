@@ -4,23 +4,21 @@
 ## Anwendungsfall
 **Änderungen des State beobachten**
 
-`didSet` funktioniert nicht, da man damit nicht den Wert sondern den Wrapper beobachtet. Wenn jedoch der Wert mithilfe eines Bindings verändert wird, dann wird `didSet` nicht ausgelöst (Siehe Kapitel Property Wrapper). Stattdessen schreibt man:
+`didSet` funktioniert nicht bei States, da man damit nicht den Wert sondern den Wrapper beobachtet. Wenn jedoch der Wert mithilfe eines Bindings verändert wird, dann wird `didSet` nicht ausgelöst (Siehe Kapitel Property Wrapper). Stattdessen schreibt man:
 
-##  Lösung
+##  Lösung (iOS 17)
+
+Man nimmt entweder keinen Parameter oder zwei Parameter entgegen
 
 ```swift
-XY.onChange(of: blurAmount) { newValue in
-	print("New value is \(newValue)")
+XY.onChange(of: blurAmount) {
+	print("New value is \(blurAmount)")
 }
 ```
 
 (Es wird immer getriggert, egal an welchem Element es hängt)
 
-##  Neuerungen mit iOS 17
 
-- Neu hat das Closure entweder
-	- Keinen Parameter: Man liest die Änderungen direkt aus der gesetzten Variable
-	- Zwei Parameter: Mit dem alten und dem neuen Wert
 
 ```swift
 .onChange(of: name) { oldValue, newValue in
@@ -32,6 +30,17 @@ Mit dem `initial` Flag kann man definieren, dass es auch getriggert wird, wenn d
 
 ```swift
 .onChange(of: name, initial: true) {
+	print("triggered")
+}
+```
+
+
+##  Vor iOS 17
+
+...hatte `onChange` einen Parameter
+
+```swift
+.onChange(of: name, initial: true) { newValue in
 	print("triggered")
 }
 ```

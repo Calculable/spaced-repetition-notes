@@ -22,7 +22,7 @@ convenience init(parameters) {
 }
 ```
 
-Achtung: Bei Structs gibt es keine Convenience Initializers
+**Achtung: Bei Structs gibt es keine Convenience Initializers**
 
 ##  Required Initializers
 

@@ -3,6 +3,7 @@
 
 ## Verhalten
 Mit `fixedSize()` ignoriert eine View die vorgeschlagene Grösse das Parents:
+> Fixes this view at its ideal size in the specified dimensions.
 
 
 ![][image-1]![][image-2]
@@ -43,6 +44,27 @@ Wenn man jetzt allerdings `fixedSize()` auf dem VStack anwendet, dann orientiert
 
 Was geschieht: Man hat die Elemente in einem Container mit der kleinsmöglichen Grösser. Die Elemente selbst nehmen im Container dann die maximale Verfügbare grösse ein
 
+## Weiteres Beispiel
+
+```swift
+HStack {
+    Text("Hello World")
+    Color.red
+}
+.fixedSize(horizontal: false, vertical: true)
+```
+
+![][image-7]
+
+```swift
+HStack {
+    Text("Hello World")
+    Color.red
+}
+```
+
+![][image-8]
+
 ## Zusammenfassung
 - Wozu braucht man den `fixedSize()` modifier?
 - Wie funktioniert der häufige Anwendungsfall mit den Containern?
@@ -55,5 +77,7 @@ Was geschieht: Man hat die Elemente in einem Container mit der kleinsmöglichen 
 [image-4]:	assets/Bildschirm%C2%ADfoto%202023-05-17%20um%2009.50.31.png
 [image-5]:	assets/Bildschirm%C2%ADfoto%202023-05-17%20um%2009.56.06.png
 [image-6]:	assets/Bildschirm%C2%ADfoto%202023-05-17%20um%2009.54.54.png
+[image-7]:	assets/Bildschirmfoto%202024-04-10%20um%2009.25.23.png
+[image-8]:	assets/Bildschirmfoto%202024-04-10%20um%2009.25.57.png
 
 #learning unit#

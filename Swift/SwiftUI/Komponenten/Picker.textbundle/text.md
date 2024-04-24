@@ -29,6 +29,31 @@ Picker("Number of people", selection: $numberOfPeople) {
     }
 ```
 
+## Learning: SwiftUI - Picker mit Optional Selection funktioniert nicht
+🧠
+
+Das Funktioniert nicht:
+
+```swift
+struct ExampleView: View {
+
+    @State var selectedExample: ExampleModel? = nil
+
+    var body: some View {
+
+        Picker("", selection: $selectedExample){
+            //...
+        }
+    }
+}
+```
+
+- Problem: Selection soll nicht ein optional sein
+- Lösung: Default-Wert
+
+```swift
+@State var selectedExample: ExampleModel? = .example
+```
 
 ## Zusammenfassung
 Wie macht man einen Picker?

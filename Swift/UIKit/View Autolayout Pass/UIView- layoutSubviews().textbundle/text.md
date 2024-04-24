@@ -4,8 +4,8 @@
 ## Zweck
 
 - Wird aufgerufen, wenn die Child-Views neu positioniert werden müssen (idr. weil sich das Frame verändert hat oder weil child-views hinzugefügt oder entfernt wurden)
+- Primär für Manuelle Layouts. Die eigene Grösse ist bekannt und jetzt kann man hier die Child-Views positionieren
 - Dies geschieht **Top-Down ** (zuerst Superview und dann subview)
-- Hier kann man Konfigurationen definieren, welche von der Grösse der View abhängen.
 - Für UIController gibt es hingegen `viewWillLayoutSubviews` und `viewDidLayoutSubviews`
 - Meistens muss man das nicht anpassen, ausser man hat sehr komplexe UI's so dass Standart Constraints nicht mehr ausreichen
 
@@ -18,11 +18,10 @@ override func layoutSubviews() {
     super.layoutSubviews()
     containerView.layer.masksToBounds = true
     containerView.layer.cornerRadius = 0.5 * containerView.bounds.width
+	amotherView.frame = ...
 }
 ```
 
-- Wird häufig überschrieben
-- z.B. Wenn Constraints alleine nicht ausreichen für das Layout
 - `super.layoutSubviews()` nicht vergessen!
 
 ## Was sollte man hier nicht aufrufen?

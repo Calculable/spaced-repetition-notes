@@ -6,6 +6,8 @@
 
 ![][image-1]
 
+Beachte: In SwiftUI ist es genauso (Solange alle Elemente eine Intrinsic Content Size haben)
+
 ## Minimal Example
 
 ```swift
