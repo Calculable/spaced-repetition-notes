@@ -20,11 +20,12 @@ private func somePrivateFunction() {}
 
 - Open: Zugriff von anderen Modulen
 - Public: Ausserhalb des Modus kann man es nicht erben oder überschreiben
+- Package: Zugriff innerhalb des Package
 - Internal: (Default) Zugriff innerhalb des Moduls und in den tests
 - File Private: Zugriff innerhalb des gleichen Files
 - Private: Zugriff innerhalb der gleichen Enclosing Declaration
 
 ## Zusammenfassung
-Welche 5 Arten gibt es?
+- Welche Auswirkung haben Open, Public, Package, Internal, File Private und Private
 
-#learning unit#
+#learning unit# #guide

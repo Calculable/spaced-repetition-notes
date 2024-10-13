@@ -1,4 +1,4 @@
-# Learning: await springt in anderen Thread ab 
+# Learning: await springt in anderen Thread ab
 🦘
 
 ##  Beispiel
@@ -42,4 +42,4 @@ Task { @MainActor in
 ## Auswirkung
 - Aus diesem Grund muss man in den meisten Fällen nicht `Task.detached{}` verwenden.
 
-#learning unit#
+#learning unit# #guide

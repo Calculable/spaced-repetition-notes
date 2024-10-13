@@ -18,9 +18,11 @@ for check in 1...number {
 
 - Das ist besonders sinnvoll wenn man sich in einem langen Loop befindet und dem System die Möglichkeit geben möchte, anderen Code auszuführen.
 - Swift kann entscheiden, ob es es im Thread weitermachen will oder einen anderen Thread bevorzugt
+-  yield braucht man nur sehr selten selber weil das idr. einer Library geschieht (z.B. Networking Library)
+
 
 ## Zusammenfassung
 - Wie „suspendet“ man einen Task?
 - Was ist die Auswirkung / der Zweck?
 
-#learning unit#
+#learning unit# #guide

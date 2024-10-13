@@ -71,4 +71,4 @@ Wird auch dann aufgerufen, wenn der Task gerade nicht aktiv am Laufen ist
 - Was bedeutet Cooperative Cancellation? Auf welche drei Arten kann man es implementieren
 - Was gilt für den SwiftUI task() modifier?
 
-#learning unit#
+#learning unit# #guide
